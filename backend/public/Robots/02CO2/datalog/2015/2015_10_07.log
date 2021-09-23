@@ -1,0 +1,163 @@
+Log-file from 2015-10-07
+
+Time      Event
+10:06:09,589 E-Stop	/
+10:06:09,589 Reboot	/
+10:06:09,589 CheckPrgNet	/	
+10:06:09,589 Spray	/	0	
+10:06:10,347 E-Stop	\
+10:06:11,019 WorkDir_CF	/
+10:06:13,837 Reboot	\
+10:06:22,395 mode_T1	/
+10:06:23,941 Import device connected to CF
+10:53:40,231 User	/	4	b+m service
+11:02:48,785 mode_T1	/
+11:02:49,178 mode_Auto	/
+11:02:49,658 mode_AutoExt	/
+11:02:49,716 Servopower	\
+11:02:52,606 mode_Auto	/
+11:06:53,225 mode_T1	/
+11:29:46,804 mode_Auto	/
+11:29:47,817 mode_AutoExt	/
+11:29:48,566 mode_Auto	/
+11:29:49,242 mode_T1	/
+11:30:11,764 mode_T1	/
+11:30:13,324 mode_Auto	/
+11:30:14,524 mode_AutoExt	/
+11:30:15,042 mode_Auto	/
+11:30:15,186 mode_T1	/
+11:40:49,027 E-StopP	/
+12:42:22,013 E-Stop	/
+12:42:22,013 Reboot	/
+12:42:22,013 CheckPrgNet	/	
+12:42:22,013 Spray	/	0	
+11:42:23,424 WorkDir_CF	/
+11:42:26,443 Reboot	\
+11:42:38,664 Import device connected to CF
+11:42:38,885 mode_T1	/
+11:43:04,416 E-Stop	\
+11:43:55,862 User	/	4	b+m service
+11:47:05,573 E-Stop	/
+11:47:22,253 E-Stop	\
+13:16:20,763 E-Stop	/
+13:16:29,653 E-Stop	\
+13:16:31,587 E-Stop	/
+13:16:38,158 E-Stop	\
+13:17:11,638 E-StopC	/
+13:17:11,682 E-Stop	/
+13:17:12,925 E-StopC	\
+13:17:15,349 E-Stop	\
+13:17:17,192 E-StopP	/
+13:17:17,240 E-Stop	/
+13:17:18,570 E-StopP	\
+13:17:19,784 E-Stop	\
+13:17:27,306 mode_Auto	/
+13:17:28,040 mode_AutoExt	/
+13:17:28,962 mode_Auto	/
+13:17:29,086 mode_T1	/
+13:17:31,520 mode_T1	/
+13:17:57,882 mode_T1	/
+13:17:58,285 mode_Auto	/
+13:17:58,755 mode_AutoExt	/
+13:17:59,730 mode_Auto	/
+13:17:59,850 mode_T1	/
+13:18:00,138 mode_T1	/
+13:20:42,172 E-StopC	/
+13:20:42,215 E-Stop	/
+13:20:44,990 E-StopC	\
+13:20:59,270 E-Stop	\
+13:22:28,132 E-Stop	/
+13:22:40,871 E-Stop	\
+13:29:18,993 mode_Auto	/
+13:29:35,802 Door	\
+13:37:05,063 Servopower	/
+13:37:16,382 mode_Auto	/
+13:37:17,260 mode_T1	/
+13:47:02,860 mode_Auto	/
+13:47:38,054 User	\
+13:47:46,554 User	/	4	b+m service
+13:48:09,225 Servopower	/
+13:48:09,854 StartPrg	/
+13:48:10,113 LdInfo	/	9990
+13:48:10,118 MainPrg	/	9990
+13:48:10,161 LdInfo	\	9990
+13:48:13,334 StopPrg	/
+13:48:13,358 MainPrg	\	9990
+
+13:48:35,457 StartPrg	/
+13:48:35,702 LdInfo	/	9990
+13:48:35,706 MainPrg	/	9990
+13:48:35,750 LdInfo	\	9990
+13:49:37,372 StInfo	/	9990
+13:49:37,468 StInfo	\	9990
+13:49:37,516 MainPrg	\	9990
+
+13:49:39,633 Servopower	\
+13:50:16,338 Servopower	/
+13:50:22,794 StartPrg	/
+13:50:23,058 LdInfo	/	9990
+13:50:23,063 MainPrg	/	9990
+13:50:23,106 LdInfo	\	9990
+13:51:04,295 StopPrg	/
+13:51:04,314 MainPrg	\	9990
+
+13:51:07,876 StartPrg	/
+13:51:08,121 LdInfo	/	9990
+13:51:08,126 MainPrg	/	9990
+13:51:08,169 LdInfo	\	9990
+13:51:11,294 StopPrg	/
+13:51:11,318 MainPrg	\	9990
+
+13:51:13,257 Servopower	\
+13:51:24,575 mode_T1	/
+13:52:38,538 mode_Auto	/
+13:52:55,674 StartPrg	/
+13:52:55,934 LdInfo	/	9991
+13:52:55,938 MainPrg	/	9991
+13:52:55,982 LdInfo	\	9991
+13:54:00,916 StInfo	/	9991
+13:54:01,007 StInfo	\	9991
+13:54:01,036 MainPrg	\	9991
+
+13:54:15,854 StartPrg	/
+13:54:16,103 LdInfo	/	9981
+13:54:16,108 MainPrg	/	9981
+13:54:16,151 LdInfo	\	9981
+13:54:49,962 StopPrg	/
+13:54:49,996 MainPrg	\	9981
+
+13:55:26,678 StartPrg	/
+13:55:26,927 LdInfo	/	9999
+13:55:26,932 MainPrg	/	9999
+13:55:26,975 LdInfo	\	9999
+13:55:28,943 StInfo	/	9999
+13:55:29,001 StInfo	\	9999
+13:55:29,034 MainPrg	\	9999
+
+13:55:30,633 Servopower	\
+13:57:59,116 Servopower	/
+13:58:07,756 StartPrg	/
+13:58:08,010 LdInfo	/	9981
+13:58:08,015 MainPrg	/	9981
+13:58:08,058 LdInfo	\	9981
+13:58:26,961 StopPrg	/
+13:58:26,994 MainPrg	\	9981
+
+13:58:29,937 StartPrg	/
+13:58:30,177 LdInfo	/	9981
+13:58:30,182 MainPrg	/	9981
+13:58:30,225 LdInfo	\	9981
+13:58:50,274 StopPrg	/
+13:58:50,294 MainPrg	\	9981
+
+13:59:01,598 mode_T1	/
+14:01:58,200 E-Stop	/
+14:01:58,200 Reboot	/
+14:01:58,200 CheckPrgNet	/	
+14:01:58,200 Spray	/	0	
+14:01:58,219 mode_T1	/
+14:01:59,611 WorkDir_CF	/
+14:02:02,049 E-Stop	\
+14:02:02,428 Reboot	\
+14:02:36,230 Import device connected to CF
+14:11:16,368 User	/	3	admin

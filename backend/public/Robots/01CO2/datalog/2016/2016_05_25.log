@@ -1,0 +1,35 @@
+Log-file from 2016-05-25
+
+Time      Event
+08:12:30,963 User	/	3	admin
+08:17:34,102 admin changed Tool98
+08:17:42,204 admin changed Tool99
+08:22:10,486 admin changed Base offset: dy 1
+08:53:07,476 admin changed Base offset: Rx 0.02
+12:36:54,262 E-Stop	/
+12:36:54,262 Reboot	/
+12:36:54,262 CheckPrgNet	/	
+12:36:54,262 Spray	/	0	
+11:36:55,654 WorkDir_CF	/
+11:36:58,630 Reboot	\
+11:37:05,585 E-Stop	\
+11:37:15,214 mode_T1	/
+11:37:16,352 Import device connected to CF
+13:11:44,262 User	/	3	admin
+13:12:41,982 admin changed Base offset: dz -7
+13:13:21,039 admin changed Base offset: dz -6.5
+14:46:11,464 mode_T2	/
+14:46:29,958 mode_T1	/
+14:46:47,526 mode_Auto	/
+14:47:03,918 Servopower	/
+14:47:09,361 mode_T1	/
+14:47:31,782 mode_AutoExt	/
+14:47:39,078 mode_Auto	/
+14:48:39,102 mode_T1	/
+15:29:40,709 admin changed on axis1 negativ software limitation: -105°
+15:29:43,286 admin changed on axis1 positiv software limitation: 105°
+15:29:44,885 admin changed on axis2 positiv software limitation: 49°
+15:29:46,805 admin changed on axis3 positiv software limitation: 100°
+15:29:49,349 admin changed on axis6 negativ software limitation: -740°
+15:29:51,125 admin changed on axis6 positiv software limitation: 740°
+15:36:03,086 User	\

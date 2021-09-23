@@ -1,0 +1,12 @@
+NameSet1  	= schmal
+NameSet2  	= breit
+;--------------------------------------------------------
+Code   	= 0
+Info   	= Spritzbild dynamisch2
+Modify 	= 2014-07-01
+byUser 	= admin
+Reason 	= file copy
+LastRun	= not availabl
+Caption	=  Speed	  Flow	   LL1	   LL2	Rotat.	Hi-Vot
+Set1   	=    600	150.00	200.00	500.00	25.000	  0.00
+Set2   	=    600	500.00	500.00	350.00	25.000	  0.00

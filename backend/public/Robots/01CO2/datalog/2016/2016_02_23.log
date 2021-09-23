@@ -1,0 +1,13 @@
+Log-file from 2016-02-23
+
+Time      Event
+10:51:22,049 E-Stop	/
+10:51:22,049 Reboot	/
+10:51:22,049 CheckPrgNet	/	
+10:51:22,049 Spray	/	0	
+10:51:23,460 WorkDir_CF	/
+10:51:26,220 Reboot	\
+10:51:37,740 Import device connected to CF
+10:52:14,801 User	/	4	b+m service
+10:53:05,043 E-Stop	\
+10:53:10,707 mode_T1	/

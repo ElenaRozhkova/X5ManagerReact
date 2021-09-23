@@ -1,0 +1,76 @@
+Log-file from 2016-06-23
+
+Time         Event
+09:32:15,505 90201.prg rejected
+09:32:17,405 90202.prg rejected
+09:32:19,305 90203.prg rejected
+09:32:21,206 90204.prg rejected
+09:36:12,415 90201.prg imported
+09:36:14,807 90201.prg compiled
+09:36:17,915 90202.prg imported
+09:36:19,127 90202.prg compiled
+09:36:22,115 90203.prg imported
+09:36:23,287 90203.prg compiled
+09:36:24,715 90204.prg rejected
+09:44:00,997 90201.prg imported
+09:44:02,389 90201.prg compiled
+09:44:05,598 90202.prg imported
+09:44:06,990 90202.prg compiled
+09:45:25,901 90203.prg imported
+09:45:27,193 90203.prg compiled
+09:45:28,601 90204.prg rejected
+09:46:24,603 90204.prg imported
+09:46:25,795 90204.prg compiled
+14:12:11,924 User          / 3 admin
+14:12:31,525 admin changed Base offset: dz -28
+15:45:45,830 admin changed Tool97
+15:46:16,871 admin changed Tool97
+15:46:26,111 admin changed Tool97
+15:46:30,591 admin changed Tool97
+15:46:35,832 admin changed Tool98
+15:46:39,032 admin changed Tool98
+15:46:43,632 admin changed Tool98
+16:01:11,894 90201.prg imported
+16:01:13,226 90201.prg compiled
+16:01:16,394 90202.prg imported
+16:01:17,666 90202.prg compiled
+16:01:20,894 90203.prg imported
+16:01:22,226 90203.prg compiled
+16:01:25,395 90204.prg imported
+16:01:26,667 90204.prg compiled
+16:01:55,196 90201.dat imported
+16:01:58,496 90202.dat imported
+16:02:01,796 90203.dat imported
+16:02:05,096 90204.dat imported
+16:15:23,538 admin changed Base offset: dz -29
+16:54:18,910 mode_T1       /
+16:54:18,910 Reboot        \
+16:54:18,910 CheckPrg      \ 0
+16:54:18,910 Spray         / 0 admin
+16:55:13,913 User          / 3 admin
+16:55:16,713 90201.prg compiled
+16:55:17,713 90202.prg compiled
+16:55:18,753 90203.prg compiled
+16:55:19,753 90204.prg compiled
+16:55:20,793 99899.prg compiled
+16:55:21,793 99900.prg compiled
+16:55:22,833 99909.prg compiled
+16:55:23,833 99910.prg compiled
+16:55:24,873 99911.prg compiled
+16:55:25,873 99912.prg compiled
+16:55:26,873 99914.prg compiled
+16:55:27,874 99915.prg compiled
+16:55:28,874 99916.prg compiled
+16:55:29,874 99919.prg compiled
+16:55:30,874 99920.prg compiled
+16:55:31,874 99923.prg compiled
+16:55:32,874 99924.prg compiled
+16:55:33,874 99930.prg compiled
+16:55:34,874 99931.prg compiled
+16:55:35,914 99932.prg compiled
+16:55:36,954 99933.prg compiled
+16:55:37,994 99934.prg compiled
+16:55:39,034 99980.prg compiled
+16:55:40,034 99990.prg compiled
+16:55:41,034 99991.prg compiled
+19:17:17,136 User          \

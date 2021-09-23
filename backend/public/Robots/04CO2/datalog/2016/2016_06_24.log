@@ -1,0 +1,53 @@
+Log-file from 2016-06-24
+
+Time         Event
+09:39:24,502 User          / 3 admin
+09:39:27,502 admin changed Tool1
+09:39:44,063 admin changed Tool1
+09:39:51,823 admin changed Tool1
+09:39:54,463 admin changed Tool6
+09:39:56,383 admin changed Tool8
+09:40:21,384 admin changed Tool7
+09:40:25,545 admin changed Tool10
+09:40:28,625 admin changed Tool12
+09:40:30,705 admin changed Tool14
+09:40:33,985 admin changed Tool97
+09:40:35,905 admin changed Tool98
+09:40:37,745 admin changed Tool99
+11:22:31,007 User          \
+12:10:48,806 User          / 3 admin
+12:12:01,609 admin changed Tool1
+12:33:24,621 admin changed conveyor settings: entered or calculated new factor 39250
+12:44:07,806 mode_AutoExt  /
+12:44:08,230 Servopower    /
+12:44:08,334 CheckPrg      / 90202
+12:44:08,454 CheckPrg      \ 90202
+12:45:00,132 StartPrg_ext  /
+12:45:00,132 StartPrg ignored, invalid number.
+12:45:00,132 ConvReset     / conv: 0mm.
+12:45:00,708 MainPrg       / 90202
+12:45:00,852 MainPrg       \ 90202 conv: 55.69mm.
+
+12:45:00,856 ConvReset     / conv: 0mm.
+12:45:11,661 mode_Auto     /
+12:45:11,833 mode_T1       /
+12:46:22,727 mode_Auto     /
+12:46:22,939 mode_AutoExt  /
+12:46:23,035 CheckPrg      / 90202
+12:46:23,083 CheckPrg      \ 90202
+12:46:26,575 mode_Auto     /
+12:46:27,048 mode_T1       /
+12:46:37,792 mode_Auto     /
+12:46:37,996 mode_AutoExt  /
+12:46:38,084 CheckPrg      / 90202
+12:46:38,136 CheckPrg      \ 90202
+12:46:46,736 StartPrg_ext  /
+12:46:46,736 StartPrg ignored, invalid number.
+12:46:46,736 ConvReset     / conv: 0mm.
+12:46:47,484 MainPrg       / 90202
+12:48:27,804 mode_Auto     /
+12:48:27,980 mode_T1       /
+12:48:27,980 MainPrg       \ 90202 conv: 3857.77mm.
+
+12:48:27,984 StopPrg       /
+14:27:58,772 User          \

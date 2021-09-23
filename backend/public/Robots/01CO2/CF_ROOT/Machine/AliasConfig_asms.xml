@@ -1,0 +1,1482 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='AliasConfig_asms.xml' changed='2016-07-26-15:50:17'>
+  <section name='Alias-Names: IN'>
+    <assign name='AliasConfiguration_In_Name[0]'>
+      <plc_var>AliasConfiguration.In.Name[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[1]'>
+      <plc_var>AliasConfiguration.In.Name[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[2]'>
+      <plc_var>AliasConfiguration.In.Name[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[3]'>
+      <plc_var>AliasConfiguration.In.Name[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[4]'>
+      <plc_var>AliasConfiguration.In.Name[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[5]'>
+      <plc_var>AliasConfiguration.In.Name[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[6]'>
+      <plc_var>AliasConfiguration.In.Name[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[7]'>
+      <plc_var>AliasConfiguration.In.Name[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[8]'>
+      <plc_var>AliasConfiguration.In.Name[8]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[9]'>
+      <plc_var>AliasConfiguration.In.Name[9]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[10]'>
+      <plc_var>AliasConfiguration.In.Name[10]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[11]'>
+      <plc_var>AliasConfiguration.In.Name[11]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[12]'>
+      <plc_var>AliasConfiguration.In.Name[12]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[13]'>
+      <plc_var>AliasConfiguration.In.Name[13]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[14]'>
+      <plc_var>AliasConfiguration.In.Name[14]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[15]'>
+      <plc_var>AliasConfiguration.In.Name[15]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[16]'>
+      <plc_var>AliasConfiguration.In.Name[16]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[17]'>
+      <plc_var>AliasConfiguration.In.Name[17]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[18]'>
+      <plc_var>AliasConfiguration.In.Name[18]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[19]'>
+      <plc_var>AliasConfiguration.In.Name[19]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[20]'>
+      <plc_var>AliasConfiguration.In.Name[20]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[21]'>
+      <plc_var>AliasConfiguration.In.Name[21]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[22]'>
+      <plc_var>AliasConfiguration.In.Name[22]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_In_Name[23]'>
+      <plc_var>AliasConfiguration.In.Name[23]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Alias-Names: OUT'>
+    <assign name='AliasConfiguration_Out_Name[0]'>
+      <plc_var>AliasConfiguration.Out.Name[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[1]'>
+      <plc_var>AliasConfiguration.Out.Name[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[2]'>
+      <plc_var>AliasConfiguration.Out.Name[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[3]'>
+      <plc_var>AliasConfiguration.Out.Name[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[4]'>
+      <plc_var>AliasConfiguration.Out.Name[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[5]'>
+      <plc_var>AliasConfiguration.Out.Name[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[6]'>
+      <plc_var>AliasConfiguration.Out.Name[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[7]'>
+      <plc_var>AliasConfiguration.Out.Name[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[8]'>
+      <plc_var>AliasConfiguration.Out.Name[8]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[9]'>
+      <plc_var>AliasConfiguration.Out.Name[9]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[10]'>
+      <plc_var>AliasConfiguration.Out.Name[10]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[11]'>
+      <plc_var>AliasConfiguration.Out.Name[11]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[12]'>
+      <plc_var>AliasConfiguration.Out.Name[12]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[13]'>
+      <plc_var>AliasConfiguration.Out.Name[13]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[14]'>
+      <plc_var>AliasConfiguration.Out.Name[14]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[15]'>
+      <plc_var>AliasConfiguration.Out.Name[15]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[16]'>
+      <plc_var>AliasConfiguration.Out.Name[16]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[17]'>
+      <plc_var>AliasConfiguration.Out.Name[17]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[18]'>
+      <plc_var>AliasConfiguration.Out.Name[18]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[19]'>
+      <plc_var>AliasConfiguration.Out.Name[19]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[20]'>
+      <plc_var>AliasConfiguration.Out.Name[20]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[21]'>
+      <plc_var>AliasConfiguration.Out.Name[21]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[22]'>
+      <plc_var>AliasConfiguration.Out.Name[22]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Out_Name[23]'>
+      <plc_var>AliasConfiguration.Out.Name[23]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Alias-Names: BIT'>
+    <assign name='AliasConfiguration_Bit_Name[0]'>
+      <plc_var>AliasConfiguration.Bit.Name[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[1]'>
+      <plc_var>AliasConfiguration.Bit.Name[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[2]'>
+      <plc_var>AliasConfiguration.Bit.Name[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[3]'>
+      <plc_var>AliasConfiguration.Bit.Name[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[4]'>
+      <plc_var>AliasConfiguration.Bit.Name[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[5]'>
+      <plc_var>AliasConfiguration.Bit.Name[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[6]'>
+      <plc_var>AliasConfiguration.Bit.Name[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[7]'>
+      <plc_var>AliasConfiguration.Bit.Name[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[8]'>
+      <plc_var>AliasConfiguration.Bit.Name[8]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[9]'>
+      <plc_var>AliasConfiguration.Bit.Name[9]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[10]'>
+      <plc_var>AliasConfiguration.Bit.Name[10]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[11]'>
+      <plc_var>AliasConfiguration.Bit.Name[11]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[12]'>
+      <plc_var>AliasConfiguration.Bit.Name[12]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[13]'>
+      <plc_var>AliasConfiguration.Bit.Name[13]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[14]'>
+      <plc_var>AliasConfiguration.Bit.Name[14]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[15]'>
+      <plc_var>AliasConfiguration.Bit.Name[15]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[16]'>
+      <plc_var>AliasConfiguration.Bit.Name[16]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[17]'>
+      <plc_var>AliasConfiguration.Bit.Name[17]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[18]'>
+      <plc_var>AliasConfiguration.Bit.Name[18]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[19]'>
+      <plc_var>AliasConfiguration.Bit.Name[19]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[20]'>
+      <plc_var>AliasConfiguration.Bit.Name[20]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[21]'>
+      <plc_var>AliasConfiguration.Bit.Name[21]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[22]'>
+      <plc_var>AliasConfiguration.Bit.Name[22]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[23]'>
+      <plc_var>AliasConfiguration.Bit.Name[23]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[24]'>
+      <plc_var>AliasConfiguration.Bit.Name[24]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[25]'>
+      <plc_var>AliasConfiguration.Bit.Name[25]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[26]'>
+      <plc_var>AliasConfiguration.Bit.Name[26]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[27]'>
+      <plc_var>AliasConfiguration.Bit.Name[27]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[28]'>
+      <plc_var>AliasConfiguration.Bit.Name[28]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[29]'>
+      <plc_var>AliasConfiguration.Bit.Name[29]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[30]'>
+      <plc_var>AliasConfiguration.Bit.Name[30]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Bit_Name[31]'>
+      <plc_var>AliasConfiguration.Bit.Name[31]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Alias-Names: NUM'>
+    <assign name='AliasConfiguration_Num_Name[0]'>
+      <plc_var>AliasConfiguration.Num.Name[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[1]'>
+      <plc_var>AliasConfiguration.Num.Name[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[2]'>
+      <plc_var>AliasConfiguration.Num.Name[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[3]'>
+      <plc_var>AliasConfiguration.Num.Name[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[4]'>
+      <plc_var>AliasConfiguration.Num.Name[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[5]'>
+      <plc_var>AliasConfiguration.Num.Name[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[6]'>
+      <plc_var>AliasConfiguration.Num.Name[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[7]'>
+      <plc_var>AliasConfiguration.Num.Name[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[8]'>
+      <plc_var>AliasConfiguration.Num.Name[8]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[9]'>
+      <plc_var>AliasConfiguration.Num.Name[9]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[10]'>
+      <plc_var>AliasConfiguration.Num.Name[10]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[11]'>
+      <plc_var>AliasConfiguration.Num.Name[11]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[12]'>
+      <plc_var>AliasConfiguration.Num.Name[12]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[13]'>
+      <plc_var>AliasConfiguration.Num.Name[13]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[14]'>
+      <plc_var>AliasConfiguration.Num.Name[14]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[15]'>
+      <plc_var>AliasConfiguration.Num.Name[15]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[16]'>
+      <plc_var>AliasConfiguration.Num.Name[16]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[17]'>
+      <plc_var>AliasConfiguration.Num.Name[17]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[18]'>
+      <plc_var>AliasConfiguration.Num.Name[18]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[19]'>
+      <plc_var>AliasConfiguration.Num.Name[19]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[20]'>
+      <plc_var>AliasConfiguration.Num.Name[20]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[21]'>
+      <plc_var>AliasConfiguration.Num.Name[21]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[22]'>
+      <plc_var>AliasConfiguration.Num.Name[22]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[23]'>
+      <plc_var>AliasConfiguration.Num.Name[23]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[24]'>
+      <plc_var>AliasConfiguration.Num.Name[24]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[25]'>
+      <plc_var>AliasConfiguration.Num.Name[25]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[26]'>
+      <plc_var>AliasConfiguration.Num.Name[26]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[27]'>
+      <plc_var>AliasConfiguration.Num.Name[27]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[28]'>
+      <plc_var>AliasConfiguration.Num.Name[28]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[29]'>
+      <plc_var>AliasConfiguration.Num.Name[29]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[30]'>
+      <plc_var>AliasConfiguration.Num.Name[30]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_Num_Name[31]'>
+      <plc_var>AliasConfiguration.Num.Name[31]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Alias-Names: PROGRAM TYPE'>
+    <assign name='AliasConfiguration_ProgramType_Name[0]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[0]</plc_var>
+      <var_default>'LINKS'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[1]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[1]</plc_var>
+      <var_default>'Rechts'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[2]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[2]</plc_var>
+      <var_default>'Oben'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[3]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[3]</plc_var>
+      <var_default>'Unten'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[4]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[4]</plc_var>
+      <var_default>'LinksV2'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[5]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[5]</plc_var>
+      <var_default>'NormalBetrieb'</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[6]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[7]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[8]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[8]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[9]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[9]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[10]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[10]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[11]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[11]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[12]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[12]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[13]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[13]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[14]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[14]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[15]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[15]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[16]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[16]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[17]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[17]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[18]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[18]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[19]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[19]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[20]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[20]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[21]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[21]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[22]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[22]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[23]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[23]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[24]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[24]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[25]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[25]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[26]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[26]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[27]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[27]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[28]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[28]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[29]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[29]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[30]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[30]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[31]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[31]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[32]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[32]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[33]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[33]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[34]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[34]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[35]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[35]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[36]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[36]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[37]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[37]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[38]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[38]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[39]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[39]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[40]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[40]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[41]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[41]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[42]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[42]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[43]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[43]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[44]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[44]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[45]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[45]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[46]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[46]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[47]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[47]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[48]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[48]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[49]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[49]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[50]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[50]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[51]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[51]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[52]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[52]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[53]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[53]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[54]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[54]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[55]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[55]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[56]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[56]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[57]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[57]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[58]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[58]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[59]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[59]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[60]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[60]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[61]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[61]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[62]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[62]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[63]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[63]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[64]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[64]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[65]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[65]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[66]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[66]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[67]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[67]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[68]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[68]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[69]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[69]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[70]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[70]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[71]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[71]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[72]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[72]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[73]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[73]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[74]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[74]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[75]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[75]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[76]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[76]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[76]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[76]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[78]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[78]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[79]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[79]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[80]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[80]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[81]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[81]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[82]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[82]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[83]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[83]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[84]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[84]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[85]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[85]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[86]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[86]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[87]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[87]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[88]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[88]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[89]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[89]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[90]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[90]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[91]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[91]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[92]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[92]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[93]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[93]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[94]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[94]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[95]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[95]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[96]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[96]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[97]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[97]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[98]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[98]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[99]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[99]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[100]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[100]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[101]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[101]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[102]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[102]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[103]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[103]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[104]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[104]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[105]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[105]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[106]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[106]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[107]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[107]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[108]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[108]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[109]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[109]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[111]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[111]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[112]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[112]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[113]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[113]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[114]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[114]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[115]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[115]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[116]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[116]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[117]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[117]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[118]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[118]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[119]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[119]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[120]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[120]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[121]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[121]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[122]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[122]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[123]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[123]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[124]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[124]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[125]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[125]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[126]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[126]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[127]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[127]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[128]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[128]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[129]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[129]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[130]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[130]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[131]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[131]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[132]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[132]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[133]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[133]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[134]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[134]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[135]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[135]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[136]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[136]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[137]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[137]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[138]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[138]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[139]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[139]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[140]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[140]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[141]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[141]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[142]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[142]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[143]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[143]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[144]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[144]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[145]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[145]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[146]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[146]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[147]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[147]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[148]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[148]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[149]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[149]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[150]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[150]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[151]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[151]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[152]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[152]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[153]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[153]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[154]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[154]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[155]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[155]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[156]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[156]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[157]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[157]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[158]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[158]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[159]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[159]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[160]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[160]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[161]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[161]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[162]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[162]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[163]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[163]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[164]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[164]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[165]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[165]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[166]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[166]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[167]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[167]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[168]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[168]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[169]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[169]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[170]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[170]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[171]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[171]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[172]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[172]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[173]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[173]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[174]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[174]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[175]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[175]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[176]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[176]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[176]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[176]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[178]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[178]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[179]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[179]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[180]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[180]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[181]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[181]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[182]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[182]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[183]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[183]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[184]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[184]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[185]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[185]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[186]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[186]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[187]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[187]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[188]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[188]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[189]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[189]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[190]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[190]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[191]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[191]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[192]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[192]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[193]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[193]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[194]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[194]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[195]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[195]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[196]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[196]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[197]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[197]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[198]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[198]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[199]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[199]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[200]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[200]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[201]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[201]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[202]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[202]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[203]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[203]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[204]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[204]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[205]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[205]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[206]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[206]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[207]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[207]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[208]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[208]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[209]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[209]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[210]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[210]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[211]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[211]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[212]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[212]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[213]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[213]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[214]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[214]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[215]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[215]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[216]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[216]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[217]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[217]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[218]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[218]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[219]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[219]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[220]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[220]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[221]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[221]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[222]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[222]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[223]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[223]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[224]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[224]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[225]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[225]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[226]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[226]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[227]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[227]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[228]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[228]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[229]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[229]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[230]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[230]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[231]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[231]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[232]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[232]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[233]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[233]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[234]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[234]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[235]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[235]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[236]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[236]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[237]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[237]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[238]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[238]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[239]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[239]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[240]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[240]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[241]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[241]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[242]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[242]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[243]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[243]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[244]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[244]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[245]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[245]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[246]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[246]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[247]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[247]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[248]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[248]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[249]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[249]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[250]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[250]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[251]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[251]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[252]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[252]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[253]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[253]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[254]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[254]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='AliasConfiguration_ProgramType_Name[255]'>
+      <plc_var>AliasConfiguration.ProgramType.Name[255]</plc_var>
+      <var_default>':)'</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

@@ -1,0 +1,17 @@
+.header {
+    border-bottom: rgb(201, 198, 198) 2px solid;
+    margin-bottom: 20px;
+}
+.header__icon {
+    width: 20px;
+    height: 20px;
+}
+.header__button {
+    font-size: 0.8em;
+    width: 50px;
+    height: 30px;
+    /* background-color: #ffdb4d;*/
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 0;
+}

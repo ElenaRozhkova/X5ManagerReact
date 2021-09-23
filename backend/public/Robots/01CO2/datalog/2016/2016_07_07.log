@@ -1,0 +1,12 @@
+Log-file from 2016-07-07
+
+Time         Event
+12:14:51,575 E-Stop        /
+18:08:26,930 E-Stop        /
+18:08:26,930 Reboot        \
+18:08:26,930 CheckPrg      \ 0
+18:08:26,930 Spray         / 0 admin
+18:08:31,690 mode_T1       /
+18:34:00,826 E-Stop        \
+18:47:15,781 E-Stop        /
+18:47:28,590 E-Stop        \

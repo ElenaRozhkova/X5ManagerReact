@@ -1,0 +1,72 @@
+Log-file from 2016-07-27
+
+Time         Event
+09:53:31,529 User          / 3 admin
+09:55:15,974 User          \
+10:16:13,235 User          / 3 admin
+10:18:24,622 E-Stop        /
+10:18:52,835 E-Stop        \
+10:19:01,039 mode_T1       /
+10:19:40,449 E-Stop        /
+10:20:08,663 E-Stop        \
+10:20:31,833 mode_T1       /
+11:44:52,299 admin changed Home98
+11:44:54,819 admin changed Home98
+11:44:57,820 admin changed Home98
+11:44:59,820 admin changed Home98
+11:45:02,820 admin changed Home98
+11:45:24,981 admin changed Home98
+11:45:32,701 admin changed Home98
+12:19:35,620 E-Stop        /
+12:19:39,520 admin changed chanal settings brush speed unit
+12:19:41,120 admin changed chanal settings brush speed shortcut
+12:19:42,720 admin changed chanal settings brush speed description
+12:19:44,040 admin changed chanal settings brush speed 
+12:19:46,720 admin changed chanal settings channel2 unit
+12:19:48,800 admin changed chanal settings channel2 shortcut
+12:19:51,000 admin changed chanal settings channel2 description
+12:19:52,801 admin changed chanal settings channel2 
+12:19:55,081 admin changed chanal settings channel3 unit
+12:19:57,081 admin changed chanal settings channel3 shortcut
+12:19:58,961 admin changed chanal settings channel3 description
+12:20:00,521 admin changed chanal settings channel3 
+12:20:07,321 admin changed chanal settings channel4 unit
+12:20:09,481 admin changed chanal settings channel4 shortcut
+12:20:11,201 admin changed chanal settings channel4 description
+12:20:12,841 admin changed chanal settings channel4 
+12:20:19,442 admin changed chanal settings channel4 override: 100
+12:20:22,722 admin changed chanal settings channel3 override: 100
+12:20:27,082 admin changed chanal settings channel2 override: 100
+12:20:39,651 admin stored image to FTP sync device
+12:43:14,052 E-Stop        \
+13:43:12,878 mode_Auto     /
+13:43:13,198 mode_AutoExt  /
+13:43:21,334 mode_Auto     /
+13:43:21,414 mode_T1       /
+13:53:42,896 mode_Auto     /
+13:53:43,116 mode_AutoExt  /
+13:53:45,576 mode_Auto     /
+13:53:45,704 mode_T1       /
+13:59:53,850 User          \
+14:04:10,210 E-Stop        /
+14:04:21,499 E-Stop        \
+14:24:12,152 E-Stop        /
+14:51:46,149 E-Stop        \
+14:53:04,753 E-Stop        /
+14:54:04,479 E-Stop        \
+15:37:43,013 E-Stop        /
+15:39:48,587 E-Stop        \
+15:46:28,162 E-Stop        /
+15:46:40,503 E-Stop        \
+15:50:34,186 E-Stop        /
+15:51:33,560 E-Stop        \
+16:36:00,514 E-Stop        /
+16:38:06,392 E-Stop        \
+16:42:18,160 E-StopP       /
+16:42:18,180 E-Stop        /
+16:42:51,930 E-StopP       \
+16:42:56,994 E-Stop        \
+17:10:50,108 E-Stop        /
+17:12:36,625 E-Stop        \
+18:24:35,941 E-Stop        /
+18:27:09,072 E-Stop        \

@@ -1,0 +1,12 @@
+NameSet1  	= Set 1
+NameSet2  	= Set 1
+;--------------------------------------------------------
+Code   	= 0
+Info   	= Spritzbild dynamisch V1
+Modify 	= 2014-08-06
+byUser 	= admin
+Reason 	= changed Info
+LastRun	= not availabl
+Caption	=  Speed	  Flow	   LL1	   LL2	Rotat.	Hi-Vot
+Set1   	=    600	300.00	400.00	100.00	40.000	 60.00
+Set2   	=    600	300.00	400.00	100.00	40.000	 60.00

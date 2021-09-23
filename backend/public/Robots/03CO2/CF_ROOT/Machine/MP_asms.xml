@@ -1,0 +1,1660 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='MP_asms.xml' changed='2016-07-26-15:53:22'>
+  <section name='TRF Selection'>
+    <assign name='MotionParameter_TRF_Mechanics_MechanicType'>
+      <plc_var>MotionParameter.TRF.Mechanics.MechanicType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TRF Robot Dimension'>
+    <assign name='MotionParameter_TRF_Mechanics_a1y'>
+      <plc_var>MotionParameter.TRF.Mechanics.a1y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a1z'>
+      <plc_var>MotionParameter.TRF.Mechanics.a1z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a2x'>
+      <plc_var>MotionParameter.TRF.Mechanics.a2x</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a2z'>
+      <plc_var>MotionParameter.TRF.Mechanics.a2z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a3y'>
+      <plc_var>MotionParameter.TRF.Mechanics.a3y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a3z'>
+      <plc_var>MotionParameter.TRF.Mechanics.a3z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a4'>
+      <plc_var>MotionParameter.TRF.Mechanics.a4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a4a'>
+      <plc_var>MotionParameter.TRF.Mechanics.a4a</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a5'>
+      <plc_var>MotionParameter.TRF.Mechanics.a5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a5a'>
+      <plc_var>MotionParameter.TRF.Mechanics.a5a</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a5y'>
+      <plc_var>MotionParameter.TRF.Mechanics.a5y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_a6'>
+      <plc_var>MotionParameter.TRF.Mechanics.a6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TRF Axes Coupling'>
+    <assign name='MotionParameter_TRF_Mechanics_AxesCoupling_Q4Q5'>
+      <plc_var>MotionParameter.TRF.Mechanics.AxesCoupling_Q4Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_AxesCoupling_Q4Q6'>
+      <plc_var>MotionParameter.TRF.Mechanics.AxesCoupling_Q4Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_AxesCoupling_Q5Q6'>
+      <plc_var>MotionParameter.TRF.Mechanics.AxesCoupling_Q5Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_MechLinkQ5Q5p'>
+      <plc_var>MotionParameter.TRF.Mechanics.MechLinkQ5Q5p</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TRF Arm diameters'>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_0'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_1'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_2'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_3'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_4'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_diameter_5'>
+      <plc_var>MotionParameter.TRF.Mechanics.diameter[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TRF Properties'>
+    <assign name='MotionParameter_TRF_Mechanics_AnglesType'>
+      <plc_var>MotionParameter.TRF.Mechanics.AnglesType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_AccurancyAngle'>
+      <plc_var>MotionParameter.TRF.Mechanics.AccurancyAngle</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_AccurancyPos'>
+      <plc_var>MotionParameter.TRF.Mechanics.AccurancyPos</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Mechanics_SmoothPath'>
+      <plc_var>MotionParameter.TRF.Mechanics.SmoothPath</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Tool_AnglesType'>
+      <plc_var>MotionParameter.TRF.Tool.AnglesType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TRF Axes Properties'>
+    <assign name='MotionParameter_TRF_Axes_Q1_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q1.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Axes_Q2_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q2.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Axes_Q3_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q3.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Axes_Q4_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q4.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Axes_Q5_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q5.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TRF_Axes_Q6_Property'>
+      <plc_var>MotionParameter.TRF.Axes.Q6.Property</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 1'>
+    <assign name='MotionParameter_Axes_Q1_Simulation'>
+      <plc_var>MotionParameter.Axes.Q1.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q1.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q1.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q1.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q1.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q1.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q1.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q1.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q1.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q1_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q1.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 2'>
+    <assign name='MotionParameter_Axes_Q2_Simulation'>
+      <plc_var>MotionParameter.Axes.Q2.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q2.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q2.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q2.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q2.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q2.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q2.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q2.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q2.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q2_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q2.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 3'>
+    <assign name='MotionParameter_Axes_Q3_Simulation'>
+      <plc_var>MotionParameter.Axes.Q3.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q3.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q3.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q3.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q3.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q3.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q3.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q3.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q3.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q3_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q3.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 4'>
+    <assign name='MotionParameter_Axes_Q4_Simulation'>
+      <plc_var>MotionParameter.Axes.Q4.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q4.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q4.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q4.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q4.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q4.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q4.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q4.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q4.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q4_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q4.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 5'>
+    <assign name='MotionParameter_Axes_Q5_Simulation'>
+      <plc_var>MotionParameter.Axes.Q5.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q5.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q5.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q5.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q5.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q5.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q5.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q5.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q5.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q5_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q5.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS 6'>
+    <assign name='MotionParameter_Axes_Q6_Simulation'>
+      <plc_var>MotionParameter.Axes.Q6.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.Q6.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.Q6.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.Q6.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.Q6.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.Q6.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Q6.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.Q6.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.Q6.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Q6_TempModelMode'>
+      <plc_var>MotionParameter.Axes.Q6.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS L1'>
+    <assign name='MotionParameter_Axes_L1_Simulation'>
+      <plc_var>MotionParameter.Axes.L1.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.L1.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.L1.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.L1.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.L1.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.L1.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.L1.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.L1.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.L1.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.L1.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.L1.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.L1.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.L1.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.L1.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.L1.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L1_TempModelMode'>
+      <plc_var>MotionParameter.Axes.L1.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS L2'>
+    <assign name='MotionParameter_Axes_L2_Simulation'>
+      <plc_var>MotionParameter.Axes.L2.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.L2.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.L2.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.L2.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.L2.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.L2.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.L2.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.L2.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.L2.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.L2.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.L2.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.L2.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.L2.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.L2.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.L2.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L2_TempModelMode'>
+      <plc_var>MotionParameter.Axes.L2.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS L3'>
+    <assign name='MotionParameter_Axes_L3_Simulation'>
+      <plc_var>MotionParameter.Axes.L3.Simulation</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_LagError'>
+      <plc_var>MotionParameter.Axes.L3.Limits.LagError</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_PosSwEnd'>
+      <plc_var>MotionParameter.Axes.L3.Limits.PosSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_NegSwEnd'>
+      <plc_var>MotionParameter.Axes.L3.Limits.NegSwEnd</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_JoltTime'>
+      <plc_var>MotionParameter.Axes.L3.Limits.JoltTime</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_Acceleration'>
+      <plc_var>MotionParameter.Axes.L3.Limits.Acceleration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_Velocity'>
+      <plc_var>MotionParameter.Axes.L3.Limits.Velocity</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Limits_TorqueFactor'>
+      <plc_var>MotionParameter.Axes.L3.Limits.TorqueFactor</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Controller_PositionKv'>
+      <plc_var>MotionParameter.Axes.L3.Controller.PositionKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Controller_PositionTn'>
+      <plc_var>MotionParameter.Axes.L3.Controller.PositionTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Controller_SpeedKv'>
+      <plc_var>MotionParameter.Axes.L3.Controller.SpeedKv</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Controller_SpeedTn'>
+      <plc_var>MotionParameter.Axes.L3.Controller.SpeedTn</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.L3.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Encoder_Units'>
+      <plc_var>MotionParameter.Axes.L3.Encoder.Units</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_Encoder_Revolution'>
+      <plc_var>MotionParameter.Axes.L3.Encoder.Revolution</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_L3_TempModelMode'>
+      <plc_var>MotionParameter.Axes.L3.TempModelMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS Conveyor'>
+    <assign name='MotionParameter_Axes_Conv_Encoder_CountDirection'>
+      <plc_var>MotionParameter.Axes.Conv.Encoder.CountDirection</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_Conv_Encoder_Increment_per_Meter'>
+      <plc_var>MotionParameter.Axes.Conv.Encoder.Increment_per_Meter</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='AXIS Teach Conveyor'>
+    <assign name='MotionParameter_Axes_TeachAxis_AutoReturn'>
+      <plc_var>MotionParameter.Axes.TeachAxis.AutoReturn</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_StopAtPrgEnd'>
+      <plc_var>MotionParameter.Axes.TeachAxis.StopAtPrgEnd</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_BreakAtPrgBreak'>
+      <plc_var>MotionParameter.Axes.TeachAxis.BreakAtPrgBreak</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_UseConvSpeedFromPrg'>
+      <plc_var>MotionParameter.Axes.TeachAxis.UseConvSpeedFromPrg</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_RampDuration'>
+      <plc_var>MotionParameter.Axes.TeachAxis.RampDuration</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_SlowSpeed'>
+      <plc_var>MotionParameter.Axes.TeachAxis.SlowSpeed</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_FastSpeed'>
+      <plc_var>MotionParameter.Axes.TeachAxis.FastSpeed</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Axes_TeachAxis_AutomaticSpeed'>
+      <plc_var>MotionParameter.Axes.TeachAxis.AutomaticSpeed</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='OPTIMIZER Torque'>
+    <assign name='MotionParameter_Optimizer_Torque_Q1'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_Q2'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_Q3'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_Q4'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_Q5'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_Q6'>
+      <plc_var>MotionParameter.Optimizer.Torque.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_L1'>
+      <plc_var>MotionParameter.Optimizer.Torque.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_L2'>
+      <plc_var>MotionParameter.Optimizer.Torque.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Torque_L3'>
+      <plc_var>MotionParameter.Optimizer.Torque.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='OPTIMIZER Jolt Time'>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q1'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q2'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q3'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q4'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q5'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_Q6'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_L1'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_L2'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_JoltTime_L3'>
+      <plc_var>MotionParameter.Optimizer.JoltTime.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='OPTIMIZER Base Parameter'>
+    <assign name='MotionParameter_Optimizer_Base_Par_0'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_1'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_2'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_3'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_4'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_5'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_6'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_7'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_8'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[8]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_9'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[9]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_10'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[10]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_11'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[11]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_12'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[12]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_13'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[13]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_14'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[14]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_15'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[15]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_16'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[16]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_17'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[17]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_18'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[18]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_19'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[19]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_20'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[20]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_21'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[21]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_22'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[22]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_23'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[23]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_24'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[24]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_25'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[25]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_26'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[26]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_27'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[27]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_28'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[28]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_29'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[29]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_30'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[30]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_31'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[31]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_32'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[32]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_33'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[33]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_34'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[34]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_35'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[35]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_36'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[36]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_37'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[37]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_38'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[38]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_39'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[39]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_40'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[40]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_41'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[41]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_42'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[42]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_43'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[43]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_44'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[44]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_45'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[45]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_46'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[46]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_47'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[47]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_48'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[48]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_49'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[49]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_50'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[50]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_51'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[51]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_52'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[52]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_53'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[53]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_54'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[54]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_55'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[55]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_56'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[56]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_57'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[57]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_58'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[58]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_59'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[59]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_60'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[60]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_61'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[61]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_62'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[62]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_63'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[63]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_64'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[64]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_65'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[65]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_66'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[66]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_67'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[67]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_68'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[68]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_69'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[69]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_70'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[70]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_71'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[71]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_72'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[72]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_73'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[73]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_74'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[74]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_75'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[75]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_76'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[76]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_77'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[77]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_78'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[78]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_79'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[79]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_80'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[80]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_81'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[81]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_82'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[82]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_83'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[83]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_84'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[84]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_85'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[85]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_86'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[86]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_87'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[87]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_88'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[88]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_89'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[89]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_90'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[90]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_91'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[91]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_92'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[92]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_93'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[93]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_94'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[94]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_95'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[95]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_96'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[96]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_97'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[97]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_98'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[98]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_99'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[99]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_100'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[100]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_101'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[101]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_102'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[102]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_103'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[103]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_104'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[104]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_105'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[105]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_106'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[106]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_107'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[107]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_Optimizer_Base_Par_108'>
+      <plc_var>MotionParameter.Optimizer.Base.Par[108]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='JOG LIMITS - Fast'>
+    <assign name='MotionParameter_JogLimits_Fast_Q1'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_Q2'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_Q3'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_Q4'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_Q5'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_Q6'>
+      <plc_var>MotionParameter.JogLimits.Fast.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_X'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_Y'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_Z'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_A'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_A</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_B'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_B</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_TCP_C'>
+      <plc_var>MotionParameter.JogLimits.Fast.TCP_C</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_L1'>
+      <plc_var>MotionParameter.JogLimits.Fast.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_L2'>
+      <plc_var>MotionParameter.JogLimits.Fast.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Fast_L3'>
+      <plc_var>MotionParameter.JogLimits.Fast.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='JOG LIMITS - Middle'>
+    <assign name='MotionParameter_JogLimits_Middle_Q1'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_Q2'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_Q3'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_Q4'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_Q5'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_Q6'>
+      <plc_var>MotionParameter.JogLimits.Middle.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_X'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_Y'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_Z'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_A'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_A</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_B'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_B</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_TCP_C'>
+      <plc_var>MotionParameter.JogLimits.Middle.TCP_C</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_L1'>
+      <plc_var>MotionParameter.JogLimits.Middle.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_L2'>
+      <plc_var>MotionParameter.JogLimits.Middle.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Middle_L3'>
+      <plc_var>MotionParameter.JogLimits.Middle.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='JOG LIMITS - Slow'>
+    <assign name='MotionParameter_JogLimits_Slow_Q1'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_Q2'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_Q3'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_Q4'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_Q5'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_Q6'>
+      <plc_var>MotionParameter.JogLimits.Slow.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_X'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_Y'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_Z'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_A'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_A</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_B'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_B</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_TCP_C'>
+      <plc_var>MotionParameter.JogLimits.Slow.TCP_C</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_L1'>
+      <plc_var>MotionParameter.JogLimits.Slow.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_L2'>
+      <plc_var>MotionParameter.JogLimits.Slow.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_JogLimits_Slow_L3'>
+      <plc_var>MotionParameter.JogLimits.Slow.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='TORQUE LIMITS'>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q1</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q2</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q3</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q4'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q4</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q5'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q5</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_Q6'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.Q6</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_L1'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.L1</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_L2'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.L2</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Enable_L3'>
+      <plc_var>MotionParameter.TorqueLimits.Enable.L3</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q4'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q5'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_Q6'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_L1'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_L2'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_Limit_L3'>
+      <plc_var>MotionParameter.TorqueLimits.Limit.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q1</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q2</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q3</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q4'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q4</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q5'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q5</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_Q6'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.Q6</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_L1'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.L1</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_L2'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.L2</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_ToleranceTime_L3'>
+      <plc_var>MotionParameter.TorqueLimits.ToleranceTime.L3</plc_var>
+      <var_default>T#0ms</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q4'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q5'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_Q6'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_L1'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_L2'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NoDelayedOff_L3'>
+      <plc_var>MotionParameter.TorqueLimits.NoDelayedOff.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.PositiveLimitPercent.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.PositiveLimitPercent.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.PositiveLimitPercent.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q1'>
+      <plc_var>MotionParameter.TorqueLimits.NegativeLimitPercent.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q2'>
+      <plc_var>MotionParameter.TorqueLimits.NegativeLimitPercent.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q3'>
+      <plc_var>MotionParameter.TorqueLimits.NegativeLimitPercent.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

@@ -1,0 +1,18 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen möglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schließt die Aufzählungshilfe ab
+; - in Wertezeilen: ein ";" kennzeichnet den Namen, es werden nur ca. xx Zeichen angezeigt
+; - die Gesamtanzahl der Positionen nicht ändern: 8 Räume werden erwartet
+;
+;        Xmin      Xmax      Ymin     Ymax     Zmin     Zmax    	;Anzeigename
+;-----------------------------------------------------------------------------------------
+Cubic1=  1050.00  1100.00 -50.0000  50.0000  233.000  400.000 ;Inside Bellcleaner
+Cubic2=  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000 ;frei
+Cubic3=  750.000  2250.00  1000.00  1700.00  0.00000  1500.00 ;Cuboid 3
+Cubic4=  750.000  2250.00  1000.00  1700.00  1500.00  3000.00 ;Cuboid 4
+Cubic5= -750.000  750.000  1000.00  1700.00  0.00000  1500.00 ;Cuboid 5
+Cubic6= -750.000  750.000  1000.00  1700.00  1500.00  3000.00 ;Cuboid 6
+Cubic7= -2250.00 -750.000  1000.00  1700.00  0.00000  1500.00 ;Cuboid7
+Cubic8= -2250.00 -750.000  1000.00  1700.00  1500.00  3000.00 ;Cuboid 8

@@ -1,0 +1,28 @@
+Log-file from 2016-07-12
+
+Time         Event
+08:51:16,568 E-Stop        /
+12:29:28,761 90201.prg imported
+12:29:30,113 90201.prg compiled
+12:29:33,361 90202.prg imported
+12:29:34,753 90202.prg compiled
+12:29:37,962 90203.prg imported
+12:29:39,234 90203.prg compiled
+12:29:42,462 90204.prg imported
+12:29:43,754 90204.prg compiled
+13:48:47,448 E-Stop        \
+13:51:41,559 User          / 3 admin
+13:51:43,399 admin changed Base offset: dz -9
+14:55:32,930 mode_Auto     /
+14:55:33,070 mode_AutoExt  /
+14:55:37,074 mode_Auto     /
+14:55:37,170 mode_T1       /
+15:01:00,660 E-Stop        /
+15:03:59,728 Reboot        \
+15:03:59,728 CheckPrg      \ 0
+15:03:59,728 Spray         / 0 admin
+15:04:29,390 mode_T1       /
+16:27:37,000 E-Stop        /
+16:28:35,930 E-Stop        \
+16:44:23,005 E-Stop        /
+17:17:55,344 E-Stop        \

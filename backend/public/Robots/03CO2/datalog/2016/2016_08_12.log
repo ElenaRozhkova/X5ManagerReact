@@ -1,0 +1,95 @@
+Log-file from 2016-08-12
+
+Time         Event
+09:33:05,204 20080.dat imported
+09:42:44,690 20080.cs imported
+10:13:11,748 20183.prg imported
+10:13:12,900 20183.prg compiled
+10:17:22,752 User          / 3 admin
+10:18:03,398 CheckPrg      \ 20183
+10:18:14,242 mode_T2       /
+10:18:21,883 BreakPrg      / conv: 1185.71mm.
+10:19:34,105 StopPrg       /
+10:19:43,450 CheckPrg      \ 20183
+10:20:15,091 Spray         \ 0 admin
+10:25:57,544 mode_T1       /
+10:26:09,725 Spray         / 0 admin
+10:26:11,145 Spray         \ 0 admin
+10:26:13,485 Spray         / 0 admin
+10:29:28,427 CheckPrg      \ 20183
+10:31:32,876 CheckPrg      \ 20183
+10:31:39,496 mode_T2       /
+10:35:52,234 StartPrg      / conv: 853mm.
+10:35:52,326 BreakPrg      / conv: 853.01mm.
+10:35:55,046 ContinuePrg   / conv: 853.03mm.
+10:35:55,522 MainPrg       / 20183
+10:36:23,568 BreakPrg      / conv: 1810.18mm.
+10:36:30,928 ContinuePrg   / conv: 1827.47mm.
+10:37:26,902 MainPrg       \ 20183 conv: 3722.56mm.
+
+10:37:33,366 StartPrg      / conv: 3739.98mm.
+10:37:33,442 BreakPrg      / conv: 853.01mm.
+10:37:36,970 ContinuePrg   / conv: 853.03mm.
+10:37:37,450 MainPrg       / 20183
+10:38:19,896 MainPrg       \ 20183 conv: 3717.43mm.
+
+10:42:11,437 StartPrg      / conv: 3786.45mm.
+10:42:11,513 BreakPrg      / conv: 853.01mm.
+10:42:17,725 ContinuePrg   / conv: 853.03mm.
+10:42:18,117 MainPrg       / 20183
+10:42:18,385 BreakPrg      / conv: 860.25mm.
+10:42:19,689 ContinuePrg   / conv: 867.74mm.
+10:42:20,786 BreakPrg      / conv: 888.03mm.
+10:42:22,530 ContinuePrg   / conv: 908.78mm.
+10:43:03,583 MainPrg       \ 20183 conv: 3645.26mm.
+
+10:43:08,579 StartPrg      / conv: 3714.27mm.
+10:43:08,651 BreakPrg      / conv: 853.01mm.
+10:43:10,907 ContinuePrg   / conv: 853.03mm.
+10:43:11,327 MainPrg       / 20183
+10:43:53,777 MainPrg       \ 20183 conv: 3713.6mm.
+
+10:43:56,101 StartPrg      / conv: 3782.62mm.
+10:43:56,173 BreakPrg      / conv: 853.01mm.
+10:43:58,569 ContinuePrg   / conv: 853.03mm.
+10:43:59,029 MainPrg       / 20183
+10:44:41,499 MainPrg       \ 20183 conv: 3717.43mm.
+
+10:44:47,747 StartPrg      / conv: 3786.45mm.
+10:44:47,823 BreakPrg      / conv: 853.01mm.
+10:44:48,831 ContinuePrg   / conv: 853.03mm.
+10:44:49,011 BreakPrg      / conv: 853.55mm.
+10:44:50,251 ContinuePrg   / conv: 854.19mm.
+10:44:50,471 MainPrg       / 20183
+10:45:32,941 MainPrg       \ 20183 conv: 3702.19mm.
+
+10:45:38,873 StartPrg      / conv: 3771.21mm.
+10:45:38,945 BreakPrg      / conv: 853.01mm.
+10:45:41,393 ContinuePrg   / conv: 853.03mm.
+10:45:41,781 MainPrg       / 20183
+10:46:24,247 MainPrg       \ 20183 conv: 3712.51mm.
+
+10:46:32,899 StartPrg      / conv: 3781.53mm.
+10:46:32,971 BreakPrg      / conv: 853.01mm.
+10:46:33,895 ContinuePrg   / conv: 853.03mm.
+10:46:34,315 MainPrg       / 20183
+10:46:34,575 BreakPrg      / conv: 860.7mm.
+10:46:35,907 ContinuePrg   / conv: 868.83mm.
+10:46:36,095 BreakPrg      / conv: 869.4mm.
+10:46:36,939 ContinuePrg   / conv: 870.09mm.
+10:48:00,666 MainPrg       \ 20183 conv: 3713.38mm.
+
+10:48:17,607 StartPrg      / conv: 3730.8mm.
+10:48:17,679 BreakPrg      / conv: 853.01mm.
+10:48:19,199 ContinuePrg   / conv: 853.03mm.
+10:48:19,587 MainPrg       / 20183
+10:49:02,029 MainPrg       \ 20183 conv: 3710.87mm.
+
+10:49:43,790 StartPrg      / conv: 3779.89mm.
+10:49:43,866 BreakPrg      / conv: 853.01mm.
+10:49:47,723 ContinuePrg   / conv: 853.03mm.
+10:49:48,143 MainPrg       / 20183
+10:50:30,562 MainPrg       \ 20183 conv: 3714.15mm.
+
+10:51:01,799 mode_T1       /
+13:34:48,484 User          \

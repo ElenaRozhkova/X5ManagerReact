@@ -1,0 +1,25 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen möglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schließt die Aufzählungshilfe ab
+; - in Wertezeilen: ein ";" kennzeichnet den Namen, es werden nur ca. xx Zeichen angezeigt
+; - die Gesamtanzahl der Positionen nicht ändern: 8 Ebenen werden erwartet
+; - 1..9 bedeutet Achse 1..9
+; - 11 - X-RK
+; - 12 - Y-RK
+; - 13 - Z-RK
+; - 14 - a-RK
+; - 15 - b-RK 
+; - 16 - c-RK
+;-----------------------------------------------------------------------------------------
+;   Achse Vgl Wert   ;Anzeigename
+;-----------------------------------------------------------------------------------------
+Plane1= 12 <  1500.00 ;Sicherheitsbereich
+Plane2= 00 <  0.00000 ;not used
+Plane3= 00 <  0.00000 ;not used
+Plane4= 00 <  0.00000 ;not used
+Plane5= 00 <  0.00000 ;not used
+Plane6= 00 <  0.00000 ;not used
+Plane7= 00 <  0.00000 ;not used
+Plane8= 00 <  0.00000 ;not used

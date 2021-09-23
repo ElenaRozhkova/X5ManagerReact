@@ -1,0 +1,23 @@
+Log-file from 2016-08-08
+
+Time         Event
+10:37:45,194 User          / 3 admin
+10:38:08,234 40000.cs created
+10:38:08,354 40000.prg created
+10:38:26,355 40000.cs copied to code 40010.cs
+10:38:27,635 40000.prg copied to code 40010.prg
+10:38:29,235 40010.prg compiled
+10:39:04,476 42000.cs created
+10:39:04,596 42000.prg created
+10:39:21,556 42000.cs copied to code 42010.cs
+10:39:22,837 42000.prg copied to code 42010.prg
+10:39:24,117 42010.prg compiled
+10:39:43,437 42010.cs copied to code 42020.cs
+10:39:44,717 42010.prg copied to code 42020.prg
+10:39:46,037 42020.prg compiled
+10:39:56,838 42020.cs copied to code 42030.cs
+10:39:58,118 42020.prg copied to code 42030.prg
+10:39:59,358 42030.prg compiled
+12:19:04,988 User          \
+13:48:28,977 E-Stop        /
+14:03:18,257 E-Stop        \

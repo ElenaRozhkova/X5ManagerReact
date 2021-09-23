@@ -1,0 +1,12 @@
+.logo {
+    margin-left: auto;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 100%;
+}
+.logo__bm {
+    width: 200px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}

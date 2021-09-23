@@ -1,0 +1,15 @@
+; Regeln beim Editieren: 
+; - nur Leerzeichen als Trenner verwenden
+; - die Gruppen-Namen z.B. "Filter4=" NICHT ändern !
+; - 0 (Null) bedeutet kein Code
+; - Gruppen-Name max. 20 Zeichen lang
+; - keine weiteren Spalten/Zeilen einfügen oder löschen
+;
+;Code  =    1    2    3    4    5    6    7    8    9   10   11   12   13   14   15 ;Group-Name
+;--------------------------------------------------------------------------------------------------------
+Filter1=   19   44   46   47  146  147    0   41    0    0    0    0    0    0    0 ;GUN and TCP
+Filter2=   15   16   17   34    0    0    0    0    0    0    0    0    0    0    0 ;CONVEYOR
+Filter3=    0   71   85   86   87   88   69    0    0    0    0    0    0    0    0 ;DBK and Color System
+Filter4=   50   51   52   60   61   62   54   53   64   63    0    0    0    0    0 ;ANALOG
+Filter5=   30   31   32   33   34   40    0    0    0    0    0    0    0    0    0 ;SPEEDS 
+Filter6=   79   75   72   73    0    0    0    0    0    0    0    0    0    0    0 ;COMMENTS

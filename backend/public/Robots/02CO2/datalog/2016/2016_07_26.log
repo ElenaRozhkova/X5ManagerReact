@@ -1,0 +1,154 @@
+Log-file from 2016-07-26
+
+Time         Event
+11:18:06,766 mode_AutoExt  /
+11:18:06,894 CheckPrg      / 99900
+11:18:06,946 CheckPrg      \ 99900
+11:18:16,446 CheckPrg      / 90202
+11:18:16,494 CheckPrg      \ 90202
+11:18:22,215 Servopower    \
+11:23:27,508 101.prg imported
+11:23:28,680 101.prg compiled
+11:24:30,922 User          / 3 admin
+11:44:59,685 101.prg imported
+11:45:01,057 101.prg compiled
+11:45:24,702 mode_Auto     /
+11:45:27,378 Servopower    /
+11:45:30,938 CheckPrg      \ 101
+11:45:41,870 StartPrg      / conv: 1654.55mm.
+11:45:42,618 MainPrg       / 101
+11:46:43,336 MainPrg       \ 101 conv: 3790.59mm.
+
+11:46:45,460 mode_AutoExt  /
+11:46:45,532 Servopower    \
+11:46:53,700 Servopower    /
+11:46:53,820 CheckPrg      / 99900
+11:46:53,868 CheckPrg      \ 99900
+11:46:57,420 CheckPrg      / 101
+11:46:57,468 CheckPrg      \ 101
+11:52:21,535 StartPrg_ext  /
+11:52:21,535 StartPrg ignored, invalid number.
+11:52:21,535 ConvReset     / conv: 1654.55mm.
+11:52:22,287 MainPrg       / 101
+11:55:47,121 MainPrg       \ 101 conv: 3569.28mm.
+
+11:55:47,881 mode_T1       /
+11:56:07,942 mode_Auto     /
+11:56:08,826 mode_AutoExt  /
+11:56:08,934 CheckPrg      / 101
+11:56:08,982 CheckPrg      \ 101
+11:56:28,431 StartPrg_ext  /
+11:56:28,431 StartPrg ignored, invalid number.
+11:56:28,431 ConvReset     / conv: 0mm.
+11:56:28,987 MainPrg       / 101
+11:57:23,620 MainPrg       \ 101 conv: 3579.1mm.
+
+11:57:30,873 mode_Auto     /
+11:57:31,028 mode_T1       /
+11:57:41,649 admin changed conveyor settings: entered or calculated new factor 39139
+12:01:32,244 mode_Auto     /
+12:01:32,564 mode_AutoExt  /
+12:01:32,680 CheckPrg      / 101
+12:01:32,800 CheckPrg      \ 101
+12:01:59,650 StartPrg_ext  /
+12:01:59,650 StartPrg ignored, invalid number.
+12:01:59,650 ConvReset     / conv: 0mm.
+12:02:00,374 MainPrg       / 101
+12:02:54,807 MainPrg       \ 101 conv: 3564.87mm.
+
+12:03:00,647 StartPrg_ext  /
+12:03:00,647 StartPrg ignored, invalid number.
+12:03:00,647 ConvReset     / conv: 3mm.
+12:03:04,892 mode_T1       /
+12:03:05,044 mode_T1       /
+12:03:12,816 mode_Auto     /
+12:03:13,128 mode_AutoExt  /
+12:03:13,248 CheckPrg      / 101
+12:03:13,368 CheckPrg      \ 101
+12:03:48,849 ConvReset     / conv: 1mm.
+12:04:01,265 mode_Auto     /
+12:04:01,497 mode_T1       /
+12:04:16,038 mode_Auto     /
+12:04:16,294 mode_AutoExt  /
+12:04:16,398 CheckPrg      / 101
+12:04:16,518 CheckPrg      \ 101
+12:04:31,046 StartPrg_ext  /
+12:04:31,046 StartPrg ignored, invalid number.
+12:04:31,046 ConvReset     / conv: 3mm.
+12:04:31,670 MainPrg       / 101
+12:05:26,308 MainPrg       \ 101 conv: 3600.85mm.
+
+12:05:26,780 mode_T1       /
+12:05:38,552 admin changed conveyor settings: entered or calculated new factor 39172
+12:05:54,633 mode_Auto     /
+12:05:55,089 mode_AutoExt  /
+12:05:55,197 CheckPrg      / 101
+12:05:55,249 CheckPrg      \ 101
+12:06:08,345 StartPrg_ext  /
+12:06:08,345 StartPrg ignored, invalid number.
+12:06:08,345 ConvReset     / conv: 0mm.
+12:06:08,973 MainPrg       / 101
+12:07:03,607 MainPrg       \ 101 conv: 3597.3mm.
+
+12:07:03,975 mode_Auto     /
+12:07:04,187 mode_T1       /
+12:07:23,819 mode_Auto     /
+12:07:24,219 mode_AutoExt  /
+12:07:24,347 CheckPrg      / 101
+12:07:24,395 CheckPrg      \ 101
+12:07:40,348 StartPrg_ext  /
+12:07:40,348 StartPrg ignored, invalid number.
+12:07:40,348 ConvReset     / conv: 0mm.
+12:07:40,984 MainPrg       / 101
+12:08:35,610 MainPrg       \ 101 conv: 3591.88mm.
+
+12:08:35,946 mode_Auto     /
+12:08:36,126 mode_T1       /
+12:40:06,600 User          / 4 b+m service
+14:19:07,978 User          \
+15:30:28,463 99919.prg imported
+15:30:29,915 99919.prg compiled
+15:32:53,966 User          / 3 admin
+15:35:43,211 User          \
+15:36:13,972 User          / 4 b+m service
+15:37:51,155 E-Stop        /
+15:38:19,280 E-Stop        \
+15:38:52,577 mode_T1       /
+15:44:36,842 E-Stop        /
+15:46:12,469 E-Stop        \
+15:50:29,445 b+m service changed on axis1 negativ software limitation: -104°
+15:50:33,765 b+m service changed on axis1 positiv software limitation: 104°
+15:53:58,734 mode_T1       /
+15:53:58,734 Reboot        \
+15:53:58,734 CheckPrg      \ 0
+15:53:58,734 Spray         / 0 admin
+16:02:06,989 User          / 3 admin
+16:48:31,624 E-Stop        /
+16:50:58,965 E-Stop        \
+18:08:07,888 User          \
+18:08:12,825 mode_Auto     /
+18:08:13,253 mode_AutoExt  /
+18:08:13,737 Servopower    /
+18:08:13,869 CheckPrg      / 99900
+18:08:14,021 CheckPrg      \ 99900
+18:08:21,221 CheckPrg      / 101
+18:08:21,333 CheckPrg      \ 101
+18:08:30,069 AckError_ext  /
+
+18:08:40,421 StartPrg_ext  /
+18:08:40,421 StartPrg ignored, invalid number.
+18:08:40,421 ConvReset     / conv: 0mm.
+18:08:41,165 MainPrg       / 101
+18:09:13,186 mode_Auto     /
+18:09:13,602 mode_T1       /
+18:09:13,602 MainPrg       \ 101 conv: 1308.85mm.
+
+18:09:13,606 StopPrg       /
+18:13:22,793 mode_Auto     /
+18:13:23,161 mode_AutoExt  /
+18:13:23,265 CheckPrg      / 101
+18:13:23,317 CheckPrg      \ 101
+18:13:28,770 AckError_ext  /
+
+18:13:55,262 mode_Auto     /
+18:13:55,534 mode_T1       /

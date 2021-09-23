@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='../vals.xsl'?>
+<valuesfile filename='Machine.xml' changed='2016-07-12-13:51:17' asms_file='Machine_asms.xml' asms_chg='2016-07-08-11:56:16'>
+  <section name='Robot name'>
+    <value name='Machine_RobotName'>
+      <val>'++01+RC02'</val>
+    </value>
+  </section>
+  <section name='Additional parameter files'>
+    <value name='Machine_ParameterFileName_MP'>
+      <val>'MP_X5_LL_70'</val>
+    </value>
+    <value name='Machine_ParameterFileName_Workspace'>
+      <val>'Workspace'</val>
+    </value>
+    <value name='Machine_ParameterFileName_RobConfig'>
+      <val>'RobConfig'</val>
+    </value>
+  </section>
+  <section name='Ethernet Parameter EXTERNAL/FTP'>
+    <value name='Machine_EthernetExternal_InaNodeNum'>
+      <val>2</val>
+    </value>
+    <value name='Machine_EthernetExternal_IpAddress'>
+      <val>'10.1.154.2'</val>
+    </value>
+    <value name='Machine_EthernetExternal_SubnetMask'>
+      <val>'255.255.255.0'</val>
+    </value>
+    <value name='Machine_EthernetExternal_ConfigMode'>
+      <val>0</val>
+    </value>
+    <value name='Machine_EthernetExternal_HostName'>
+      <val>'++01+RC02'</val>
+    </value>
+  </section>
+  <section name='Ethernet Parameter Mobile Panel (MP50)'>
+    <value name='Machine_EthernetMP50_InaNodeNum'>
+      <val>0</val>
+    </value>
+    <value name='Machine_EthernetMP50_IpAddress'>
+      <val>'192.168.1.250'</val>
+    </value>
+    <value name='Machine_EthernetMP50_SubnetMask'>
+      <val>'255.255.255.0'</val>
+    </value>
+    <value name='Machine_EthernetMP50_ConfigMode'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Machine alignment correction'>
+    <value name='Machine_AlignmentCorrection_dx'>
+      <val>0</val>
+    </value>
+    <value name='Machine_AlignmentCorrection_dy'>
+      <val>1</val>
+    </value>
+    <value name='Machine_AlignmentCorrection_dz'>
+      <val>-4.5</val>
+    </value>
+    <value name='Machine_AlignmentCorrection_phi'>
+      <val>0.05</val>
+    </value>
+    <value name='Machine_AlignmentCorrection_theta'>
+      <val>0</val>
+    </value>
+    <value name='Machine_AlignmentCorrection_psi'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Conveyor settings'>
+    <value name='Machine_Conveyor_phi'>
+      <val>0</val>
+    </value>
+    <value name='Machine_Conveyor_theta'>
+      <val>0</val>
+    </value>
+    <value name='Machine_Conveyor_psi'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Encoder reference values'>
+    <value name='Machine_EncoderReference_Q1'>
+      <val>3521281</val>
+    </value>
+    <value name='Machine_EncoderReference_Q2'>
+      <val>1116534</val>
+    </value>
+    <value name='Machine_EncoderReference_Q3'>
+      <val>-6864210</val>
+    </value>
+    <value name='Machine_EncoderReference_Q4'>
+      <val>-6800433</val>
+    </value>
+    <value name='Machine_EncoderReference_Q5'>
+      <val>-15590412</val>
+    </value>
+    <value name='Machine_EncoderReference_Q6'>
+      <val>-932052</val>
+    </value>
+    <value name='Machine_EncoderReference_L2'>
+      <val>0</val>
+    </value>
+    <value name='Machine_EncoderReference_L3'>
+      <val>0</val>
+    </value>
+    <value name='Machine_EncoderReference_L1'>
+      <val>0</val>
+    </value>
+  </section>
+</valuesfile>

@@ -1,0 +1,256 @@
+Log-file from 2016-06-23
+
+Time         Event
+08:45:51,134 User          / 3 admin
+08:53:29,772 CheckPrg      \ 99899
+09:09:47,508 CheckPrg      \ 99899
+09:30:07,418 90101.prg rejected
+09:30:09,318 90102.prg rejected
+09:30:11,218 90303.prg rejected
+09:30:37,219 90103.prg rejected
+09:30:39,119 90104.prg rejected
+09:33:41,228 90101.prg imported
+09:33:42,440 90101.prg compiled
+09:33:45,428 90102.prg imported
+09:33:46,640 90102.prg compiled
+09:33:49,629 90303.prg imported
+09:33:50,921 90303.prg compiled
+09:34:15,030 90104.prg rejected
+09:34:42,731 90103.prg imported
+09:34:43,923 90103.prg compiled
+09:39:37,818 90101.prg compiled
+09:39:39,739 90101.prg compiled
+09:39:40,979 90101.prg compiled
+09:40:27,421 90103.prg compiled
+09:40:37,741 90303.prg compiled
+09:40:39,741 90303.prg compiled
+09:40:43,622 90102.prg compiled
+09:40:48,502 90101.prg compiled
+09:55:03,865 mode_T1       /
+09:55:03,865 Reboot        \
+09:55:03,865 CheckPrg      \ 0
+09:55:03,865 Spray         / 0 admin
+09:55:49,015 90201.dat rejected
+09:55:49,915 90202.dat rejected
+09:55:50,815 90203.dat rejected
+09:55:51,715 90204.dat rejected
+09:56:46,470 User          / 3 admin
+10:08:29,811 90101.dat imported
+10:08:33,111 90102.dat imported
+10:08:56,412 90104.dat rejected
+10:30:36,150 admin changed Tool98
+10:30:39,950 admin changed Tool98
+10:30:44,070 admin changed Tool98
+10:37:59,499 CheckPrg      \ 90303
+10:40:21,071 mode_Auto     /
+10:40:26,948 CheckPrg      \ 90101
+10:40:34,876 Servopower    /
+10:40:37,936 mode_T1       /
+10:40:51,929 mode_Auto     /
+10:40:54,385 CheckPrg      \ 90101
+10:41:15,930 StartPrg      / conv: 2000mm.
+10:41:16,630 MainPrg       / 90101
+10:41:16,722 MainPrg       \ 90101 conv: 2009mm.
+
+10:41:19,574 Servopower    \
+10:41:55,984 admin changed conveyor settings: rotation about Z-Axis by 180°: 180°
+10:42:00,352 mode_Auto     /
+10:42:03,080 Servopower    /
+10:42:13,977 StartPrg      / conv: 2086.1mm.
+10:42:14,805 MainPrg       / 90101
+10:42:56,739 StopPrg       /
+10:42:56,759 MainPrg       \ 90101 conv: 3442.99mm.
+
+10:42:58,243 Servopower    \
+10:43:46,473 mode_T1       /
+10:43:46,597 mode_T1       /
+10:45:18,778 mode_Auto     /
+10:45:26,458 StartPrg      / conv: 3459.87mm.
+10:45:27,182 MainPrg       / 90101
+10:45:39,159 mode_T1       /
+10:45:39,159 MainPrg       \ 90101 conv: 2253.26mm.
+
+10:45:39,163 StopPrg       /
+10:46:10,424 mode_T1       /
+10:46:10,596 mode_T1       /
+10:46:13,676 StopPrg       /
+10:46:28,053 mode_Auto     /
+10:46:35,153 StartPrg      / conv: 0mm.
+10:46:35,845 MainPrg       / 90101
+10:47:25,484 StopPrg       /
+10:47:25,508 MainPrg       \ 90101 conv: 2602.68mm.
+
+10:47:26,624 mode_T1       /
+10:47:43,777 CheckPrg      \ 90101
+10:48:11,366 CheckPrg      \ 90101
+10:48:11,578 mode_Auto     /
+10:48:21,203 StartPrg      / conv: 2000mm.
+10:48:22,027 MainPrg       / 90101
+10:48:28,567 StopPrg       /
+10:48:28,591 MainPrg       \ 90101 conv: 2233.77mm.
+
+10:48:30,219 mode_T1       /
+10:49:54,353 mode_Auto     /
+10:50:00,417 Servopower    /
+10:50:09,110 StartPrg      / conv: 1500mm.
+10:50:09,790 MainPrg       / 90101
+10:50:15,706 StopPrg       /
+10:50:15,726 MainPrg       \ 90101 conv: 1880.34mm.
+
+10:50:17,802 mode_T1       /
+10:50:57,516 mode_Auto     /
+10:51:04,824 StartPrg      / conv: 580mm.
+10:51:05,493 MainPrg       / 90101
+10:51:13,673 StopPrg       /
+10:51:13,697 MainPrg       \ 90101 conv: 1114.5mm.
+
+10:51:34,386 mode_T1       /
+10:51:47,063 CheckPrg      \ 90102
+10:51:50,151 mode_Auto     /
+10:52:15,928 CheckPrg      \ 90101
+10:52:19,600 StartPrg      / conv: 0mm.
+10:52:20,320 MainPrg       / 90101
+10:52:57,630 MainPrg       \ 90101 conv: 2281.24mm.
+
+10:53:11,555 CheckPrg      \ 90101
+10:53:12,055 StartPrg      / conv: 2350.26mm.
+10:53:12,695 MainPrg       / 90101
+10:54:00,833 MainPrg       \ 90101 conv: 3261.28mm.
+
+10:54:02,909 Servopower    \
+10:54:03,373 Servopower    /
+10:55:21,081 CheckPrg      \ 90101
+10:55:22,273 CheckPrg      \ 90101
+10:55:24,269 StartPrg      / conv: 3330.29mm.
+10:55:24,909 MainPrg       / 90101
+10:56:20,744 MainPrg       \ 90101 conv: 3787.17mm.
+
+10:56:31,244 CheckPrg      \ 90101
+10:56:31,896 StartPrg      / conv: 3856.19mm.
+10:56:32,600 MainPrg       / 90101
+10:57:35,947 MainPrg       \ 90101 conv: 4304.86mm.
+
+10:57:38,024 Servopower    \
+10:57:38,352 mode_T1       /
+11:28:52,244 mode_Auto     /
+11:29:27,658 CheckPrg      \ 90102
+11:29:28,450 CheckPrg      \ 90102
+11:29:29,666 Servopower    /
+11:29:33,322 StartPrg      / conv: 4373.88mm.
+11:29:34,018 MainPrg       / 90102
+11:31:06,427 MainPrg       \ 90102 conv: 4298.17mm.
+
+11:32:08,622 CheckPrg      \ 90102
+11:32:40,687 CheckPrg      \ 90103
+11:32:43,568 StartPrg      / conv: 4367.18mm.
+11:32:44,400 MainPrg       / 90103
+11:34:50,903 MainPrg       \ 90103 conv: 4332.95mm.
+
+11:35:33,365 Servopower    \
+11:35:33,953 CheckPrg      \ 90103
+11:35:57,406 CheckPrg      \ 90102
+11:35:59,190 Servopower    /
+11:36:02,190 StartPrg      / conv: 4350.37mm.
+11:36:02,906 MainPrg       / 90102
+11:37:33,311 MainPrg       \ 90102 conv: 4867.52mm.
+
+11:37:35,387 Servopower    \
+11:37:35,851 Servopower    /
+11:37:37,331 Servopower    \
+11:38:09,760 CheckPrg      \ 90303
+11:38:10,572 CheckPrg      \ 90303
+11:38:11,500 Servopower    /
+11:38:16,353 StartPrg      / conv: 4936.54mm.
+11:38:17,005 MainPrg       / 90303
+11:40:07,614 MainPrg       \ 90303 conv: 4342.99mm.
+
+11:40:09,690 Servopower    \
+11:40:10,154 Servopower    /
+11:40:10,658 Servopower    \
+11:46:08,757 mode_T1       /
+11:48:20,679 mode_Auto     /
+11:48:26,483 CheckPrg      \ 90101
+11:48:28,307 Servopower    /
+11:48:31,488 StartPrg      / conv: 4412.01mm.
+11:48:32,176 MainPrg       / 90101
+11:49:35,459 MainPrg       \ 90101 conv: 4299.4mm.
+
+11:49:37,535 Servopower    \
+11:50:18,877 mode_T1       /
+11:51:54,045 CheckPrg      \ 90102
+11:52:01,614 mode_Auto     /
+11:52:03,470 StartPrg      / conv: 4368.41mm.
+11:52:04,078 MainPrg       / 90102
+11:53:10,397 MainPrg       \ 90102 conv: 4863.88mm.
+
+11:53:14,857 Servopower    \
+11:53:57,931 CheckPrg      \ 90103
+11:53:59,523 Servopower    /
+11:54:04,636 StartPrg      / conv: 4932.9mm.
+11:54:05,284 MainPrg       / 90103
+11:55:09,203 MainPrg       \ 90103 conv: 4340.4mm.
+
+11:55:11,279 Servopower    \
+11:55:47,779 Servopower    /
+11:55:56,495 CheckPrg      \ 90303
+11:55:58,287 StartPrg      / conv: 4409.41mm.
+11:55:59,059 MainPrg       / 90303
+11:57:02,890 MainPrg       \ 90303 conv: 4342.58mm.
+
+11:57:04,966 Servopower    \
+11:58:44,203 mode_T1       /
+11:58:49,980 CheckPrg      \ 90102
+11:58:55,180 90303.prg deleted
+12:01:15,055 90104.prg imported
+12:01:16,267 90104.prg compiled
+12:01:59,725 CheckPrg      \ 90104
+12:02:01,065 mode_Auto     /
+12:02:25,594 mode_T1       /
+12:03:13,144 mode_Auto     /
+12:03:13,964 CheckPrg      \ 90104
+12:03:18,497 Servopower    /
+12:03:24,797 StartPrg      / conv: 4411.6mm.
+12:03:25,509 MainPrg       / 90104
+12:05:31,347 MainPrg       \ 90104 conv: 4304.8mm.
+
+12:05:32,415 Servopower    \
+12:06:12,045 mode_T1       /
+14:05:48,645 admin changed Base offset: dz -26.5
+14:17:52,002 admin changed Tool97
+14:18:04,163 admin changed Tool98
+14:18:20,804 admin changed Tool97
+14:18:29,445 admin changed Tool97
+14:18:36,885 admin changed Tool97
+14:18:45,686 admin changed Tool97
+14:36:50,147 CheckPrg      \ 90102
+16:14:02,571 mode_T1       /
+16:14:02,571 Reboot        \
+16:14:02,571 CheckPrg      \ 0
+16:14:02,571 Spray         / 0 admin
+16:15:14,095 User          / 3 admin
+16:15:17,255 90101.prg compiled
+16:15:18,335 90102.prg compiled
+16:15:19,415 90103.prg compiled
+16:15:20,455 90104.prg compiled
+16:15:21,495 99899.prg compiled
+16:15:22,615 99900.prg compiled
+16:15:23,695 99909.prg compiled
+16:15:24,775 99910.prg compiled
+16:15:25,855 99911.prg compiled
+16:15:26,935 99912.prg compiled
+16:15:28,055 99914.prg compiled
+16:15:29,135 99915.prg compiled
+16:15:30,135 99916.prg compiled
+16:15:31,175 99919.prg compiled
+16:15:32,216 99920.prg compiled
+16:15:33,256 99923.prg compiled
+16:15:34,296 99924.prg compiled
+16:15:35,336 99930.prg compiled
+16:15:36,376 99931.prg compiled
+16:15:37,416 99932.prg compiled
+16:15:38,536 99933.prg compiled
+16:15:39,616 99934.prg compiled
+16:15:40,736 99980.prg compiled
+16:15:41,776 99990.prg compiled
+16:15:42,776 99991.prg compiled
+19:17:40,753 User          \

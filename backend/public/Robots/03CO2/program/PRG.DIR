@@ -1,0 +1,41 @@
+    1 test
+  101 DUESENTEST
+20080 F55/56 CooperS HSP
+20130 Import 2016-06-30
+20143 Import 2016-07-18
+20183 f39 rpt test
+40000 VW 536 HSP Oberschale
+40010 VW 536 HSP Unterteil
+42000 PAG 536 LDM vorne links
+42010 PAG 536 LDM vorne rechts
+42020 PAG 536 LDM hinten links
+42030 PAG 536 LDM hinten rechts
+42040 Import 2016-08-03
+50010 Honda_Mid-Spoiler
+90101 PositionMP1_Z_vorne
+90102 PositionMP Mitte Skid
+90103 PositionMP1und3
+90104 PositionMP2_XYZ
+90303 Import 2016-06-23
+99899 Foerderer
+99900 Home 1 Leerfahrt
+99909 Tool Service
+99910 Wochenendposition
+99911 CO² Düsentest
+99912 Wartungsposition
+99914 Kabine Reinigungsposition
+99915 Referenzposition
+99916 Wartungsposition
+99919 Tool Kontrollposition
+99920 Masterposition
+99923 Co²/HV Prüfen in Automatik
+99924 Co²/HV Prüfposition
+99930 Rehau Reserve 1
+99931 Rehau Reserve 2
+99932 Rehau Reserve 3
+99933 Rehau Reserve 4
+99934 Rehau Reserve 5
+99980 Home 1 Fahrt
+99990 Synchronisation Spitze
+99991 Synchronisation Laser
+99995 Drehmomentmessung A1-A6

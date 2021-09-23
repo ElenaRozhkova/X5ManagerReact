@@ -1,0 +1,42 @@
+Log-file from 2016-08-03
+
+Time         Event
+09:01:35,771 101.prg rejected
+09:01:38,571 101.cs imported
+09:04:07,340 101.prg imported
+09:04:08,712 101.prg compiled
+09:23:20,552 mode_Auto     /
+09:23:21,292 mode_T1       /
+09:23:41,801 User          / 3 admin
+09:23:43,525 CheckPrg      \ 99899
+09:24:04,886 mode_T2       /
+09:24:28,366 CheckPrg      \ 101
+09:24:37,686 StartPrg      / conv: 8196.59mm.
+09:24:37,774 BreakPrg      / conv: 0.01mm.
+09:24:38,614 ContinuePrg   / conv: 0.03mm.
+09:24:39,062 MainPrg       / 101
+09:24:39,122 LdCs          \ 101
+09:24:43,494 BreakPrg      / conv: 149.48mm.
+09:24:47,655 ContinuePrg   / conv: 166.77mm.
+09:25:35,060 MainPrg       \ 101 conv: 3337.3mm.
+
+09:25:39,676 mode_T1       /
+09:25:40,052 mode_T1       /
+10:13:24,179 42040.prg imported
+10:13:25,331 42040.prg compiled
+10:57:48,930 CheckPrg      \ 42040
+10:58:05,279 mode_T2       /
+10:58:33,228 StartPrg      / conv: 1118mm.
+10:58:33,304 BreakPrg      / conv: 1118.01mm.
+11:01:44,515 ContinuePrg   / conv: 1118.04mm.
+11:01:45,023 MainPrg       / 42040
+11:02:50,222 MainPrg       \ 42040 conv: 3345.5mm.
+
+11:02:54,406 StartPrg      / conv: 3362.92mm.
+11:02:54,482 BreakPrg      / conv: 1118.01mm.
+11:02:55,618 ContinuePrg   / conv: 1118.04mm.
+11:02:56,006 MainPrg       / 42040
+11:03:28,950 MainPrg       \ 42040 conv: 3331.9mm.
+
+11:09:06,399 mode_T1       /
+12:42:30,034 User          \

@@ -1,0 +1,139 @@
+Log-file from 2016-08-17
+
+Time         Event
+08:36:46,500 mode_AutoExt  /
+08:36:58,732 Servopower    /
+08:36:58,848 CheckPrg      / 99900
+08:36:58,976 CheckPrg      \ 99900
+08:40:26,705 Door          \
+08:40:40,726 AckError_ext  /
+
+08:42:11,662 AckError_ext  /
+
+08:42:13,762 AckError_ext  /
+
+08:43:46,699 AckError_ext  /
+
+08:44:45,838 AckError_ext  /
+
+08:45:10,735 AckError_ext  /
+
+08:45:21,235 AckError_ext  /
+
+08:45:59,229 AckError_ext  /
+
+08:46:17,978 AckError_ext  /
+
+08:48:34,857 AckError_ext  /
+
+08:48:36,457 AckError_ext  /
+
+08:54:05,968 AckError_ext  /
+
+08:54:37,913 AckError_ext  /
+
+08:55:51,405 AckError_ext  /
+
+08:56:25,598 CheckPrg      / 20080
+08:56:25,746 CheckPrg      \ -20080
+08:56:25,998 CheckPrg      / 20080
+08:56:26,274 CheckPrg      \ -20080
+08:56:34,663 CheckPrg      \ 99900
+08:58:07,231 CheckPrg      / 20080
+08:58:07,399 CheckPrg      \ 20080
+09:00:52,979 42000.prg imported
+09:00:54,391 42000.prg compiled
+09:01:03,108 CheckPrg      / 20080
+09:01:03,280 CheckPrg      \ 20080
+09:02:48,044 42010.prg imported
+09:02:49,436 42010.prg compiled
+09:03:21,397 StartPrg_ext  /
+09:03:21,397 StartPrg ignored, invalid number.
+09:03:21,397 ConvReset     / conv: 2800.59mm.
+09:03:22,165 MainPrg       / 20080
+09:03:22,229 LdCs          \ 20080
+09:03:56,195 MainPrg       \ 20080 conv: 3402.68mm.
+
+09:05:31,728 AckError_ext  /
+
+09:08:34,104 AckError_ext  /
+
+09:09:33,443 AckError_ext  /
+
+09:25:41,498 User          / 3 admin
+09:29:40,289 AckError_ext  /
+
+09:29:41,937 AckError_ext  /
+
+09:29:44,285 AckError_ext  /
+
+09:29:57,986 AckError_ext  /
+
+09:30:30,331 AckError_ext  /
+
+09:30:45,080 AckError_ext  /
+
+09:32:39,110 StartPrg_ext  /
+09:32:39,110 StartPrg ignored, invalid number.
+09:32:39,110 ConvReset     / conv: 1011mm.
+09:34:14,102 CheckPrg      / 20080
+09:34:14,266 CheckPrg      \ 20080
+09:34:15,354 StartPrg_ext  /
+09:34:15,354 StartPrg ignored, invalid number.
+09:34:15,354 ConvReset     / conv: 1011mm.
+09:34:16,082 MainPrg       / 20080
+09:34:16,150 LdCs          \ 20080
+09:34:50,092 MainPrg       \ 20080 conv: 3396.61mm.
+
+09:35:17,693 AckError_ext  /
+
+09:36:10,788 AckError_ext  /
+
+09:41:24,843 AckError_ext  /
+
+09:41:40,140 AckError_ext  /
+
+09:41:44,392 AckError_ext  /
+
+09:41:47,788 AckError_ext  /
+
+09:48:39,590 AckError_ext  /
+
+09:49:59,526 AckError_ext  /
+
+09:50:04,126 AckError_ext  /
+
+09:53:20,399 AckError_ext  /
+
+10:13:12,242 AckError_ext  /
+
+10:28:15,205 mode_Auto     /
+10:28:15,249 mode_T1       /
+10:28:15,605 mode_T1       /
+11:36:46,047 mode_Auto     /
+11:36:46,207 mode_AutoExt  /
+11:36:46,319 CheckPrg      / 20080
+11:36:46,499 CheckPrg      \ 20080
+11:39:20,346 AckError_ext  /
+
+12:07:38,518 User          \
+12:22:23,254 AckError_ext  /
+
+12:22:25,003 AckError_ext  /
+
+12:24:08,040 AckError_ext  /
+
+12:56:45,876 AckError_ext  /
+
+12:58:37,809 AckError_ext  /
+
+14:05:16,572 AckError_ext  /
+
+14:05:40,869 AckError_ext  /
+
+14:06:09,214 AckError_ext  /
+
+14:14:34,101 AckError_ext  /
+
+14:14:37,901 AckError_ext  /
+

@@ -1,0 +1,20 @@
+; Regeln beim Editieren: 
+; - nur Leerzeichen als Trenner verwenden
+; - die Group-Namen z.B. "Group4=" NICHT ändern !
+; - 0 (Null) bedeutet kein Code - Leerzeile!
+; - Group-Name max. 20 Zeichen lang
+; - keine weiteren Spalten einfügen
+; - 
+;Code =    1    2    3    4    5    6    7    8    9   10   11   12   13   14 ;Group-Name
+;----------------------------------------------------------------------------------------------
+Group0=   79   44   83   33   30   70   32   71   24   75   40   86   80   17 ;USER DEFAULT
+Group1=   79    0   75    0   80    0   17    0   72   73    0    0    0    0 ;GENERAL
+Group2=   44    0   83   84    0   32    0   19   45    0    0   41    0    0 ;TOOL
+Group3=   33    0   30   31    0   40    0   34    0    0    0    0    0    0 ;SPEED
+Group4=   85   86    0    0    0   71   69    0   50   51   52   53   54    0 ;DBK
+Group5=   92   93   94    0    6    7    0   11    0   14   42   16    0    0 ;IN / OUT / WAIT
+Group6=   91    5    0   13   10    0   87   88   15    0   57   58   59    0 ;QUERY
+Group7=   20   46   47    0   21   22    0   23    0   24    0   26    0    0 ;MOVE 
+Group8=  120  146  147    0  122    0  123   23    0    0    0    0    0    0 ;SPEED-MOVE 
+Group9=   60   61   62   63   64    0   38    0   35   36    0   40   37    0 ;OVERRIDES
+Group10=  79    0    0    0    0    0    0    0    0    0    0    0    0    0 ;MISC

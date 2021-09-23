@@ -1,0 +1,438 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='../vals.xsl'?>
+<valuesfile filename='ErrTime.xml' changed='2015-09-22-09:01:31' asms_file='DatalogSettingsV2_asms.xml' asms_chg='2015-09-22-08:43:46'>
+  <section name='Index of dropdownboxes (USINT)'>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_0'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_1'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_2'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_3'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_4'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_5'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos1_7'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_0'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_1'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_2'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_3'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_4'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_5'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos2_7'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_0'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_1'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_2'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_3'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_4'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_5'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexVarCombos3_7'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Index of condition dropdownboxes (USINT)'>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_0'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_1'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_2'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_3'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_4'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_5'>
+      <val>5</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_IndexConditionCombos_7'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Control datapoints of visu elements: dropdown (UINT)'>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_0'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_1'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_2'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_3'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_4'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_5'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_7'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_0'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_1'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_2'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_3'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_4'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_5'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_7'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_0'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_1'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_2'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_3'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_4'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_5'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_6'>
+      <val>16384</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_7'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Control datapoints of visu elements: textfields (UINT)'>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_0'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_1'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_2'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_3'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_4'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_5'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_6'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_7'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_0'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_1'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_2'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_3'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_4'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_5'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_6'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_7'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_0'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_1'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_2'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_3'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_4'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_5'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_6'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_7'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_0'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_1'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_2'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_3'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_4'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_5'>
+      <val>1</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_6'>
+      <val>0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_7'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Selection between self defined and dropdown variables (BOOL)'>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_0'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_1'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_2'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_3'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_4'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_5'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_6'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar1_7'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_0'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_1'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_2'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_3'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_4'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_5'>
+      <val>FALSE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_6'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar2_7'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_0'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_1'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_2'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_3'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_4'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_5'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_6'>
+      <val>TRUE</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_SelectVar3_7'>
+      <val>TRUE</val>
+    </value>
+  </section>
+  <section name='Self defined variables1 (STRING[100])'>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[0]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[1]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[2]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[3]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[4]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[5]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[6]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings1[7]'>
+      <val>''</val>
+    </value>
+  </section>
+  <section name='Self defined variables2 (STRING[100])'>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[0]'>
+      <val>'CncCtrl[0].Output.State.Moving'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[1]'>
+      <val>'CncCtrl[0].Output.State.Errorstop'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[2]'>
+      <val>'RobControlInterface.Output.RobStatus.Error_Warnings.NoPlbError'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[3]'>
+      <val>'RobControlInterface.Output.RobStatus.Error_Warnings.NoRobError'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[4]'>
+      <val>'Gateway.Output.Signals.RobOut[1]'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[5]'>
+      <val>'Gateway.Output.Status.Prg'</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[6]'>
+      <val>''</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_VarStrings2[7]'>
+      <val>''</val>
+    </value>
+  </section>
+  <section name='Trigger values (LREAL)'>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_0'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_1'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_2'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_3'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_4'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_5'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_6'>
+      <val>0.0</val>
+    </value>
+    <value name='DatalogPattern_Input_VISU_TriggerValue_7'>
+      <val>0.0</val>
+    </value>
+  </section>
+  <section name='Autolog after reboot of controller (BOOL)'>
+    <value name='DatalogPattern_Input_VISU_AutoLog'>
+      <val>FALSE</val>
+    </value>
+  </section>
+  <section name='Samplerate log in ms (REAL)'>
+    <value name='DatalogPattern_Input_DataLogger_LogInfo_SampleRate'>
+      <val>2.4</val>
+    </value>
+  </section>
+</valuesfile>

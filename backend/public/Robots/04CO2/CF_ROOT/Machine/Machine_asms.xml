@@ -1,0 +1,142 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='Machine_asms.xml' changed='2016-07-26-15:54:06'>
+  <section name='Robot name'>
+    <assign name='Machine_RobotName'>
+      <plc_var>Machine.RobotName</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Additional parameter files'>
+    <assign name='Machine_ParameterFileName_MP'>
+      <plc_var>Machine.ParameterFileName.MP</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_ParameterFileName_Workspace'>
+      <plc_var>Machine.ParameterFileName.Workspace</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_ParameterFileName_RobConfig'>
+      <plc_var>Machine.ParameterFileName.RobConfig</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Ethernet Parameter EXTERNAL/FTP'>
+    <assign name='Machine_EthernetExternal_InaNodeNum'>
+      <plc_var>Machine.EthernetExternal.InaNodeNum</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EthernetExternal_IpAddress'>
+      <plc_var>Machine.EthernetExternal.IpAddress</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_EthernetExternal_SubnetMask'>
+      <plc_var>Machine.EthernetExternal.SubnetMask</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_EthernetExternal_ConfigMode'>
+      <plc_var>Machine.EthernetExternal.ConfigMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EthernetExternal_HostName'>
+      <plc_var>Machine.EthernetExternal.HostName</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Ethernet Parameter Mobile Panel (MP50)'>
+    <assign name='Machine_EthernetMP50_InaNodeNum'>
+      <plc_var>Machine.EthernetMP50.InaNodeNum</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EthernetMP50_IpAddress'>
+      <plc_var>Machine.EthernetMP50.IpAddress</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_EthernetMP50_SubnetMask'>
+      <plc_var>Machine.EthernetMP50.SubnetMask</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='Machine_EthernetMP50_ConfigMode'>
+      <plc_var>Machine.EthernetMP50.ConfigMode</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Machine alignment correction'>
+    <assign name='Machine_AlignmentCorrection_dx'>
+      <plc_var>Machine.AlignmentCorrection.dx</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_AlignmentCorrection_dy'>
+      <plc_var>Machine.AlignmentCorrection.dy</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_AlignmentCorrection_dz'>
+      <plc_var>Machine.AlignmentCorrection.dz</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_AlignmentCorrection_phi'>
+      <plc_var>Machine.AlignmentCorrection.phi</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_AlignmentCorrection_theta'>
+      <plc_var>Machine.AlignmentCorrection.theta</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_AlignmentCorrection_psi'>
+      <plc_var>Machine.AlignmentCorrection.psi</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Conveyor settings'>
+    <assign name='Machine_Conveyor_phi'>
+      <plc_var>Machine.Conveyor.phi</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_Conveyor_theta'>
+      <plc_var>Machine.Conveyor.theta</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_Conveyor_psi'>
+      <plc_var>Machine.Conveyor.psi</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Encoder reference values'>
+    <assign name='Machine_EncoderReference_Q1'>
+      <plc_var>Machine.EncoderReference.Q1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_Q2'>
+      <plc_var>Machine.EncoderReference.Q2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_Q3'>
+      <plc_var>Machine.EncoderReference.Q3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_Q4'>
+      <plc_var>Machine.EncoderReference.Q4</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_Q5'>
+      <plc_var>Machine.EncoderReference.Q5</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_Q6'>
+      <plc_var>Machine.EncoderReference.Q6</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_L2'>
+      <plc_var>Machine.EncoderReference.L2</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_L3'>
+      <plc_var>Machine.EncoderReference.L3</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Machine_EncoderReference_L1'>
+      <plc_var>Machine.EncoderReference.L1</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

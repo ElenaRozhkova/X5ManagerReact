@@ -1,0 +1,59 @@
+Log-file from 2016-07-27
+
+Time         Event
+10:18:49,545 User          / 3 admin
+10:19:17,574 E-Stop        /
+10:19:45,751 E-Stop        \
+10:19:53,999 mode_T1       /
+11:46:06,808 admin changed Home98
+11:46:09,688 admin changed Home98
+11:46:12,008 admin changed Home98
+11:46:16,288 admin changed Home98
+12:13:25,715 admin changed chanal settings channel2 override: 100
+12:13:35,836 admin changed chanal settings channel4 override: 100
+12:13:43,756 admin changed chanal settings channel3 override: 100
+12:13:49,525 admin changed chanal settings brush speed unit
+12:13:50,918 admin changed chanal settings brush speed shortcut
+12:13:52,518 admin changed chanal settings brush speed description
+12:13:53,798 admin changed chanal settings brush speed 
+12:14:01,359 admin changed chanal settings channel2 unit
+12:14:06,479 admin changed chanal settings channel2 unit
+12:14:11,639 admin changed chanal settings channel2 shortcut
+12:14:15,919 admin changed chanal settings channel2 description
+12:14:21,840 admin changed chanal settings channel3 description
+12:14:27,200 admin changed chanal settings channel3 
+12:14:30,960 admin changed chanal settings channel2 
+12:14:35,560 admin changed chanal settings channel3 shortcut
+12:14:39,320 admin changed chanal settings channel3 unit
+12:14:44,920 admin changed chanal settings channel4 unit
+12:14:53,121 admin changed chanal settings channel4 shortcut
+12:14:59,281 admin changed chanal settings channel4 description
+12:15:04,561 admin changed chanal settings channel4 
+12:15:07,681 admin changed chanal settings brush speed description
+12:15:09,641 admin changed chanal settings brush speed 
+12:15:17,282 admin changed chanal settings brush speed description
+12:15:20,882 admin changed chanal settings brush speed shortcut
+12:15:39,570 admin stored image to FTP sync device
+12:19:36,271 E-Stop        /
+12:43:14,691 E-Stop        \
+13:56:39,457 User          \
+14:04:10,822 E-Stop        /
+14:04:22,110 E-Stop        \
+14:24:12,794 E-Stop        /
+14:51:46,741 E-Stop        \
+14:53:05,344 E-Stop        /
+14:54:05,071 E-Stop        \
+15:37:43,591 E-Stop        /
+15:39:49,204 E-Stop        \
+15:46:28,737 E-Stop        /
+15:46:41,078 E-Stop        \
+15:50:34,763 E-Stop        /
+15:51:34,173 E-Stop        \
+16:36:01,114 E-Stop        /
+16:38:06,952 E-Stop        \
+16:42:18,737 E-Stop        /
+16:42:57,551 E-Stop        \
+17:10:50,660 E-Stop        /
+17:12:37,172 E-Stop        \
+18:24:36,505 E-Stop        /
+18:27:09,635 E-Stop        \

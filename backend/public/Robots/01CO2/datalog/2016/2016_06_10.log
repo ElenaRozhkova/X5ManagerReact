@@ -1,0 +1,40 @@
+Log-file from 2016-06-10
+
+Time         Event
+10:24:22,101 User          / 3 admin
+10:24:24,421 99899.prg compiled
+10:24:25,461 99900.prg compiled
+10:24:26,541 99909.prg compiled
+10:24:27,581 99910.prg compiled
+10:24:28,021 99911.prg compiled
+10:24:29,541 99912.prg compiled
+10:24:30,621 99914.prg compiled
+10:24:31,661 99915.prg compiled
+10:24:32,701 99916.prg compiled
+10:24:33,581 99919.prg compiled
+10:24:34,621 99920.prg compiled
+10:24:35,501 99923.prg compiled
+10:24:36,381 99924.prg compiled
+10:24:37,421 99930.prg compiled
+10:24:38,421 99931.prg compiled
+10:24:39,462 99932.prg compiled
+10:24:40,501 99933.prg compiled
+10:24:41,542 99934.prg compiled
+10:24:42,582 99980.prg compiled
+10:24:43,582 99990.prg compiled
+10:24:44,582 99991.prg compiled
+10:25:10,559 E-Stop        /
+10:25:38,644 E-Stop        \
+10:26:16,986 mode_T1       /
+10:58:33,210 User          \
+10:58:48,770 User          / 4 b+m service
+10:58:55,331 User          \
+12:09:19,916 User          / 4 b+m service
+12:10:18,826 mode_T1       /
+12:10:18,826 Reboot        \
+12:10:18,826 CheckPrg      \ 0
+12:10:18,826 Spray         / 0 admin
+14:47:34,907 User          / 3 admin
+14:55:34,361 admin stored image to FTP sync device
+15:07:23,857 admin stored image to FTP sync device
+16:26:34,898 User          \

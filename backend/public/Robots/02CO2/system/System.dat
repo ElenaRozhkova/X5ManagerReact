@@ -1,0 +1,12 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen möglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schließt den Parametertext ab
+; - die Gesamtanzahl der Einträge nicht ändern: 3 werden erwartet
+; 
+;-----------------------------------------------------------------------------------------
+; Passwörter ? 
+Passwortgültigkeit [min]= 15
+Aktivierung DataLog = 0
+Aktivierung AutoRun = 0

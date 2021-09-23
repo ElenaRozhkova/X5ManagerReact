@@ -1,0 +1,41 @@
+Log-file from 2016-06-09
+
+Time      Event
+16:28:49,301 User	/	4	b+m service
+16:34:56,100 E-Stop        /
+16:34:56,100 Reboot        \
+16:34:56,100 CheckPrg      \ 0
+16:34:56,100 Spray         / 0 admin
+16:40:21,538 E-Stop        /
+16:40:21,538 Reboot        \
+16:40:21,538 CheckPrg      \ 0
+16:40:21,538 Spray         / 0 admin
+16:42:51,223 User          / 3 admin
+16:45:32,994 E-Stop        /
+16:45:32,994 Reboot        \
+16:45:32,994 CheckPrg      \ 0
+16:45:32,994 Spray         / 0 admin
+16:45:52,995 User          / 3 admin
+16:49:25,669 E-Stop        \
+16:50:38,279 Reboot        \
+16:50:38,279 CheckPrg      \ 0
+16:50:38,279 Spray         / 0 admin
+16:52:07,082 User          / 3 admin
+16:56:26,970 Buffer module depleted
+16:57:48,407 Reboot        \
+16:57:48,407 CheckPrg      \ 0
+16:57:48,407 Spray         / 0 admin
+16:58:35,409 User          / 3 admin
+17:03:08,885 E-Stop        /
+17:03:36,882 E-Stop        \
+17:03:59,355 E-Stop        /
+17:04:27,300 E-Stop        \
+17:04:48,464 E-Stop        /
+17:06:40,141 Reboot        \
+17:06:40,141 CheckPrg      \ 0
+17:06:40,141 Spray         / 0 admin
+17:07:02,102 User          / 3 admin
+17:08:24,960 E-Stop        /
+17:08:53,089 E-Stop        \
+17:09:51,439 mode_T1       /
+18:46:02,040 User          \

@@ -1,0 +1,484 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='Workspace_asms.xml' changed='2016-07-26-15:54:10'>
+  <section name='Workspace - Start Point'>
+    <assign name='Workspace_Limits_StartPoint_X'>
+      <plc_var>Workspace.Limits.StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_Limits_StartPoint_Y'>
+      <plc_var>Workspace.Limits.StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_Limits_StartPoint_Z'>
+      <plc_var>Workspace.Limits.StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Workspace - End Point'>
+    <assign name='Workspace_Limits_EndPoint_X'>
+      <plc_var>Workspace.Limits.EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_Limits_EndPoint_Y'>
+      <plc_var>Workspace.Limits.EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_Limits_EndPoint_Z'>
+      <plc_var>Workspace.Limits.EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Number of active restricted areas'>
+    <assign name='Workspace_RestrictedAreas_Number'>
+      <plc_var>Workspace.RestrictedAreas_Number</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 0 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[0]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[0].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[0]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[0].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[0]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[0].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 0 - End Point'>
+    <assign name='Workspace_RestrictedAreas[0]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[0].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[0]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[0].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[0]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[0].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 1 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[1]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[1].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[1]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[1].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[1]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[1].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 1 - End Point'>
+    <assign name='Workspace_RestrictedAreas[1]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[1].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[1]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[1].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[1]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[1].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 2 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[2]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[2].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[2]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[2].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[2]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[2].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 2 - End Point'>
+    <assign name='Workspace_RestrictedAreas[2]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[2].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[2]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[2].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[2]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[2].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 3 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[3]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[3].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[3]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[3].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[3]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[3].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 3 - End Point'>
+    <assign name='Workspace_RestrictedAreas[3]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[3].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[3]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[3].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[3]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[3].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 4 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[4]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[4].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[4]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[4].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[4]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[4].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 4 - End Point'>
+    <assign name='Workspace_RestrictedAreas[4]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[4].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[4]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[4].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[4]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[4].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 5 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[5]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[5].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[5]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[5].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[5]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[5].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 5 - End Point'>
+    <assign name='Workspace_RestrictedAreas[5]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[5].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[5]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[5].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[5]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[5].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 6 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[6]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[6].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[6]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[6].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[6]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[6].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 6 - End Point'>
+    <assign name='Workspace_RestrictedAreas[6]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[6].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[6]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[6].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[6]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[6].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 7 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[7]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[7].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[7]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[7].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[7]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[7].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 7 - End Point'>
+    <assign name='Workspace_RestrictedAreas[7]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[7].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[7]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[7].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[7]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[7].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 8 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[8]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[8].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[8]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[8].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[8]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[8].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 8 - End Point'>
+    <assign name='Workspace_RestrictedAreas[8]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[8].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[8]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[8].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[8]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[8].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 9 - Start Point'>
+    <assign name='Workspace_RestrictedAreas[9]_StartPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[9].StartPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[9]_StartPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[9].StartPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[9]_StartPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[9].StartPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Restricted Area 9 - End Point'>
+    <assign name='Workspace_RestrictedAreas[9]_EndPoint_X'>
+      <plc_var>Workspace.RestrictedAreas[9].EndPoint.X</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[9]_EndPoint_Y'>
+      <plc_var>Workspace.RestrictedAreas[9].EndPoint.Y</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_RestrictedAreas[9]_EndPoint_Z'>
+      <plc_var>Workspace.RestrictedAreas[9].EndPoint.Z</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Collision Detection'>
+    <assign name='Workspace_RobID'>
+      <plc_var>Workspace.RobID</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetectionActive'>
+      <plc_var>Workspace.CollisionDetectionActive</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='Workspace_SafeDistance'>
+      <plc_var>Workspace.SafeDistance</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Collision Detection Alignment Robot1'>
+    <assign name='Workspace_CollisionDetection[0]_ID'>
+      <plc_var>Workspace.CollisionDetection[0].ID</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_dx'>
+      <plc_var>Workspace.CollisionDetection[0].dx</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_dy'>
+      <plc_var>Workspace.CollisionDetection[0].dy</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_dz'>
+      <plc_var>Workspace.CollisionDetection[0].dz</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_da'>
+      <plc_var>Workspace.CollisionDetection[0].da</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_db'>
+      <plc_var>Workspace.CollisionDetection[0].db</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_dc'>
+      <plc_var>Workspace.CollisionDetection[0].dc</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_RobotType'>
+      <plc_var>Workspace.CollisionDetection[0].RobotType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[0]_active'>
+      <plc_var>Workspace.CollisionDetection[0].active</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+  <section name='Collision Detection Alignment Robot2'>
+    <assign name='Workspace_CollisionDetection[1]_ID'>
+      <plc_var>Workspace.CollisionDetection[1].ID</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_dx'>
+      <plc_var>Workspace.CollisionDetection[1].dx</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_dy'>
+      <plc_var>Workspace.CollisionDetection[1].dy</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_dz'>
+      <plc_var>Workspace.CollisionDetection[1].dz</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_da'>
+      <plc_var>Workspace.CollisionDetection[1].da</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_db'>
+      <plc_var>Workspace.CollisionDetection[1].db</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_dc'>
+      <plc_var>Workspace.CollisionDetection[1].dc</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_RobotType'>
+      <plc_var>Workspace.CollisionDetection[1].RobotType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[1]_active'>
+      <plc_var>Workspace.CollisionDetection[1].active</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+  <section name='Collision Detection Alignment Robot3'>
+    <assign name='Workspace_CollisionDetection[2]_ID'>
+      <plc_var>Workspace.CollisionDetection[2].ID</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_dx'>
+      <plc_var>Workspace.CollisionDetection[2].dx</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_dy'>
+      <plc_var>Workspace.CollisionDetection[2].dy</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_dz'>
+      <plc_var>Workspace.CollisionDetection[2].dz</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_da'>
+      <plc_var>Workspace.CollisionDetection[2].da</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_db'>
+      <plc_var>Workspace.CollisionDetection[2].db</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_dc'>
+      <plc_var>Workspace.CollisionDetection[2].dc</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_RobotType'>
+      <plc_var>Workspace.CollisionDetection[2].RobotType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[2]_active'>
+      <plc_var>Workspace.CollisionDetection[2].active</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+  <section name='Collision Detection Alignment Robot4'>
+    <assign name='Workspace_CollisionDetection[3]_ID'>
+      <plc_var>Workspace.CollisionDetection[3].ID</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_dx'>
+      <plc_var>Workspace.CollisionDetection[3].dx</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_dy'>
+      <plc_var>Workspace.CollisionDetection[3].dy</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_dz'>
+      <plc_var>Workspace.CollisionDetection[3].dz</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_da'>
+      <plc_var>Workspace.CollisionDetection[3].da</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_db'>
+      <plc_var>Workspace.CollisionDetection[3].db</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_dc'>
+      <plc_var>Workspace.CollisionDetection[3].dc</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_RobotType'>
+      <plc_var>Workspace.CollisionDetection[3].RobotType</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='Workspace_CollisionDetection[3]_active'>
+      <plc_var>Workspace.CollisionDetection[3].active</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

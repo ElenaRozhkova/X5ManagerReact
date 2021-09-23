@@ -1,0 +1,19 @@
+Log-file from 2016-06-22
+
+Time         Event
+10:08:41,223 Reboot        \
+10:08:41,223 CheckPrg      \ 0
+10:08:41,223 Spray         / 0 admin
+10:08:48,127 mode_T1       /
+10:19:43,042 User          / 3 admin
+11:00:54,309 CheckPrg      \ 99899
+11:01:10,218 CheckPrg      \ 99899
+11:04:16,951 CheckPrg      \ 99899
+11:04:33,516 admin changed Base offset: Ry -0.03
+11:05:09,277 admin changed Base offset: Ry 0.03
+11:13:39,794 CheckPrg      \ 99899
+11:31:28,525 CheckPrg      \ 99899
+12:57:54,543 User          \
+13:58:22,489 User          / 3 admin
+13:58:24,449 admin changed Home28
+17:16:12,458 User          \

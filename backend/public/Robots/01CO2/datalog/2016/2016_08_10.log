@@ -1,0 +1,13 @@
+Log-file from 2016-08-10
+
+Time         Event
+16:12:21,803 40000.prg rejected
+16:15:35,381 E-StopP       /
+16:15:35,409 E-Stop        /
+16:15:37,761 E-StopP       \
+16:19:47,785 40000.prg imported
+16:19:49,177 40000.prg compiled
+16:32:03,293 E-Stop        \
+16:46:14,782 40010.prg rejected
+16:48:10,748 40010.prg imported
+16:48:12,140 40010.prg compiled

@@ -1,0 +1,236 @@
+Log-file from 2016-08-02
+
+Time         Event
+10:17:34,882 42000.prg imported
+10:17:36,194 42000.prg compiled
+10:18:01,784 42020.prg imported
+10:18:03,116 42020.prg compiled
+10:18:28,585 42030.prg imported
+10:18:29,797 42030.prg compiled
+10:18:54,586 42010.prg imported
+10:18:55,798 42010.prg compiled
+10:20:06,370 mode_T2       /
+10:20:13,082 User          / 3 admin
+10:20:32,855 CheckPrg      \ 40010
+10:20:54,768 CheckPrg      \ 40010
+10:20:57,828 StartPrg      / conv: 1265.36mm.
+10:20:57,900 BreakPrg      / conv: 875.01mm.
+10:21:07,192 ContinuePrg   / conv: 875.03mm.
+10:21:07,641 MainPrg       / 40010
+10:22:13,244 MainPrg       \ 40010 conv: 3114.25mm.
+
+10:22:20,244 StartPrg      / conv: 3131.68mm.
+10:22:20,320 BreakPrg      / conv: 875.01mm.
+10:22:23,376 ContinuePrg   / conv: 875.03mm.
+10:22:23,816 MainPrg       / 40010
+10:22:56,846 MainPrg       \ 40010 conv: 3093.27mm.
+
+10:23:49,860 CheckPrg      \ 42000
+10:23:59,481 StartPrg      / conv: 0mm.
+10:23:59,557 BreakPrg      / conv: 0.01mm.
+10:24:01,881 ContinuePrg   / conv: 0.03mm.
+10:24:02,301 MainPrg       / 42000
+10:25:14,732 MainPrg       \ 42000 conv: 2471.58mm.
+
+10:25:23,837 StartPrg      / conv: 2489.01mm.
+10:25:23,913 BreakPrg      / conv: 0.01mm.
+10:25:25,105 ContinuePrg   / conv: 0.03mm.
+10:25:25,525 MainPrg       / 42000
+10:26:01,951 MainPrg       \ 42000 conv: 2448.96mm.
+
+10:26:24,065 CheckPrg      \ 42010
+10:26:27,945 StartPrg      / conv: 2517.98mm.
+10:26:28,021 BreakPrg      / conv: 0.01mm.
+10:26:34,989 ContinuePrg   / conv: 0.03mm.
+10:26:35,389 MainPrg       / 42010
+10:26:41,310 BreakPrg      / conv: 268.57mm.
+10:26:44,990 ContinuePrg   / conv: 302.34mm.
+10:27:17,187 MainPrg       \ 42010 conv: 2433.66mm.
+
+10:27:19,251 StartPrg      / conv: 2502.68mm.
+10:27:19,328 BreakPrg      / conv: 0.01mm.
+10:27:20,151 ContinuePrg   / conv: 0.03mm.
+10:27:20,592 MainPrg       / 42010
+10:27:57,021 MainPrg       \ 42010 conv: 2450.6mm.
+
+10:28:14,762 CheckPrg      \ 42020
+10:28:19,218 StartPrg      / conv: 2519.62mm.
+10:28:19,290 BreakPrg      / conv: 0.01mm.
+10:28:24,255 ContinuePrg   / conv: 0.03mm.
+10:28:24,647 MainPrg       / 42020
+10:29:02,024 MainPrg       \ 42020 conv: 2511.83mm.
+
+10:29:10,245 CheckPrg      \ 42030
+10:29:15,585 StartPrg      / conv: 2580.85mm.
+10:29:15,661 BreakPrg      / conv: 0.01mm.
+10:29:17,757 ContinuePrg   / conv: 0.03mm.
+10:29:18,197 MainPrg       / 42030
+10:29:55,427 MainPrg       \ 42030 conv: 2505.27mm.
+
+10:31:26,883 42020.prg imported
+10:31:28,195 42020.prg compiled
+10:31:53,985 42000.prg imported
+10:31:55,397 42000.prg compiled
+10:31:58,585 42030.prg imported
+10:31:59,917 42030.prg compiled
+10:31:59,993 CheckPrg      \ 42030
+10:32:25,786 42010.prg imported
+10:32:27,118 42010.prg compiled
+10:33:46,438 CheckPrg      \ 42030
+10:33:47,770 CheckPrg      \ 42030
+10:33:55,211 CheckPrg      \ 42000
+10:34:02,615 StartPrg      / conv: 2574.29mm.
+10:34:02,691 BreakPrg      / conv: 0.01mm.
+10:34:03,971 ContinuePrg   / conv: 0.03mm.
+10:34:04,439 MainPrg       / 42000
+10:34:18,292 BreakPrg      / conv: 472.01mm.
+10:34:22,492 ContinuePrg   / conv: 489.3mm.
+10:35:04,642 MainPrg       \ 42000 conv: 2471.61mm.
+
+10:35:08,310 StartPrg      / conv: 2505.57mm.
+10:35:08,382 BreakPrg      / conv: 0.01mm.
+10:35:09,354 ContinuePrg   / conv: 0.03mm.
+10:35:09,814 MainPrg       / 42000
+10:35:11,042 MainPrg       \ 42000 conv: 48.14mm.
+
+10:35:45,932 mode_T1       /
+10:35:57,365 StopPrg       /
+10:36:26,110 StopPrg       /
+10:37:13,817 CheckPrg      \ 42010
+10:37:16,301 StopPrg       /
+10:37:19,437 mode_T2       /
+10:37:23,674 StartPrg      / conv: 147.09mm.
+10:37:23,750 BreakPrg      / conv: 0.01mm.
+10:37:35,234 StartPrg      / conv: 0.03mm.
+10:37:35,310 BreakPrg      / conv: 0.01mm.
+10:37:46,343 ContinuePrg   / conv: 0.03mm.
+10:37:46,783 MainPrg       / 42010
+10:37:48,003 MainPrg       \ 42010 conv: 46.77mm.
+
+10:38:00,235 mode_T1       /
+10:38:42,673 CheckPrg      \ 42010
+10:38:44,994 StopPrg       /
+10:38:46,606 mode_T2       /
+10:38:53,042 StartPrg      / conv: 146mm.
+10:38:53,114 BreakPrg      / conv: 0.01mm.
+10:39:01,106 CheckPrg      \ 42020
+10:39:09,063 StartPrg      / conv: 0.03mm.
+10:39:09,139 BreakPrg      / conv: 0.01mm.
+10:39:11,107 ContinuePrg   / conv: 0.03mm.
+10:39:11,495 MainPrg       / 42020
+10:39:49,113 MainPrg       \ 42020 conv: 2528.23mm.
+
+10:39:56,069 CheckPrg      \ 42030
+10:39:57,233 StartPrg      / conv: 2597.25mm.
+10:39:57,309 BreakPrg      / conv: 0.01mm.
+10:39:58,529 ContinuePrg   / conv: 0.03mm.
+10:39:58,921 MainPrg       / 42030
+10:40:36,315 MainPrg       \ 42030 conv: 2512.93mm.
+
+10:41:04,452 mode_T1       /
+12:20:38,598 User          \
+14:05:24,479 CheckPrg      \ 80001
+14:05:25,443 mode_T2       /
+14:05:31,187 User          / 3 admin
+14:05:33,932 StartPrg      / conv: 2581.94mm.
+14:05:34,004 BreakPrg      / conv: 0.01mm.
+14:05:34,796 ContinuePrg   / conv: 0.03mm.
+14:05:35,516 MainPrg       / 80001
+14:05:37,576 BreakPrg      / conv: 18.31mm.
+14:05:40,396 ContinuePrg   / conv: 19.06mm.
+14:05:50,104 MainPrg       \ 80001 conv: 333.46mm.
+
+14:06:05,260 CheckPrg      \ 80001
+14:06:07,157 StartPrg      / conv: 350.89mm.
+14:06:07,229 BreakPrg      / conv: 0.01mm.
+14:06:07,977 ContinuePrg   / conv: 0.03mm.
+14:06:08,441 MainPrg       / 80001
+14:06:16,866 MainPrg       \ 80001 conv: 538.36mm.
+
+14:06:20,530 StartPrg      / conv: 607.38mm.
+14:06:20,606 BreakPrg      / conv: 0.01mm.
+14:06:21,358 ContinuePrg   / conv: 0.03mm.
+14:06:21,838 MainPrg       / 80001
+14:06:30,266 MainPrg       \ 80001 conv: 540mm.
+
+14:06:33,618 mode_T1       /
+14:06:33,718 mode_Auto     /
+14:06:34,122 mode_T1       /
+14:10:27,538 CheckPrg      \ 80001
+14:10:28,982 mode_T2       /
+14:10:34,114 StartPrg      / conv: 609.02mm.
+14:10:34,186 BreakPrg      / conv: 0.01mm.
+14:10:35,330 ContinuePrg   / conv: 0.03mm.
+14:10:35,718 MainPrg       / 80001
+14:10:40,942 MainPrg       \ 80001 conv: 314.78mm.
+
+14:10:45,631 StartPrg      / conv: 383.8mm.
+14:10:45,707 BreakPrg      / conv: 0.01mm.
+14:10:46,571 ContinuePrg   / conv: 0.03mm.
+14:10:47,051 MainPrg       / 80001
+14:10:52,279 MainPrg       \ 80001 conv: 321.34mm.
+
+14:10:55,255 mode_T1       /
+14:44:46,611 42000.prg imported
+14:44:47,983 42000.prg compiled
+14:45:13,612 42010.prg imported
+14:45:14,984 42010.prg compiled
+14:50:18,247 CheckPrg      \ 42000
+14:50:35,928 CheckPrg      \ 42000
+14:50:37,368 mode_T2       /
+14:50:45,704 StartPrg      / conv: 983mm.
+14:50:45,776 BreakPrg      / conv: 983.01mm.
+14:50:49,529 ContinuePrg   / conv: 983.03mm.
+14:50:50,037 MainPrg       / 42000
+14:50:59,949 BreakPrg      / conv: 1321.76mm.
+14:51:12,054 StopPrg       /
+14:51:12,078 MainPrg       \ 42000 conv: 1339.19mm.
+
+14:51:34,187 mode_T1       /
+14:52:50,326 CheckPrg      \ 42000
+14:53:07,699 CheckPrg      \ 42000
+14:53:08,707 mode_T2       /
+14:53:18,448 StartPrg      / conv: 1339.19mm.
+14:53:18,520 BreakPrg      / conv: 983.01mm.
+14:53:20,856 ContinuePrg   / conv: 983.03mm.
+14:53:21,256 MainPrg       / 42000
+14:53:25,376 BreakPrg      / conv: 1165.47mm.
+14:53:29,576 ContinuePrg   / conv: 1199.24mm.
+14:54:03,046 MainPrg       \ 42000 conv: 3417.48mm.
+
+14:54:35,704 CheckPrg      \ 42000
+14:54:36,408 CheckPrg      \ 42000
+14:54:38,168 StartPrg      / conv: 3486.5mm.
+14:54:38,244 BreakPrg      / conv: 983.01mm.
+14:54:39,820 ContinuePrg   / conv: 983.03mm.
+14:54:40,220 MainPrg       / 42000
+14:55:16,449 MainPrg       \ 42000 conv: 3417.2mm.
+
+14:55:24,294 CheckPrg      \ -42010
+14:55:26,902 StartPrg ignored, invalid number.
+14:55:29,454 StartPrg ignored, invalid number.
+14:56:08,868 CheckPrg      \ 42010
+14:56:09,556 CheckPrg      \ 42010
+14:56:11,668 StartPrg      / conv: 3486.22mm.
+14:56:11,744 BreakPrg      / conv: 983.01mm.
+14:56:13,384 ContinuePrg   / conv: 983.03mm.
+14:56:13,824 MainPrg       / 42010
+14:56:50,118 MainPrg       \ 42010 conv: 3424.31mm.
+
+14:57:37,468 mode_T1       /
+16:35:51,828 User          \
+17:16:13,878 mode_Auto     /
+17:16:20,106 User          / 3 admin
+17:16:21,466 Servopower    /
+17:16:23,550 CheckPrg      \ 99995
+17:16:27,182 StartPrg      / conv: 3493.33mm.
+17:16:27,838 MainPrg       / 99995
+17:17:56,642 MainPrg       \ 99995 conv: 5356.61mm.
+
+17:18:37,392 StartPrg      / conv: 5425.62mm.
+17:18:38,176 MainPrg       / 99995
+17:19:44,031 MainPrg       \ 99995 conv: 5464.98mm.
+
+17:19:49,676 Servopower    \
+17:19:50,160 mode_T1       /
+18:58:48,326 User          \

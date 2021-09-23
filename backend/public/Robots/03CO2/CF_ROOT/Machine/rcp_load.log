@@ -1,0 +1,9 @@
+(52058) Started loading values at 2016-07-26-15:53:40
+(52056) Using assignmentsfile 'AliasConfig_asms.xml', changed=2016-07-26-15:53:28
+(52061) Valuesfile 'Parameter/AliasConfig.xml' successfully opened
+(52060) Section 'Alias-Names: IN'
+(52060) Section 'Alias-Names: OUT'
+(52060) Section 'Alias-Names: BIT'
+(52060) Section 'Alias-Names: NUM'
+(52060) Section 'Alias-Names: PROGRAM TYPE'
+(52014) Finished loading values at 2016-07-26-15:53:43

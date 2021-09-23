@@ -1,0 +1,60 @@
+Log-file from 2016-06-24
+
+Time         Event
+09:43:10,207 User          / 3 admin
+09:48:13,699 admin changed Tool1
+09:48:32,700 admin changed Tool1
+09:48:36,900 admin changed Tool1
+09:48:38,900 admin changed Tool6
+09:48:40,701 admin changed Tool8
+09:48:46,341 admin changed Tool10
+09:48:48,261 admin changed Tool12
+09:48:50,301 admin changed Tool14
+09:48:54,821 admin changed Tool97
+09:48:56,541 admin changed Tool98
+09:48:58,381 admin changed Tool99
+09:50:51,149 1.prg created
+11:12:44,649 Buffer module depleted
+11:14:23,613 Reboot        \
+11:14:23,613 CheckPrg      \ 0
+11:14:23,613 Spray         / 0 admin
+11:14:28,934 User          / 3 admin
+11:14:30,394 mode_T1       /
+12:33:42,671 admin changed conveyor settings: rotation about Z-Axis by 180°
+12:33:44,872 admin changed conveyor settings: rotation about Z-Axis by 180°: 0°
+12:33:45,552 admin changed conveyor settings: rotation about Z-Axis by 180°: 180°
+12:33:46,272 admin changed conveyor settings: rotation about Z-Axis by 180°: 0°
+12:33:47,112 admin changed conveyor settings: rotation about Z-Axis by 180°: 180°
+12:34:02,272 admin changed conveyor settings: entered or calculated new factor 39250
+12:40:24,691 mode_Auto     /
+12:40:26,727 mode_AutoExt  /
+12:40:26,819 CheckPrg      / 90102
+12:40:26,963 CheckPrg      \ 90102
+12:40:41,472 StartPrg_ext  /
+12:40:41,472 StartPrg ignored, invalid number.
+12:40:41,472 ConvReset     / conv: 0mm.
+12:40:42,127 MainPrg       / 90102
+12:40:42,251 MainPrg       \ 90102 conv: 60.23mm.
+
+12:40:42,255 ConvReset     / conv: 0mm.
+12:40:50,511 mode_AutoExt  /
+12:40:50,619 CheckPrg      / 90102
+12:40:50,671 CheckPrg      \ 90102
+12:40:51,459 mode_Auto     /
+12:40:51,636 mode_T1       /
+12:41:51,404 mode_Auto     /
+12:41:51,764 mode_AutoExt  /
+12:41:51,832 AckError_ext  /
+
+12:41:51,884 CheckPrg      / 90102
+12:41:51,932 CheckPrg      \ 90102
+12:42:05,532 StartPrg_ext  /
+12:42:05,532 StartPrg ignored, invalid number.
+12:42:05,532 ConvReset     / conv: 0mm.
+12:42:06,184 MainPrg       / 90102
+12:43:07,731 MainPrg       \ 90102 conv: 4637.48mm.
+
+12:43:08,295 mode_Auto     /
+12:43:27,384 ConvReset     / conv: 0mm.
+12:57:32,845 mode_T1       /
+14:42:04,778 User          \

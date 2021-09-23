@@ -1,0 +1,49 @@
+Log-file from 2016-05-25
+
+Time      Event
+08:55:45,770 User	/	3	admin
+09:02:46,211 admin changed Tool99
+09:02:50,090 admin changed Tool99
+09:02:52,509 admin changed Tool99
+09:03:00,750 admin changed Tool98
+09:03:09,290 admin changed Tool98
+09:03:13,850 admin changed Tool98
+09:04:01,528 admin changed Tool98
+09:04:12,990 admin changed Tool99
+09:24:51,297 admin changed Tool99
+09:25:54,119 admin changed Tool98
+10:39:46,401 99900.prg	copied to code	99899.prg
+10:39:47,222 99899.prg	compiled
+11:54:03,092 E-Stop	/
+11:54:03,092 Reboot	/
+11:54:03,092 CheckPrgNet	/	
+11:54:03,092 Spray	/	0	
+10:54:04,504 WorkDir_CF	/
+10:54:07,364 Reboot	\
+10:54:12,678 E-Stop	\
+10:54:22,504 User	/	3	admin
+10:54:22,624 mode_T1	/
+10:54:23,924 Import device connected to CF
+10:56:54,942 admin changed Base offset: dy 1
+11:29:28,466 admin changed Base offset: dz -7
+12:53:31,334 E-Stop	/
+12:53:31,334 Reboot	/
+12:53:31,334 CheckPrgNet	/	
+12:53:31,334 Spray	/	0	
+11:53:32,745 WorkDir_CF	/
+11:53:35,606 Reboot	\
+11:53:41,601 E-Stop	\
+11:53:50,966 mode_T1	/
+11:53:52,223 Import device connected to CF
+13:24:29,501 User	/	3	admin
+13:56:49,177 User	\
+14:00:44,516 User	/	3	admin
+15:30:21,231 99980.prg	imported
+15:30:22,104 99980.prg	compiled
+15:30:41,463 admin changed on axis1 negativ software limitation: -105°
+15:30:43,263 admin changed on axis1 positiv software limitation: 105°
+15:30:44,986 admin changed on axis2 positiv software limitation: 49°
+15:30:46,983 admin changed on axis3 positiv software limitation: 100°
+15:30:49,066 admin changed on axis6 negativ software limitation: -740°
+15:30:50,904 admin changed on axis6 positiv software limitation: 740°
+15:34:04,843 User	\

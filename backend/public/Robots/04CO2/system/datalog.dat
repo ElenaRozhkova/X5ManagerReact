@@ -1,0 +1,27 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen mˆglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schlieﬂt die Aufz‰hlungshilfe ab
+; - den Ausgabetext kurz halten, es werden maximal xx Zeichen Å¸bernommen
+; - die Namen f¸År Trigger und Value m¸Åssen Systemvariablen sein
+; - die Gesamtanzahl der Eintr‰ge nicht ‰ndern: 16 werden erwartet
+; - V.Marte
+;         Name(Triger) Option Name(Zusatz) ;Ausgabetext
+;-----------------------------------------------------------------------------------------
+Watch01=  RobPhysIn[2] ;		0 ; Prg.Run 		  ;GwRobIn2
+Watch02=  Panel.Key.AutoE ;		2 ; PlbPrgLoaded 	  ;AutoE
+Watch03=  Flag[17] ;			1 ; Prg.Run 		  ;Plane5
+Watch04=  RobPhysIn[2] ;		0 ; 0 	 		  ;GwRobIn2
+Watch05=  Plb.PrgRun ;			2 ; PlbPrgLoaded 	  ;GwPrgRun
+Watch06=  Plb.Gun1.Out ;		1 ; Plb.Brush.Out 	  ;Gun1
+Watch07=  Panel.Butt.Stop ;		3 ; System.Conv.Val  	  ;PanelStop
+Watch08=  0 ;							0 ; 0						;frei
+Watch09=  0 ;							0 ; 0						;frei
+Watch10=  0 ;							0 ; 0						;frei
+Watch11=  0 ;							0 ; 0						;frei
+Watch12=  0 ;							0 ; 0						;frei
+Watch13=  0 ;							0 ; 0						;frei
+Watch14=  0 ;							0 ; 0						;frei
+Watch15=  0 ;							0 ; 0						;frei
+Watch16=  0 ;							0 ; 0						;frei

@@ -1,0 +1,28 @@
+(52059) Started saving values at 2016-07-26-15:50:33
+(52056) Using assignmentsfile 'MP_asms.xml', changed=2016-07-08-11:56:17
+(52062) Valuesfile 'Parameter/MP_X5_LL_70.xml' successfully created
+(52060) Section 'TRF Selection'
+(52060) Section 'TRF Robot Dimension'
+(52060) Section 'TRF Axes Coupling'
+(52060) Section 'TRF Arm diameters'
+(52060) Section 'TRF Properties'
+(52060) Section 'TRF Axes Properties'
+(52060) Section 'AXIS 1'
+(52060) Section 'AXIS 2'
+(52060) Section 'AXIS 3'
+(52060) Section 'AXIS 4'
+(52060) Section 'AXIS 5'
+(52060) Section 'AXIS 6'
+(52060) Section 'AXIS L1'
+(52060) Section 'AXIS L2'
+(52060) Section 'AXIS L3'
+(52060) Section 'AXIS Conveyor'
+(52060) Section 'AXIS Teach Conveyor'
+(52060) Section 'OPTIMIZER Torque'
+(52060) Section 'OPTIMIZER Jolt Time'
+(52060) Section 'OPTIMIZER Base Parameter'
+(52060) Section 'JOG LIMITS - Fast'
+(52060) Section 'JOG LIMITS - Middle'
+(52060) Section 'JOG LIMITS - Slow'
+(52060) Section 'TORQUE LIMITS'
+(52015) Finished saving values at 2016-07-26-15:50:37

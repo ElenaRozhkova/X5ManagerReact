@@ -1,0 +1,109 @@
+Log-file from 2016-07-26
+
+Time         Event
+11:23:31,999 101.prg imported
+11:23:33,211 101.prg compiled
+11:45:17,074 101.prg imported
+11:45:18,466 101.prg compiled
+12:16:43,146 User          / 3 admin
+12:39:30,203 User          / 4 b+m service
+14:03:13,814 mode_T1       /
+14:03:14,530 mode_T1       /
+14:03:14,710 mode_Auto     /
+14:03:14,986 mode_AutoExt  /
+14:03:15,578 Servopower    /
+14:03:15,674 CheckPrg      / 99900
+14:03:15,722 CheckPrg      \ 99900
+14:03:26,770 CheckPrg      / 101
+14:03:26,887 CheckPrg      \ 101
+14:04:18,221 StartPrg_ext  /
+14:04:18,221 StartPrg ignored, invalid number.
+14:04:18,221 ConvReset     / conv: 0mm.
+14:04:18,821 MainPrg       / 101
+14:05:13,475 MainPrg       \ 101 conv: 3576.15mm.
+
+14:05:15,991 mode_Auto     /
+14:05:16,147 mode_T1       /
+14:05:26,863 b+m service changed conveyor settings: entered or calculated new factor 39228
+14:05:45,140 mode_Auto     /
+14:05:45,496 mode_AutoExt  /
+14:05:45,624 CheckPrg      / 101
+14:05:45,744 CheckPrg      \ 101
+14:06:11,221 StartPrg_ext  /
+14:06:11,221 StartPrg ignored, invalid number.
+14:06:11,221 ConvReset     / conv: 0mm.
+14:06:11,833 MainPrg       / 101
+14:07:06,559 MainPrg       \ 101 conv: 3622.74mm.
+
+14:07:08,479 mode_Auto     /
+14:07:08,775 mode_T1       /
+14:07:15,827 b+m service changed conveyor settings: entered or calculated new factor 39261
+14:07:29,400 mode_Auto     /
+14:07:29,772 mode_AutoExt  /
+14:07:29,872 CheckPrg      / 101
+14:07:29,992 CheckPrg      \ 101
+14:08:03,621 StartPrg_ext  /
+14:08:03,621 StartPrg ignored, invalid number.
+14:08:03,621 ConvReset     / conv: 0mm.
+14:08:04,229 MainPrg       / 101
+14:08:59,068 MainPrg       \ 101 conv: 3587.86mm.
+
+14:09:00,048 mode_Auto     /
+14:09:00,324 mode_T1       /
+14:09:08,232 b+m service changed conveyor settings: entered or calculated new factor 39228
+14:09:24,272 mode_T1       /
+14:09:24,592 mode_Auto     /
+14:09:24,860 mode_AutoExt  /
+14:09:24,973 CheckPrg      / 101
+14:09:25,093 CheckPrg      \ 101
+14:09:57,822 StartPrg_ext  /
+14:09:57,822 StartPrg ignored, invalid number.
+14:09:57,822 ConvReset     / conv: 0mm.
+14:09:58,542 MainPrg       / 101
+14:10:53,130 MainPrg       \ 101 conv: 3595.31mm.
+
+14:10:55,890 mode_Auto     /
+14:10:56,094 mode_T1       /
+14:11:05,918 b+m service changed conveyor settings: entered or calculated new factor 39206
+14:11:32,944 mode_Auto     /
+14:11:33,240 mode_AutoExt  /
+14:11:33,336 CheckPrg      / 101
+14:11:33,456 CheckPrg      \ 101
+14:12:08,585 StartPrg_ext  /
+14:12:08,585 StartPrg ignored, invalid number.
+14:12:08,585 ConvReset     / conv: 0mm.
+14:12:09,201 MainPrg       / 101
+14:13:03,879 MainPrg       \ 101 conv: 3570.94mm.
+
+14:13:07,199 mode_Auto     /
+14:13:07,315 mode_T1       /
+14:13:16,244 b+m service changed conveyor settings: entered or calculated new factor 39228
+14:13:32,128 mode_Auto     /
+14:13:32,412 mode_AutoExt  /
+14:13:32,536 CheckPrg      / 101
+14:13:32,656 CheckPrg      \ 101
+14:14:05,885 StartPrg_ext  /
+14:14:05,885 StartPrg ignored, invalid number.
+14:14:05,885 ConvReset     / conv: 0mm.
+14:14:06,506 MainPrg       / 101
+14:15:01,188 MainPrg       \ 101 conv: 3654.63mm.
+
+14:15:01,888 mode_Auto     /
+14:15:02,208 mode_T1       /
+15:30:21,699 99919.prg imported
+15:30:22,991 99919.prg compiled
+15:35:56,468 E-Stop        /
+15:36:24,557 E-Stop        \
+15:36:57,895 mode_T1       /
+15:44:36,793 E-Stop        /
+15:46:12,417 E-Stop        \
+15:51:00,800 b+m service changed on axis1 negativ software limitation: -104°
+15:51:05,201 b+m service changed on axis1 positiv software limitation: 104°
+15:54:13,039 mode_T1       /
+15:54:13,039 Reboot        \
+15:54:13,039 CheckPrg      \ 0
+15:54:13,039 Spray         / 0 admin
+16:03:38,982 User          / 3 admin
+16:48:31,564 E-Stop        /
+16:50:58,901 E-Stop        \
+19:43:43,029 User          \

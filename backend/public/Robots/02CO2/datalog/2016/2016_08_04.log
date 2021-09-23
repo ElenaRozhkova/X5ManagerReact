@@ -1,0 +1,258 @@
+Log-file from 2016-08-04
+
+Time         Event
+08:29:12,310 User          / 3 admin
+08:29:41,818 CheckPrg      \ 101
+08:29:43,975 CheckPrg      \ 101
+08:33:22,586 CheckPrg      \ 101
+08:36:27,492 admin changed chanal settings brush speed override: 100
+09:55:32,317 CheckPrg      \ 101
+09:59:51,260 101.cs imported
+10:00:28,065 CheckPrg      \ 101
+10:05:34,174 CheckPrg      \ 101
+10:08:04,527 admin changed chanal settings brush speed override: 100
+10:11:30,383 admin changed chanal settings brush speed override: 100
+10:11:54,264 admin changed chanal settings channel3 override: 100
+11:16:41,486 mode_Auto     /
+11:16:51,978 mode_T1       /
+11:16:52,670 mode_T1       /
+11:16:52,842 mode_AutoExt  /
+11:16:53,658 mode_Auto     /
+11:16:53,794 mode_T1       /
+11:16:54,622 mode_Auto     /
+11:16:56,642 Servopower    /
+11:24:12,259 CheckPrg      \ 101
+11:29:29,531 mode_T1       /
+11:29:35,491 mode_Auto     /
+13:04:40,356 20080.prg imported
+13:04:41,708 20080.prg compiled
+13:08:36,759 User          \
+14:28:15,287 User          / 3 admin
+14:28:37,812 CheckPrg      \ 101
+14:30:42,240 CheckPrg      \ 101
+14:30:42,980 CheckPrg      \ 101
+14:57:03,012 StartPrg      / conv: 0mm.
+14:57:03,676 MainPrg       / 101
+14:57:03,736 LdCs          \ 101
+14:57:58,506 MainPrg       \ 101 conv: 3720.48mm.
+
+14:58:21,395 StartPrg      / conv: 3789.49mm.
+14:58:22,079 MainPrg       / 101
+14:58:22,139 LdCs          \ 101
+14:59:16,908 MainPrg       \ 101 conv: 3721.57mm.
+
+15:13:44,260 Door          /
+15:18:35,412 ConvReset     / conv: 0mm.
+15:20:42,248 Door          \
+15:30:16,415 20080.prg compiled
+15:31:12,601 mode_AutoExt  /
+15:31:12,701 CheckPrg      / 20080
+15:31:13,097 CheckPrg      \ 20080
+15:31:28,349 AckError_ext  /
+
+15:33:25,081 StartPrg_ext  /
+15:33:25,081 StartPrg ignored, invalid number.
+15:33:25,081 ConvReset     / conv: 11935mm.
+15:33:25,829 MainPrg       / 20080
+15:33:59,858 MainPrg       \ 20080 conv: 3389.48mm.
+
+15:35:22,584 Door          /
+15:37:02,999 Door          \
+15:37:13,848 AckError_ext  /
+
+15:37:35,092 AckError_ext  /
+
+15:38:36,034 AckError_ext  /
+
+15:44:10,443 101.cs copied to code 20080.cs
+15:44:50,444 20080.prg compiled
+15:44:59,584 AckError_ext  /
+
+15:45:09,333 AckError_ext  /
+
+15:45:46,926 AckError_ext  /
+
+15:46:45,568 AckError_ext  /
+
+15:46:48,468 AckError_ext  /
+
+15:47:09,812 AckError_ext  /
+
+15:47:38,609 AckError_ext  /
+
+15:48:26,551 AckError_ext  /
+
+15:48:28,351 AckError_ext  /
+
+15:48:56,396 AckError_ext  /
+
+15:49:01,544 AckError_ext  /
+
+15:51:46,330 AckError_ext  /
+
+15:51:59,778 AckError_ext  /
+
+15:52:23,175 AckError_ext  /
+
+15:54:02,858 ConvReset     / conv: 1010mm.
+15:57:45,625 Door          /
+16:02:23,168 Door          \
+16:02:54,737 AckError_ext  /
+
+16:03:42,178 AckError_ext  /
+
+16:03:43,778 AckError_ext  /
+
+16:04:32,520 CheckPrg      / 99900
+16:04:32,572 CheckPrg      \ 99900
+16:04:42,420 CheckPrg      / 20080
+16:04:42,588 CheckPrg      \ 20080
+16:05:27,013 AckError_ext  /
+
+16:05:48,458 StartPrg_ext  /
+16:05:48,458 StartPrg ignored, invalid number.
+16:05:48,458 ConvReset     / conv: 1012mm.
+16:05:49,174 MainPrg       / 20080
+16:05:49,238 LdCs          \ 20080
+16:06:27,995 MainPrg       \ 20080 conv: 1366.58mm.
+
+16:06:28,735 mode_Auto     /
+16:06:28,935 mode_T1       /
+16:06:52,424 mode_Auto     /
+16:06:52,548 mode_AutoExt  /
+16:06:52,648 CheckPrg      / 20080
+16:06:52,820 CheckPrg      \ 20080
+16:07:16,145 AckError_ext  /
+
+16:08:06,486 StartPrg_ext  /
+16:08:06,486 StartPrg ignored, invalid number.
+16:08:06,486 ConvReset     / conv: 1010mm.
+16:08:07,178 MainPrg       / 20080
+16:08:07,242 LdCs          \ 20080
+16:08:41,239 MainPrg       \ 20080 conv: 3387.89mm.
+
+16:13:41,330 Door          /
+16:21:19,508 mode_T1       /
+16:29:23,060 mode_AutoExt  /
+16:29:23,156 CheckPrg      / 20080
+16:29:23,328 CheckPrg      \ 20080
+16:29:44,221 Door          /
+16:31:40,053 Door          \
+16:43:10,883 AckError_ext  /
+
+16:45:15,891 mode_T1       /
+16:45:28,215 mode_AutoExt  /
+16:45:28,311 CheckPrg      / 20080
+16:45:28,483 CheckPrg      \ 20080
+16:46:08,519 AckError_ext  /
+
+16:46:57,812 AckError_ext  /
+
+16:46:59,560 AckError_ext  /
+
+16:50:19,778 AckError_ext  /
+
+16:50:44,823 AckError_ext  /
+
+16:52:01,249 mode_Auto     /
+16:52:01,337 mode_T1       /
+16:52:01,953 mode_AutoExt  /
+16:52:02,061 CheckPrg      / 20080
+16:52:02,233 CheckPrg      \ 20080
+16:52:24,610 AckError_ext  /
+
+16:57:51,822 mode_T1       /
+16:57:52,698 mode_AutoExt  /
+16:57:52,818 CheckPrg      / 20080
+16:57:52,994 CheckPrg      \ 20080
+16:59:36,101 StartPrg_ext  /
+16:59:36,101 StartPrg ignored, invalid number.
+16:59:36,101 ConvReset     / conv: 1010mm.
+16:59:36,865 MainPrg       / 20080
+16:59:36,933 LdCs          \ 20080
+17:00:10,854 MainPrg       \ 20080 conv: 3387.79mm.
+
+17:00:11,490 E-StopP       /
+17:00:11,510 E-Stop        /
+17:00:11,602 Servopower    \
+17:00:11,838 Door          /
+17:00:13,034 E-StopP       \
+17:00:49,639 E-Stop        \
+17:00:50,067 Servopower    /
+17:00:50,187 CheckPrg      / 20080
+17:00:50,567 CheckPrg      \ 20080
+17:06:35,173 Door          \
+17:06:46,734 StartPrg_ext  /
+17:06:46,734 StartPrg ignored, invalid number.
+17:06:46,734 ConvReset     / conv: 1010mm.
+17:06:47,394 MainPrg       / 20080
+17:06:47,458 LdCs          \ 20080
+17:07:08,983 E-Stop        /
+17:07:09,003 MainPrg       \ 20080 conv: 2533.43mm.
+
+17:07:09,291 Door          /
+17:07:09,478 Servopower    \
+17:07:33,083 E-Stop        \
+17:22:29,382 Servopower    /
+17:22:29,506 CheckPrg      / 20080
+17:22:29,670 CheckPrg      \ 20080
+17:22:30,738 mode_T1       /
+17:32:39,547 mode_AutoExt  /
+17:32:39,671 CheckPrg      / 20080
+17:32:39,843 CheckPrg      \ 20080
+17:33:14,816 AckError_ext  /
+
+17:33:19,465 AckError_ext  /
+
+17:34:02,058 AckError_ext  /
+
+17:34:59,152 AckError_ext  /
+
+17:38:10,517 AckError_ext  /
+
+17:41:22,253 Door          /
+17:42:09,139 Door          \
+17:42:29,391 AckError_ext  /
+
+17:42:31,091 AckError_ext  /
+
+17:43:01,484 ConvReset     / conv: 1010mm.
+17:43:58,886 Door          /
+17:44:41,343 Door          \
+17:44:52,127 mode_T1       /
+17:44:52,279 mode_T1       /
+17:44:53,559 mode_AutoExt  /
+17:44:53,667 CheckPrg      / 20080
+17:44:53,852 CheckPrg      \ 20080
+17:45:17,164 AckError_ext  /
+
+17:46:23,454 AckError_ext  /
+
+17:47:25,392 StartPrg_ext  /
+17:47:25,392 StartPrg ignored, invalid number.
+17:47:25,392 ConvReset     / conv: 1009mm.
+17:47:26,116 MainPrg       / 20080
+17:47:26,180 LdCs          \ 20080
+17:48:00,149 MainPrg       \ 20080 conv: 3388.07mm.
+
+17:49:19,131 Door          /
+17:51:02,795 Door          \
+17:51:11,155 mode_T1       /
+17:51:11,731 mode_AutoExt  /
+17:51:11,855 CheckPrg      / 20080
+17:51:12,027 CheckPrg      \ 20080
+17:51:25,255 AckError_ext  /
+
+17:52:26,656 AckError_ext  /
+
+17:53:21,998 StartPrg_ext  /
+17:53:21,998 StartPrg ignored, invalid number.
+17:53:21,998 ConvReset     / conv: 1010mm.
+17:53:22,690 MainPrg       / 20080
+17:53:22,754 LdCs          \ 20080
+17:53:56,715 MainPrg       \ 20080 conv: 3385.85mm.
+
+17:55:34,498 Servopower    \
+17:58:15,999 mode_Auto     /
+17:58:16,091 mode_T1       /
+19:16:08,594 User          \

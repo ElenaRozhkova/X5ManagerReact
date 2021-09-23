@@ -1,0 +1,41 @@
+Log-file from 2016-06-15
+
+Time         Event
+13:29:21,074 mode_T1       /
+13:29:21,074 Reboot        \
+13:29:21,074 CheckPrg      \ 0
+13:29:21,074 Spray         / 0 admin
+13:30:18,277 User          / 3 admin
+13:30:36,526 CheckPrg      \ -99911
+13:30:47,878 99911.cs created
+13:35:33,580 99900.dat imported
+13:36:21,582 99911.dat imported
+13:51:43,050 mode_T1       /
+13:51:43,050 Reboot        \
+13:51:43,050 CheckPrg      \ 0
+13:51:43,050 Spray         / 0 admin
+16:15:48,825 User          / 3 admin
+16:17:05,508 99899.prg compiled
+16:17:06,508 99900.prg compiled
+16:17:07,508 99909.prg compiled
+16:17:08,548 99910.prg compiled
+16:17:09,588 99911.prg compiled
+16:17:10,589 99912.prg compiled
+16:17:11,669 99914.prg compiled
+16:17:12,709 99915.prg compiled
+16:17:13,709 99916.prg compiled
+16:17:14,749 99919.prg compiled
+16:17:15,749 99920.prg compiled
+16:17:16,749 99923.prg compiled
+16:17:17,749 99924.prg compiled
+16:17:18,749 99930.prg compiled
+16:17:19,749 99931.prg compiled
+16:17:20,749 99932.prg compiled
+16:17:21,829 99933.prg compiled
+16:17:22,869 99934.prg compiled
+16:17:23,909 99980.prg compiled
+16:17:24,949 99990.prg compiled
+16:17:25,989 99991.prg compiled
+18:19:33,373 User          \
+18:38:36,553 User          / 3 admin
+18:38:59,994 User          \

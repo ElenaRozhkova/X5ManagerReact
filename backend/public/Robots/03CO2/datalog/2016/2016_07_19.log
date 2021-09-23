@@ -1,0 +1,41 @@
+Log-file from 2016-07-19
+
+Time         Event
+09:51:16,797 E-Stop        /
+09:52:46,884 E-Stop        \
+11:08:37,240 40000.prg imported
+11:08:38,352 40000.prg compiled
+11:08:41,440 40010.prg imported
+11:08:42,592 40010.prg compiled
+11:29:47,531 User          / 3 admin
+11:29:56,103 CheckPrg      \ 40000
+11:29:57,491 mode_T2       /
+11:30:09,772 StartPrg      / conv: 2669.41mm.
+11:30:09,844 BreakPrg      / conv: 0.01mm.
+11:30:13,220 ContinuePrg   / conv: 0.03mm.
+11:30:13,636 MainPrg       / 40000
+11:31:12,970 MainPrg       \ 40000 conv: 2024.14mm.
+
+11:31:17,971 StartPrg      / conv: 2041.56mm.
+11:31:18,046 BreakPrg      / conv: 0.01mm.
+11:31:19,463 ContinuePrg   / conv: 0.03mm.
+11:31:19,943 MainPrg       / 40000
+11:31:49,972 MainPrg       \ 40000 conv: 2016mm.
+
+11:32:18,225 CheckPrg      \ 40010
+11:32:22,013 StartPrg      / conv: 2085.02mm.
+11:32:22,089 BreakPrg      / conv: 0.01mm.
+11:32:24,945 ContinuePrg   / conv: 0.03mm.
+11:32:25,373 MainPrg       / 40010
+11:33:30,776 MainPrg       \ 40010 conv: 2231.87mm.
+
+11:33:43,872 CheckPrg      \ 40010
+11:33:49,604 StartPrg      / conv: 2249.3mm.
+11:33:49,677 BreakPrg      / conv: 0.01mm.
+11:33:56,209 ContinuePrg   / conv: 0.03mm.
+11:33:56,601 MainPrg       / 40010
+11:34:28,922 MainPrg       \ 40010 conv: 2166.34mm.
+
+11:34:57,471 CheckPrg      \ 40010
+11:35:15,608 mode_T1       /
+11:36:05,946 User          \

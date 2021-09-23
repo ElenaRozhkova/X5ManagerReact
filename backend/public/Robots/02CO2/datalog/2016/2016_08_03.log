@@ -1,0 +1,35 @@
+Log-file from 2016-08-03
+
+Time         Event
+08:25:27,623 Door          /
+08:27:54,459 Door          \
+09:01:30,545 101.prg rejected
+09:01:33,445 101.cs imported
+09:03:57,219 101.prg imported
+09:03:58,531 101.prg compiled
+09:10:34,379 mode_T1       /
+09:10:50,983 User          / 3 admin
+09:11:03,240 mode_T2       /
+09:15:57,490 CheckPrg      \ -101
+09:16:07,906 CheckPrg      \ 101
+09:16:08,778 StartPrg      / conv: 10701.5mm.
+09:16:08,850 BreakPrg      / conv: 0.01mm.
+09:16:10,670 ContinuePrg   / conv: 0.03mm.
+09:16:11,370 MainPrg       / 101
+09:16:11,430 LdCs          \ 101
+09:16:12,610 BreakPrg      / conv: 1.94mm.
+09:16:17,266 ContinuePrg   / conv: 1.97mm.
+09:16:22,550 BreakPrg      / conv: 27.94mm.
+09:16:25,731 ContinuePrg   / conv: 28.41mm.
+09:16:36,391 BreakPrg      / conv: 133.28mm.
+09:16:41,091 ContinuePrg   / conv: 144.55mm.
+09:17:27,568 MainPrg       \ 101 conv: 3293.55mm.
+
+09:17:30,256 mode_T1       /
+09:17:30,444 mode_Auto     /
+09:17:31,548 mode_T1       /
+09:17:40,857 mode_T2       /
+09:17:46,713 mode_T1       /
+09:17:46,897 mode_Auto     /
+09:17:47,601 mode_T1       /
+10:56:48,224 User          \

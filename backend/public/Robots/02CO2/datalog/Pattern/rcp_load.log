@@ -1,0 +1,152 @@
+(52058) Started loading values at 2014-07-04-12:35:47
+(52056) Using assignmentsfile 'DatalogSettingsV2_asms.xml', changed=2014-07-04-11:26:11
+(52061) Valuesfile '/Test.xml' successfully opened
+(52060) Section 'Index of dropdownboxes (USINT)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos1_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos2_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexVarCombos3_7' - default value is used
+(52060) Section 'Index of condition dropdownboxes (USINT)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_IndexConditionCombos_7' - default value is used
+(52060) Section 'Control datapoints of visu elements: dropdown (UINT)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos1_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos2_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDatapointsCombos3_7' - default value is used
+(52060) Section 'Control datapoints of visu elements: textfields (UINT)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields1_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields2_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields3_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_ContrDataPointsTextfields4_7' - default value is used
+(52060) Section 'Selection between self defined and dropdown variables (BOOL)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar1_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar2_7' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_SelectVar3_7' - default value is used
+(52044) * Warning (DatalogSettingsV2_asms.xml:1): Section '/Test.xml:Self defined variables1 (STRING[100])' not found, using default values in the following
+(52060) Section 'Self defined variables1 (STRING[100])'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[0]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[1]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[2]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[3]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[4]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[5]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[6]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings1[7]' - default value is used
+(52044) * Warning (DatalogSettingsV2_asms.xml:1): Section '/Test.xml:Self defined variables2 (STRING[100])' not found, using default values in the following
+(52060) Section 'Self defined variables2 (STRING[100])'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[0]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[1]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[2]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[3]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[4]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[5]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[6]' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_VarStrings2[7]' - default value is used
+(52060) Section 'Trigger values (LREAL)'
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_0' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_1' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_2' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_3' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_4' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_5' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_6' - default value is used
+(52072) * Warning (DatalogSettingsV2_asms.xml:1): No recipe entry for Var. 'DatalogPattern_Input_VISU_TriggerValue_7' - default value is used
+(52060) Section 'Autolog after reboot of controller (BOOL)'
+(52060) Section 'Samplerate log in ms (REAL)'
+(52014) Finished loading values at 2014-07-04-12:35:48

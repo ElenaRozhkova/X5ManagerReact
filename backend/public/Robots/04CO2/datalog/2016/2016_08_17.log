@@ -1,0 +1,141 @@
+Log-file from 2016-08-17
+
+Time         Event
+08:36:42,700 mode_Auto     /
+08:36:42,800 mode_AutoExt  /
+08:37:05,884 Servopower    /
+08:37:06,000 CheckPrg      / 99900
+08:37:06,100 CheckPrg      \ 99900
+08:40:26,562 Door          \
+08:40:40,583 AckError_ext  /
+
+08:42:11,522 AckError_ext  /
+
+08:42:13,622 AckError_ext  /
+
+08:42:41,012 ServicePrg    / conv: 206305mm.
+08:42:41,747 MainPrg       / 99980
+08:42:43,639 MainPrg       \ 99980 conv: 206305mm.
+
+08:43:46,558 AckError_ext  /
+
+08:44:45,696 AckError_ext  /
+
+08:45:10,593 AckError_ext  /
+
+08:45:21,093 AckError_ext  /
+
+08:45:59,087 AckError_ext  /
+
+08:46:17,832 AckError_ext  /
+
+08:48:34,676 AckError_ext  /
+
+08:48:36,276 AckError_ext  /
+
+08:54:05,825 AckError_ext  /
+
+08:54:37,770 AckError_ext  /
+
+08:55:51,261 AckError_ext  /
+
+09:03:48,846 CheckPrg      / 99900
+09:03:48,894 CheckPrg      \ 99900
+09:04:41,188 StartPrg_ext  /
+09:04:41,188 StartPrg ignored, invalid number.
+09:04:41,188 ConvReset     / conv: 0mm.
+09:04:41,812 MainPrg       / 99900
+09:04:45,840 MainPrg       \ 99900 conv: 1330.62mm.
+
+09:05:31,582 AckError_ext  /
+
+09:08:33,957 AckError_ext  /
+
+09:09:33,295 AckError_ext  /
+
+09:29:40,138 AckError_ext  /
+
+09:29:41,786 AckError_ext  /
+
+09:29:44,138 AckError_ext  /
+
+09:29:57,835 AckError_ext  /
+
+09:30:30,180 AckError_ext  /
+
+09:30:44,929 AckError_ext  /
+
+09:33:11,764 CheckPrg      / 20080
+09:33:11,816 CheckPrg      \ 20080
+09:33:12,616 CheckPrg      / 20080
+09:33:12,664 CheckPrg      \ 20080
+09:33:58,905 StartPrg_ext  /
+09:33:58,905 StartPrg ignored, invalid number.
+09:33:58,905 ConvReset     / conv: 1011mm.
+09:33:59,577 MainPrg       / 20080
+09:33:59,641 LdCs          \ 20080
+09:34:21,454 CheckPrg      / 20080
+09:34:21,502 CheckPrg      \ 20080
+09:34:35,403 MainPrg       \ 20080 conv: 3514.23mm.
+
+09:35:17,548 AckError_ext  /
+
+09:36:10,638 AckError_ext  /
+
+09:39:54,971 42000.cs imported
+09:39:56,971 42010.cs imported
+09:41:24,691 AckError_ext  /
+
+09:41:39,991 AckError_ext  /
+
+09:41:44,239 AckError_ext  /
+
+09:41:47,640 AckError_ext  /
+
+09:48:39,437 AckError_ext  /
+
+09:49:59,376 AckError_ext  /
+
+09:50:03,976 AckError_ext  /
+
+09:53:20,244 AckError_ext  /
+
+10:12:26,390 StartPrg_ext  /
+10:12:26,390 StartPrg ignored, invalid number.
+10:12:26,390 ConvReset     / conv: 1010mm.
+10:12:27,030 MainPrg       / 20080
+10:12:27,094 LdCs          \ 20080
+10:13:02,816 MainPrg       \ 20080 conv: 3512.02mm.
+
+10:13:12,084 AckError_ext  /
+
+10:29:12,122 User          / 3 admin
+10:29:15,859 mode_Auto     /
+10:29:16,051 mode_T1       /
+11:36:58,425 mode_Auto     /
+11:36:58,505 mode_AutoExt  /
+11:36:58,597 CheckPrg      / 20080
+11:36:58,645 CheckPrg      \ 20080
+11:39:20,178 AckError_ext  /
+
+12:08:17,514 User          \
+12:22:23,075 AckError_ext  /
+
+12:22:24,823 AckError_ext  /
+
+12:24:07,859 AckError_ext  /
+
+12:56:45,686 AckError_ext  /
+
+12:58:37,618 AckError_ext  /
+
+14:05:16,367 AckError_ext  /
+
+14:05:40,664 AckError_ext  /
+
+14:06:09,009 AckError_ext  /
+
+14:14:33,893 AckError_ext  /
+
+14:14:37,693 AckError_ext  /
+

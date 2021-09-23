@@ -1,0 +1,15 @@
+Log-file from 2016-05-19
+
+Time      Event
+18:03:07,156 E-Stop	/
+18:03:07,156 E-StopP	/
+18:03:07,156 Reboot	/
+18:03:07,156 CheckPrgNet	/	
+18:03:07,156 Spray	/	0	
+17:03:08,548 WorkDir_CF	/
+17:03:11,385 Reboot	\
+17:03:22,377 mode_Auto	/
+17:03:23,725 Import device connected to CF
+17:19:12,138 E-StopP	\
+17:19:12,186 E-Stop	\
+17:40:53,404 mode_T1	/

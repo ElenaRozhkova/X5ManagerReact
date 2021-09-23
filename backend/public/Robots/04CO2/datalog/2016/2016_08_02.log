@@ -1,0 +1,20 @@
+Log-file from 2016-08-02
+
+Time         Event
+17:26:17,906 Reboot        \
+17:26:17,906 CheckPrg      \ 0
+17:26:17,906 Spray         / 0 admin
+17:26:22,947 mode_T1       /
+17:27:33,126 CheckPrg      \ 99995
+17:27:38,470 User          / 3 admin
+17:27:40,602 mode_Auto     /
+17:27:44,318 StartPrg      / conv: 4.29497e+07mm.
+17:27:44,958 MainPrg       / 99995
+17:29:15,165 MainPrg       \ 99995 conv: 4.29497e+07mm.
+
+17:29:18,314 StartPrg      / conv: 4.29497e+07mm.
+17:29:18,942 MainPrg       / 99995
+17:30:24,768 MainPrg       \ 99995 conv: 4.29497e+07mm.
+
+17:30:30,476 mode_T1       /
+19:07:45,708 User          \

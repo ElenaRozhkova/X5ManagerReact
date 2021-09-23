@@ -1,0 +1,72 @@
+Log-file from 2015-09-30
+
+Time      Event
+15:50:43,832 E-Stop	/
+15:50:43,832 E-StopP	/
+15:50:43,832 Reboot	/
+15:50:43,832 CheckPrgNet	/	
+15:50:43,832 Spray	/	0	
+15:50:45,224 WorkDir_CF	/
+15:50:48,041 Reboot	\
+15:54:34,400 User	/	4	b+m service
+17:04:02,942 E-Stop	/
+17:04:02,942 Reboot	/
+17:04:02,942 CheckPrgNet	/	
+17:04:02,942 Spray	/	0	
+16:04:04,373 WorkDir_CF	/
+16:04:07,152 Reboot	\
+16:04:28,051 User	/	3	admin
+16:04:36,950 Import device connected to CF
+17:09:10,057 E-Stop	/
+17:09:10,057 Reboot	/
+17:09:10,057 CheckPrgNet	/	
+17:09:10,057 Spray	/	0	
+16:09:11,487 WorkDir_CF	/
+16:09:14,266 Reboot	\
+16:09:23,967 User	/	3	admin
+16:09:24,447 Import device connected to CF
+16:17:35,823 E-Stop	\
+16:20:29,178 mode_T1	/
+16:24:21,412 1000.prg	compiled
+16:24:21,954 5000.prg	compiled
+16:24:22,492 9970.prg	compiled
+16:24:23,135 9980.prg	compiled
+16:24:23,673 9981.prg	compiled
+16:24:24,316 9982.prg	compiled
+16:24:24,853 9983.prg	compiled
+16:24:25,295 9989.prg	compiled
+16:24:25,933 9990.prg	compiled
+16:24:26,476 9991.prg	compiled
+16:24:27,114 9992.prg	compiled
+16:24:27,733 9993.prg	compiled
+16:24:28,353 9994.prg	compiled
+16:24:28,895 9995.prg	compiled
+16:24:29,533 9996.prg	compiled
+16:24:30,076 9997.prg	compiled
+16:24:30,695 9998.prg	compiled
+16:24:31,233 9999.prg	compiled
+16:24:31,876 10000.prg	compiled
+16:24:32,313 40100.prg	compiled
+16:24:32,773 40200.prg	compiled
+16:24:33,215 40300.prg	compiled
+16:24:33,676 99900.prg	compiled
+16:24:34,113 99902.prg	compiled
+16:24:34,573 99903.prg	compiled
+16:24:35,015 99904.prg	compiled
+16:24:35,476 99906.prg	compiled
+16:24:35,913 99907.prg	compiled
+16:24:36,373 99908.prg	compiled
+16:24:36,815 99909.prg	compiled
+16:24:37,276 99910.prg	compiled
+16:24:37,713 99912.prg	compiled
+16:24:38,173 99980.prg	compiled
+16:34:09,081 mode_Auto	/
+17:36:25,371 E-Stop	/
+17:36:25,371 Reboot	/
+17:36:25,371 CheckPrgNet	/	
+17:36:25,371 Spray	/	0	
+16:36:25,597 E-Stop	\
+16:36:26,763 WorkDir_CF	/
+16:36:29,739 Reboot	\
+16:36:41,230 mode_T1	/
+16:36:42,762 Import device connected to CF

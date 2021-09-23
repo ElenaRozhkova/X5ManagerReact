@@ -1,0 +1,169 @@
+Log-file from 2016-08-01
+
+Time         Event
+08:46:39,817 40010.prg imported
+08:46:41,449 40010.prg compiled
+08:47:06,618 42000.prg imported
+08:47:07,810 42000.prg compiled
+08:47:33,519 80000.prg imported
+08:47:34,731 80000.prg compiled
+08:49:32,737 User          / 3 admin
+08:51:41,151 CheckPrg      \ 80000
+08:51:48,004 StopPrg       /
+08:51:51,720 mode_T2       /
+08:52:40,218 mode_T1       /
+08:53:43,469 CheckPrg      \ 80000
+08:54:00,474 CheckPrg      \ 80000
+08:54:01,246 CheckPrg      \ 80000
+08:54:08,878 mode_T2       /
+08:54:23,063 StartPrg      / conv: 12378.8mm.
+08:54:23,087 BreakPrg      / conv: 12378.8mm.
+08:54:27,039 ContinuePrg   / conv: 12378.8mm.
+08:54:27,455 MainPrg       / 80000
+08:54:27,539 MainPrg       \ 80000 conv: 12378.8mm.
+
+08:54:38,316 CheckPrg      \ 80000
+08:54:55,801 StartPrg      / conv: 913mm.
+08:54:55,889 BreakPrg      / conv: 913.01mm.
+08:54:58,841 ContinuePrg   / conv: 913.03mm.
+08:54:59,257 MainPrg       / 80000
+08:54:59,317 MainPrg       \ 80000 conv: 916.81mm.
+
+08:56:06,112 mode_T1       /
+08:56:24,185 StopPrg       /
+08:56:32,129 CheckPrg      \ 80000
+08:56:33,317 mode_T2       /
+08:56:43,510 StartPrg      / conv: 989.57mm.
+08:56:43,582 BreakPrg      / conv: 913.01mm.
+08:56:45,946 ContinuePrg   / conv: 913.03mm.
+08:56:46,370 MainPrg       / 80000
+08:56:46,434 MainPrg       \ 80000 conv: 916.94mm.
+
+08:57:25,649 CheckPrg      \ 80000
+08:57:31,453 StartPrg      / conv: 0mm.
+08:57:31,529 BreakPrg      / conv: 0.01mm.
+08:57:33,009 ContinuePrg   / conv: 0.03mm.
+08:57:33,457 MainPrg       / 80000
+08:58:00,270 MainPrg       \ 80000 conv: 914.13mm.
+
+08:58:37,092 mode_T1       /
+08:58:41,924 User          \
+09:22:38,810 CheckPrg      \ 40010
+09:22:55,423 mode_T2       /
+09:23:04,999 User          / 3 admin
+09:23:15,220 StartPrg      / conv: 875mm.
+09:23:15,296 BreakPrg      / conv: 875.01mm.
+09:23:26,228 ContinuePrg   / conv: 875.03mm.
+09:23:26,656 MainPrg       / 40010
+09:23:26,780 MainPrg       \ 40010 conv: 880.05mm.
+
+09:23:55,254 CheckPrg      \ 40000
+09:24:05,246 StartPrg      / conv: 0mm.
+09:24:05,322 BreakPrg      / conv: 0.01mm.
+09:24:10,310 ContinuePrg   / conv: 0.03mm.
+09:24:10,730 MainPrg       / 40000
+09:24:18,571 BreakPrg      / conv: 264.83mm.
+09:24:21,495 StopPrg       /
+09:24:21,519 MainPrg       \ 40000 conv: 282.11mm.
+
+09:24:31,727 mode_T1       /
+09:24:50,456 CheckPrg      \ 40010
+09:24:55,428 StopPrg       /
+09:24:57,196 mode_T2       /
+09:25:07,981 StartPrg      / conv: 875mm.
+09:25:08,053 BreakPrg      / conv: 875.01mm.
+09:25:19,894 CheckPrg      \ 40010
+09:25:23,038 StartPrg      / conv: 875.03mm.
+09:25:23,110 BreakPrg      / conv: 875.01mm.
+09:25:25,234 ContinuePrg   / conv: 875.03mm.
+09:25:25,874 MainPrg       / 40010
+09:25:25,994 MainPrg       \ 40010 conv: 879.48mm.
+
+09:26:47,018 CheckPrg      \ 40010
+09:27:06,379 StartPrg      / conv: 870mm.
+09:27:06,451 BreakPrg      / conv: 870.01mm.
+09:27:07,619 ContinuePrg   / conv: 870.03mm.
+09:27:08,279 MainPrg       / 40010
+09:27:08,399 MainPrg       \ 40010 conv: 874.64mm.
+
+09:27:41,964 mode_T1       /
+09:30:51,264 CheckPrg      \ 40010
+09:30:59,008 StopPrg       /
+09:31:09,580 CheckPrg      \ 40010
+09:31:17,153 CheckPrg      \ 40010
+09:31:18,689 mode_T2       /
+09:31:34,430 StartPrg      / conv: 875mm.
+09:31:34,506 BreakPrg      / conv: 875.01mm.
+09:31:36,234 ContinuePrg   / conv: 875.03mm.
+09:31:36,742 MainPrg       / 40010
+09:32:42,353 MainPrg       \ 40010 conv: 3116.71mm.
+
+09:33:00,830 StartPrg      / conv: 3134.14mm.
+09:33:00,902 BreakPrg      / conv: 875.01mm.
+09:33:03,298 ContinuePrg   / conv: 875.03mm.
+09:33:03,718 MainPrg       / 40010
+09:33:36,748 MainPrg       \ 40010 conv: 3091.63mm.
+
+09:33:51,160 mode_T1       /
+09:34:32,238 StopPrg       /
+09:40:12,463 CheckPrg      \ 40010
+09:57:37,728 E-Stop        /
+11:12:49,740 80000.prg imported
+11:12:51,132 80000.prg compiled
+11:13:38,642 42000.prg imported
+11:13:40,014 42000.prg compiled
+11:14:05,443 42020.prg imported
+11:14:06,655 42020.prg compiled
+11:15:04,710 CheckPrg      \ 80000
+11:15:12,139 mode_T2       /
+11:15:46,128 mode_T1       /
+13:06:02,039 User          \
+14:01:54,975 E-Stop        \
+14:04:19,786 E-Stop        /
+14:27:54,151 E-Stop        \
+15:10:39,936 E-Stop        /
+16:16:04,297 User          / 3 admin
+16:16:14,218 80000.prg copied to code 80001.prg
+16:16:15,498 80001.prg compiled
+16:18:16,990 E-Stop        \
+16:22:55,363 CheckPrg      \ 80001
+16:23:00,383 mode_T2       /
+16:23:13,752 CheckPrg      \ 80001
+16:23:14,596 CheckPrg      \ 80001
+16:23:18,972 StartPrg      / conv: 3160.65mm.
+16:23:19,048 BreakPrg      / conv: 875.01mm.
+16:23:19,968 ContinuePrg   / conv: 875.03mm.
+16:23:20,356 MainPrg       / 80001
+16:23:28,781 MainPrg       \ 80001 conv: 1408.44mm.
+
+16:23:45,921 CheckPrg      \ 80001
+16:23:46,813 CheckPrg      \ 80001
+16:23:52,310 StartPrg      / conv: 1477.46mm.
+16:23:52,386 BreakPrg      / conv: 875.01mm.
+16:23:53,510 ContinuePrg   / conv: 875.03mm.
+16:23:53,902 MainPrg       / 80001
+16:23:59,118 MainPrg       \ 80001 conv: 1189.23mm.
+
+16:24:23,791 StartPrg      / conv: 1258.25mm.
+16:24:23,867 BreakPrg      / conv: 875.01mm.
+16:24:26,451 ContinuePrg   / conv: 875.03mm.
+16:24:26,839 MainPrg       / 80001
+16:24:32,040 MainPrg       \ 80001 conv: 1188.14mm.
+
+16:24:38,300 mode_T1       /
+16:25:29,623 mode_T2       /
+16:25:33,303 StartPrg      / conv: 1257.16mm.
+16:25:33,375 BreakPrg      / conv: 875.01mm.
+16:25:34,635 ContinuePrg   / conv: 875.03mm.
+16:25:35,031 MainPrg       / 80001
+16:25:40,227 MainPrg       \ 80001 conv: 1188.14mm.
+
+16:25:42,591 mode_T1       /
+16:26:16,597 mode_T2       /
+16:26:21,177 StartPrg      / conv: 1257.16mm.
+16:26:21,249 BreakPrg      / conv: 875.01mm.
+16:26:22,817 ContinuePrg   / conv: 875.03mm.
+16:26:23,297 MainPrg       / 80001
+16:26:28,525 MainPrg       \ 80001 conv: 1196.34mm.
+
+18:05:55,467 User          \

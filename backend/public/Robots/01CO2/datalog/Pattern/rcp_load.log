@@ -1,0 +1,14 @@
+(52058) Started loading values at 2015-09-22-11:51:09
+(52056) Using assignmentsfile 'DatalogSettingsV2_asms.xml', changed=2015-09-22-11:44:53
+(52061) Valuesfile '/ErrTime.xml' successfully opened
+(52060) Section 'Index of dropdownboxes (USINT)'
+(52060) Section 'Index of condition dropdownboxes (USINT)'
+(52060) Section 'Control datapoints of visu elements: dropdown (UINT)'
+(52060) Section 'Control datapoints of visu elements: textfields (UINT)'
+(52060) Section 'Selection between self defined and dropdown variables (BOOL)'
+(52060) Section 'Self defined variables1 (STRING[100])'
+(52060) Section 'Self defined variables2 (STRING[100])'
+(52060) Section 'Trigger values (LREAL)'
+(52060) Section 'Autolog after reboot of controller (BOOL)'
+(52060) Section 'Samplerate log in ms (REAL)'
+(52014) Finished loading values at 2015-09-22-11:51:10

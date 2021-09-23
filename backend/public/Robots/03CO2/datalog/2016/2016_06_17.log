@@ -1,0 +1,14 @@
+Log-file from 2016-06-17
+
+Time         Event
+09:02:49,856 E-Stop        /
+09:02:52,624 Buffer module depleted
+09:10:10,459 mode_T1       /
+09:10:15,056 E-Stop        \
+09:17:13,905 E-Stop        /
+09:19:31,983 E-Stop        /
+09:19:31,983 Reboot        \
+09:19:31,983 CheckPrg      \ 0
+09:19:31,983 Spray         / 0 admin
+09:57:19,366 E-Stop        \
+09:57:45,106 mode_T1       /

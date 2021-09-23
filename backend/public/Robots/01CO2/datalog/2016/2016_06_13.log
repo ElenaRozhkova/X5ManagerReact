@@ -1,0 +1,9 @@
+Log-file from 2016-06-13
+
+Time         Event
+16:29:05,963 User          / 3 admin
+16:45:59,092 admin changed Base offset: Rx 0
+16:49:38,904 admin changed Base offset: dy 2
+16:49:45,544 admin changed Base offset: dy -1
+16:50:10,105 admin changed Base offset: dy -0.5
+17:20:24,475 User          \

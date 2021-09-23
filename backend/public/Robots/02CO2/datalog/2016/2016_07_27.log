@@ -1,0 +1,105 @@
+Log-file from 2016-07-27
+
+Time         Event
+08:13:48,541 mode_AutoExt  /
+08:13:48,645 CheckPrg      / 101
+08:13:48,693 CheckPrg      \ 101
+08:13:57,145 AckError_ext  /
+
+08:13:58,745 AckError_ext  /
+
+08:14:29,542 StartPrg_ext  /
+08:14:29,542 StartPrg ignored, invalid number.
+08:14:29,542 ConvReset     / conv: 3mm.
+08:14:30,262 MainPrg       / 101
+08:16:03,357 MainPrg       \ 101 conv: 3715.98mm.
+
+08:17:54,100 mode_Auto     /
+08:17:54,844 mode_T1       /
+10:17:01,288 User          / 3 admin
+10:17:58,010 E-Stop        /
+10:18:26,135 E-Stop        \
+10:18:34,427 mode_T1       /
+10:49:59,559 mode_AutoExt  /
+10:49:59,991 Servopower    /
+10:50:00,107 CheckPrg      / 101
+10:50:00,159 CheckPrg      \ 101
+10:51:17,257 StartPrg_ext  /
+10:51:17,257 StartPrg ignored, invalid number.
+10:51:17,257 ConvReset     / conv: 0mm.
+10:51:18,006 MainPrg       / 101
+10:52:12,519 MainPrg       \ 101 conv: 3608.25mm.
+
+10:52:26,264 mode_T1       /
+10:52:46,504 mode_Auto     /
+10:52:46,684 mode_AutoExt  /
+10:52:46,804 CheckPrg      / 101
+10:52:46,856 CheckPrg      \ 101
+10:52:53,256 AckError_ext  /
+
+10:53:24,105 StartPrg_ext  /
+10:53:24,105 StartPrg ignored, invalid number.
+10:53:24,105 ConvReset     / conv: 0mm.
+10:53:24,709 MainPrg       / 101
+10:54:48,540 MainPrg       \ 101 conv: 3570.65mm.
+
+10:55:57,230 mode_Auto     /
+10:55:57,422 mode_T1       /
+11:49:02,283 admin changed Home98
+11:49:05,643 admin changed Home98
+11:49:09,083 admin changed Home98
+11:49:12,323 admin changed Home98
+11:49:14,603 admin changed Home98
+11:49:24,684 admin changed Home98
+11:49:34,204 admin changed Home98
+12:17:56,516 admin changed chanal settings brush speed unit
+12:17:57,996 admin changed chanal settings brush speed shortcut
+12:17:59,396 admin changed chanal settings brush speed description
+12:18:00,556 admin changed chanal settings brush speed 
+12:18:06,117 admin changed chanal settings channel2 unit
+12:18:10,997 admin changed chanal settings channel2 shortcut
+12:18:15,117 admin changed chanal settings channel2 description
+12:18:17,557 admin changed chanal settings channel2 
+12:18:20,717 admin changed chanal settings channel3 unit
+12:18:23,517 admin changed chanal settings channel3 shortcut
+12:18:25,917 admin changed chanal settings channel3 description
+12:18:28,477 admin changed chanal settings channel3 
+12:18:31,157 admin changed chanal settings channel4 unit
+12:18:33,397 admin changed chanal settings channel4 shortcut
+12:18:35,757 admin changed chanal settings channel4 description
+12:18:39,518 admin changed chanal settings channel4 
+12:18:48,198 admin changed chanal settings channel4 override: 100
+12:18:51,638 admin changed chanal settings channel3 override: 100
+12:18:55,278 admin changed chanal settings channel2 override: 100
+12:19:01,686 admin stored image to FTP sync device
+12:19:35,731 E-Stop        /
+12:43:14,149 E-Stop        \
+13:58:16,381 User          \
+14:04:10,328 E-Stop        /
+14:04:21,588 E-Stop        \
+14:24:12,271 E-Stop        /
+14:51:46,227 E-Stop        \
+14:53:04,830 E-Stop        /
+14:54:04,552 E-Stop        \
+15:37:43,073 E-Stop        /
+15:39:48,688 E-Stop        \
+15:46:28,197 E-StopP       /
+15:46:28,221 E-Stop        /
+15:46:34,238 E-StopP       \
+15:46:40,562 E-Stop        \
+15:50:34,221 E-StopP       /
+15:50:34,249 E-Stop        /
+15:50:40,877 E-StopP       \
+15:50:45,521 E-StopP       /
+15:50:53,313 E-StopP       \
+15:50:57,578 E-StopP       /
+15:51:29,063 E-StopP       \
+15:51:33,655 E-Stop        \
+16:36:00,591 E-Stop        /
+16:38:06,467 E-Stop        \
+16:42:18,219 E-Stop        /
+16:42:57,033 E-Stop        \
+17:10:50,175 E-Stop        /
+17:12:36,655 E-Stop        \
+18:24:35,989 E-Stop        /
+18:27:09,117 E-Stop        \

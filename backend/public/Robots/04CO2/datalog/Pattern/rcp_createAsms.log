@@ -1,0 +1,12 @@
+(52086) Started creating assignmentsfile 'DatalogSettingsV2_asms.xml' at 2016-07-26-15:54:16
+(52060) Section 'Index of dropdownboxes (USINT)'
+(52060) Section 'Index of condition dropdownboxes (USINT)'
+(52060) Section 'Control datapoints of visu elements: dropdown (UINT)'
+(52060) Section 'Control datapoints of visu elements: textfields (UINT)'
+(52060) Section 'Selection between self defined and dropdown variables (BOOL)'
+(52060) Section 'Self defined variables1 (STRING[100])'
+(52060) Section 'Self defined variables2 (STRING[100])'
+(52060) Section 'Trigger values (LREAL)'
+(52060) Section 'Autolog after reboot of controller (BOOL)'
+(52060) Section 'Samplerate log in ms (REAL)'
+(52087) Finished creating assignmentsfile 'DatalogSettingsV2_asms.xml' at 2016-07-26-15:54:18

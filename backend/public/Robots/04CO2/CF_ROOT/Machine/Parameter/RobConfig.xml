@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='../vals.xsl'?>
+<valuesfile filename='RobConfig.xml' changed='2016-07-26-12:39:33' asms_file='RobConfig_asms.xml' asms_chg='2016-07-12-15:03:59'>
+  <section name='Program Configuration'>
+    <value name='RobConfiguration_Program_AutoTranslate'>
+      <val>1</val>
+    </value>
+  </section>
+  <section name='Playback Configuration'>
+    <value name='RobConfiguration_Playback_LocalStart'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_Playback_BreakAtDoorOpen'>
+      <val>1</val>
+    </value>
+    <value name='RobConfiguration_Playback_BreakAtGunOff'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_Playback_LoadColorBeforeMovement'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Conveyor Configuration'>
+    <value name='RobConfiguration_Conveyor_LocalReset'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_Conveyor_GapStart'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_Conveyor_GapSet'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_Conveyor_EnShiftStart'>
+      <val>1</val>
+    </value>
+    <value name='RobConfiguration_Conveyor_ShiftStartOffset'>
+      <val>1400</val>
+    </value>
+  </section>
+  <section name='Purge Unit Configuration'>
+    <value name='RobConfiguration_PurgeUnit_Type'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='Simulation-Conveyor Configuration'>
+    <value name='RobConfiguration_SimConveyor_StopAtPrgBreak'>
+      <val>1</val>
+    </value>
+    <value name='RobConfiguration_SimConveyor_UseConvSpeedFromPrg'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='MP50-Keys Configuration'>
+    <value name='RobConfiguration_MP50_Keys_Level4SprayPassword'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='Additional fan control'>
+    <value name='RobConfiguration_AdditionalFan_OnAtTemperature'>
+      <val>48</val>
+    </value>
+    <value name='RobConfiguration_AdditionalFan_OffAtTemperature'>
+      <val>40</val>
+    </value>
+  </section>
+  <section name='Import configuration'>
+    <value name='RobConfiguration_Import_AutoImport'>
+      <val>1</val>
+    </value>
+    <value name='RobConfiguration_Import_ImportAutoTranslate'>
+      <val>1</val>
+    </value>
+    <value name='RobConfiguration_Import_ImportSync'>
+      <val>1</val>
+    </value>
+  </section>
+  <section name='Sync options'>
+    <value name='RobConfiguration_Sync_PauseBetweenFiles'>
+      <val>500</val>
+    </value>
+  </section>
+  <section name='Robot Type'>
+    <value name='RobConfiguration_Robot_Type'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='EnergySavingMode timer'>
+    <value name='RobConfiguration_EnergySavingMode_Automatic'>
+      <val>0</val>
+    </value>
+    <value name='RobConfiguration_EnergySavingMode_Test'>
+      <val>0</val>
+    </value>
+  </section>
+</valuesfile>

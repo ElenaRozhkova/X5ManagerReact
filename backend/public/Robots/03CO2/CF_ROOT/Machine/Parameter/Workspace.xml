@@ -1,0 +1,378 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='../vals.xsl'?>
+<valuesfile filename='Workspace.xml' changed='2016-07-28-16:07:05' asms_file='Workspace_asms.xml' asms_chg='2016-07-26-15:53:26'>
+  <section name='Workspace - Start Point'>
+    <value name='Workspace_Limits_StartPoint_X'>
+      <val>-3500</val>
+    </value>
+    <value name='Workspace_Limits_StartPoint_Y'>
+      <val>-1100</val>
+    </value>
+    <value name='Workspace_Limits_StartPoint_Z'>
+      <val>-380</val>
+    </value>
+  </section>
+  <section name='Workspace - End Point'>
+    <value name='Workspace_Limits_EndPoint_X'>
+      <val>3500</val>
+    </value>
+    <value name='Workspace_Limits_EndPoint_Y'>
+      <val>3500</val>
+    </value>
+    <value name='Workspace_Limits_EndPoint_Z'>
+      <val>3300</val>
+    </value>
+  </section>
+  <section name='Number of active restricted areas'>
+    <value name='Workspace_RestrictedAreas_Number'>
+      <val>3</val>
+    </value>
+  </section>
+  <section name='Restricted Area 0 - Start Point'>
+    <value name='Workspace_RestrictedAreas[0]_StartPoint_X'>
+      <val>-500</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[0]_StartPoint_Y'>
+      <val>-625</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[0]_StartPoint_Z'>
+      <val>-380</val>
+    </value>
+  </section>
+  <section name='Restricted Area 0 - End Point'>
+    <value name='Workspace_RestrictedAreas[0]_EndPoint_X'>
+      <val>500</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[0]_EndPoint_Y'>
+      <val>625</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[0]_EndPoint_Z'>
+      <val>530</val>
+    </value>
+  </section>
+  <section name='Restricted Area 1 - Start Point'>
+    <value name='Workspace_RestrictedAreas[1]_StartPoint_X'>
+      <val>-625</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[1]_StartPoint_Y'>
+      <val>-450</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[1]_StartPoint_Z'>
+      <val>-380</val>
+    </value>
+  </section>
+  <section name='Restricted Area 1 - End Point'>
+    <value name='Workspace_RestrictedAreas[1]_EndPoint_X'>
+      <val>625</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[1]_EndPoint_Y'>
+      <val>450</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[1]_EndPoint_Z'>
+      <val>530</val>
+    </value>
+  </section>
+  <section name='Restricted Area 2 - Start Point'>
+    <value name='Workspace_RestrictedAreas[2]_StartPoint_X'>
+      <val>-3500</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[2]_StartPoint_Y'>
+      <val>-750</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[2]_StartPoint_Z'>
+      <val>-380</val>
+    </value>
+  </section>
+  <section name='Restricted Area 2 - End Point'>
+    <value name='Workspace_RestrictedAreas[2]_EndPoint_X'>
+      <val>3500</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[2]_EndPoint_Y'>
+      <val>-760</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[2]_EndPoint_Z'>
+      <val>600</val>
+    </value>
+  </section>
+  <section name='Restricted Area 3 - Start Point'>
+    <value name='Workspace_RestrictedAreas[3]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[3]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[3]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 3 - End Point'>
+    <value name='Workspace_RestrictedAreas[3]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[3]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[3]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 4 - Start Point'>
+    <value name='Workspace_RestrictedAreas[4]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[4]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[4]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 4 - End Point'>
+    <value name='Workspace_RestrictedAreas[4]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[4]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[4]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 5 - Start Point'>
+    <value name='Workspace_RestrictedAreas[5]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[5]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[5]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 5 - End Point'>
+    <value name='Workspace_RestrictedAreas[5]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[5]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[5]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 6 - Start Point'>
+    <value name='Workspace_RestrictedAreas[6]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[6]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[6]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 6 - End Point'>
+    <value name='Workspace_RestrictedAreas[6]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[6]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[6]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 7 - Start Point'>
+    <value name='Workspace_RestrictedAreas[7]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[7]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[7]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 7 - End Point'>
+    <value name='Workspace_RestrictedAreas[7]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[7]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[7]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 8 - Start Point'>
+    <value name='Workspace_RestrictedAreas[8]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[8]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[8]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 8 - End Point'>
+    <value name='Workspace_RestrictedAreas[8]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[8]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[8]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 9 - Start Point'>
+    <value name='Workspace_RestrictedAreas[9]_StartPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[9]_StartPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[9]_StartPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Restricted Area 9 - End Point'>
+    <value name='Workspace_RestrictedAreas[9]_EndPoint_X'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[9]_EndPoint_Y'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_RestrictedAreas[9]_EndPoint_Z'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Collision Detection'>
+    <value name='Workspace_RobID'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetectionActive'>
+      <val>FALSE</val>
+    </value>
+    <value name='Workspace_SafeDistance'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='Collision Detection Alignment Robot1'>
+    <value name='Workspace_CollisionDetection[0]_ID'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_dx'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_dy'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_dz'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_da'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_db'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_dc'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_RobotType'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[0]_active'>
+      <val>FALSE</val>
+    </value>
+  </section>
+  <section name='Collision Detection Alignment Robot2'>
+    <value name='Workspace_CollisionDetection[1]_ID'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_dx'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_dy'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_dz'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_da'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_db'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_dc'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_RobotType'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[1]_active'>
+      <val>FALSE</val>
+    </value>
+  </section>
+  <section name='Collision Detection Alignment Robot3'>
+    <value name='Workspace_CollisionDetection[2]_ID'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_dx'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_dy'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_dz'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_da'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_db'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_dc'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_RobotType'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[2]_active'>
+      <val>FALSE</val>
+    </value>
+  </section>
+  <section name='Collision Detection Alignment Robot4'>
+    <value name='Workspace_CollisionDetection[3]_ID'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_dx'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_dy'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_dz'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_da'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_db'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_dc'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_RobotType'>
+      <val>0</val>
+    </value>
+    <value name='Workspace_CollisionDetection[3]_active'>
+      <val>FALSE</val>
+    </value>
+  </section>
+</valuesfile>

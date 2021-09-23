@@ -1,0 +1,19 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen möglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schließt die Aufzählungshilfe ab
+; - in Wertezeilen: ein ";" kennzeichnet den Namen, es werden nur ca. xx Zeichen angezeigt
+; - es werden nur die ersten 7 Zeichen von 'Einheit' nach dem ';' angezeigt
+; - es werden nur die ersten 7 Zeichen von 'TxtKurz' nach dem ';' angezeigt
+; - es werden nur die ersten 15 Zeichen von 'TxtLang' nach dem ';' angezeigt
+; - die Gesamtanzahl der Parameter nicht ändern: 6 werden erwartet
+;
+;         Skalier   Maximum    Offset   Ovr  ;Einheit	 ;TxtKurz  ;TextLang
+;-----------------------------------------------------------------------------------------
+B_Speed=      500      1450         0   100  ;mm/s     ;Speed    ;Brush Speed    
+Analog1=  6.55350   10.0000   0.00000   100  ;bar      ;Druck    ;Druck          
+Analog2=  65.5350   0.00000   0.00000   100  ;-        ;-        ;-              
+Analog3=  655.350   0.00000   0.00000   100  ;-        ;-        ;-              
+Analog4=  1435.00   0.00000   0.00000   100  ;-        ;-        ;-              
+Analog5=  655.350   0.00000   0.00000   100  ;-        ;-        ;-              

@@ -1,0 +1,92 @@
+Log-file from 2016-05-20
+
+Time      Event
+13:28:32,473 User	/	3	admin
+13:28:39,011 Import device disconnected
+13:28:41,891 Import device connected to CF
+13:30:07,652 Import device disconnected
+13:30:10,609 Import device connected to CF
+13:41:18,969 99907.dbk	imported
+13:41:20,683 99911.dbk	imported
+13:41:22,396 99917.dbk	imported
+13:41:47,750 99919.prg	imported
+13:41:48,220 99919.prg	compiled
+13:42:14,059 99923.prg	imported
+13:42:14,539 99923.prg	compiled
+13:42:16,176 99924.prg	imported
+13:42:16,660 99924.prg	compiled
+13:42:41,376 99980.prg	rejected
+13:43:10,003 99900.prg	imported
+13:43:10,881 99900.prg	compiled
+13:43:12,772 99909.prg	imported
+13:43:13,680 99909.prg	compiled
+13:43:15,648 99910.prg	imported
+13:43:16,521 99910.prg	compiled
+13:43:18,268 99911.prg	imported
+13:43:19,022 99911.prg	compiled
+13:43:20,889 99912.prg	imported
+13:43:21,758 99912.prg	compiled
+13:43:23,457 99914.prg	imported
+13:43:24,201 99914.prg	compiled
+13:43:25,977 99915.prg	imported
+13:43:26,760 99915.prg	compiled
+13:43:28,497 99916.prg	imported
+13:43:29,299 99916.prg	compiled
+13:43:31,219 99920.prg	imported
+13:43:31,982 99920.prg	compiled
+13:43:33,840 99930.prg	imported
+13:43:34,622 99930.prg	compiled
+13:43:36,412 99931.prg	imported
+13:43:37,219 99931.prg	compiled
+13:43:39,033 99932.prg	imported
+13:43:39,782 99932.prg	compiled
+13:43:41,452 99933.prg	imported
+13:43:42,201 99933.prg	compiled
+13:43:42,859 Import device disconnected
+13:43:43,972 99934.prg	imported
+13:43:44,760 99934.prg	compiled
+13:43:46,180 Import device connected to CF
+13:43:56,721 99990.prg	imported
+13:43:57,499 99990.prg	compiled
+13:43:59,395 99991.prg	imported
+13:44:00,220 99991.prg	compiled
+13:44:01,560 99900.dat	imported
+13:44:02,155 E-StopP	/
+13:44:03,206 E-StopP	\
+13:44:03,273 99909.dat	imported
+13:44:05,342 99910.dat	imported
+13:44:07,104 99911.dat	imported
+13:44:08,769 99912.dat	imported
+13:44:10,430 99914.dat	imported
+13:44:10,742 Import device disconnected
+13:44:13,761 Import device connected to CF
+13:44:21,216 0.prg	imported
+14:49:01,041 E-Stop	/
+14:49:01,041 Reboot	/
+14:49:01,041 CheckPrgNet	/	
+14:49:01,041 Spray	/	0	
+14:49:01,065 mode_T1	/
+13:49:02,433 WorkDir_CF	/
+13:49:05,169 Reboot	\
+13:49:16,492 User	/	3	admin
+13:49:35,352 Import device connected to CF
+13:49:44,870 99909.dat	imported
+13:49:46,536 99910.dat	imported
+13:49:48,297 99911.dat	imported
+13:49:49,963 99912.dat	imported
+13:49:51,624 99914.dat	imported
+13:49:53,289 99915.dat	imported
+13:49:54,950 99916.dat	imported
+13:49:56,616 99919.dat	imported
+13:49:58,276 99920.dat	imported
+13:49:59,942 99923.dat	imported
+13:50:01,603 99924.dat	imported
+13:50:03,268 99930.dat	imported
+13:50:04,929 99931.dat	imported
+13:50:06,595 99932.dat	imported
+13:50:08,256 99933.dat	imported
+13:50:09,921 99934.dat	imported
+13:50:11,635 99980.dat	imported
+13:50:13,296 99990.dat	imported
+13:50:14,961 99991.dat	imported
+15:28:42,354 User	\

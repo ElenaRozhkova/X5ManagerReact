@@ -1,0 +1,28 @@
+Log-file from 2016-05-25
+
+Time      Event
+08:12:53,198 User	/	3	admin
+08:13:19,118 99900.prg	copied to code	99899.prg
+08:13:19,920 99899.prg	compiled
+08:14:42,581 admin changed Tool98
+08:14:48,739 admin changed Tool98
+08:14:51,758 admin changed Tool98
+08:15:13,042 admin changed Tool98
+08:15:21,221 admin changed Tool99
+08:15:26,438 admin changed Tool99
+08:15:28,680 admin changed Tool99
+08:15:38,400 admin changed Tool99
+08:19:37,282 admin changed Base offset: dy -1
+08:19:52,459 admin changed Base offset: dy 1
+08:44:52,309 admin changed Base offset: Rx 0.02
+08:45:36,987 admin changed Base offset: Rx 0.04
+11:25:26,980 User	\
+11:44:15,010 User	/	3	admin
+11:45:45,432 admin changed Base offset: dz -7.5
+11:56:18,854 admin changed on axis1 negativ software limitation: -105°
+11:56:22,517 admin changed on axis1 positiv software limitation: 105°
+14:24:18,463 User	\
+15:36:16,771 User	/	3	admin
+15:37:49,632 User	\
+15:40:21,149 99980.prg	imported
+15:40:21,970 99980.prg	compiled

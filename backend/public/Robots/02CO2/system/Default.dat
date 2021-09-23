@@ -1,0 +1,34 @@
+; Regeln beim Editieren: 
+; - Kommentarzeilen beginnen mit ";" reine Leerzeilen sind nicht erlaubt
+; - maximal 20 einleitende Kommentarzeilen möglich, der Rest geht verloren
+; - Zeilen ohne ";" am Anfang sind Wertezeilen !
+; - in Wertezeilen: ein "=" schließt den Parametertext ab
+; - die Gesamtanzahl der Einträge nicht ändern: 24 werden erwartet
+;
+;-----------------------------------------------------------------------------------------
+GunOnTime[1]    = 160		;Schaltzeiten der Pistole 1
+GunOffTime[1]   = 180
+PumpOnTime[1]   = 110		;Schaltzeiten der Dosierpumpe 1
+PumpOffTime[1]  = 100
+GunOnTime[2]    = 0		;Schaltzeiten der Pistole 2
+GunOffTime[2]   = 0
+PumpOnTime[2]   = 0		;Schaltzeiten der Dosierpumpe 2
+PumpOffTime[2]  = 0
+GunOnTime[3]    = 0		;Schaltzeiten der Pistole 3
+GunOffTime[3]   = 0
+PumpOnTime[3]   = 0		;Schaltzeiten der Dosierpumpe 3
+PumpOffTime[3]  = 0
+GunOnTime[4]    = 0		;Schaltzeiten der Pistole 4
+GunOffTime[4]   = 0
+PumpOnTime[4]   = 0		;Schaltzeiten der Dosierpumpe 4
+PumpOffTime[4]  = 0
+DbkParam1UpTime = 80		;Anstiegszeit des Analogwertes 1
+DbkParam1DwTime = 50
+DbkParam2UpTime = 80		;Anstiegszeit des Analogwertes 2
+DbkParam2DwTime = 50
+DbkParam3UpTime = 80		;Anstiegszeit des Analogwertes 3
+DbkParam3DwTime = 50
+DbkParam4UpTime = 80		;Anstiegszeit des Analogwertes 4
+DbkParam4DwTime = 50
+DbkParam5UpTime = 80		;Anstiegszeit des Analogwertes 5
+DbkParam5DwTime = 50

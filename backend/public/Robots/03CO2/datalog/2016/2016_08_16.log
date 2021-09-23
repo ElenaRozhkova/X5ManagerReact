@@ -1,0 +1,28 @@
+Log-file from 2016-08-16
+
+Time         Event
+10:46:35,816 User          / 3 admin
+10:47:29,714 CheckPrg      \ 50010
+10:47:35,799 mode_T2       /
+10:47:56,991 StartPrg      / conv: 763mm.
+10:47:57,067 BreakPrg      / conv: 763.01mm.
+10:48:09,588 ContinuePrg   / conv: 763.03mm.
+10:48:10,216 MainPrg       / 50010
+10:48:10,748 BreakPrg      / conv: 770.24mm.
+10:48:11,732 ContinuePrg   / conv: 770.96mm.
+10:48:12,588 BreakPrg      / conv: 776.09mm.
+10:48:18,368 ContinuePrg   / conv: 776.81mm.
+10:49:37,755 MainPrg       \ 50010 conv: 3471.67mm.
+
+10:49:48,140 StartPrg      / conv: 3489.1mm.
+10:49:48,216 BreakPrg      / conv: 763.01mm.
+10:49:50,932 ContinuePrg   / conv: 763.03mm.
+10:49:51,332 MainPrg       / 50010
+10:50:31,757 MainPrg       \ 50010 conv: 3483.66mm.
+
+10:52:26,434 CheckPrg      \ -50010
+10:52:41,930 mode_T1       /
+10:52:42,086 mode_T1       /
+11:24:55,977 40000.cs imported
+11:24:57,977 40010.cs imported
+12:56:40,453 User          \

@@ -1,0 +1,31 @@
+Log-file from 2016-06-07
+
+Time      Event
+09:07:57,087 User	/	3	admin
+09:08:02,045 admin changed Home5
+09:08:07,849 admin changed Home5
+09:08:11,669 admin changed Home5
+09:08:20,847 admin changed Home5
+09:08:24,466 admin changed Home5
+09:08:27,946 admin changed Home5
+09:08:31,407 admin changed Home5
+09:12:38,247 admin changed Home5
+09:12:40,527 admin changed Home5
+09:12:42,769 admin changed Home5
+09:12:55,426 admin changed Home5
+09:15:56,165 User	\
+09:16:08,189 User	/	4	b+m service
+09:44:35,785 b+m service changed on axis1 negativ software limitation: -95°
+09:44:37,365 b+m service changed on axis1 positiv software limitation: 95°
+10:03:06,989 b+m service changed Home5
+10:03:11,847 b+m service changed Home5
+10:03:20,429 b+m service changed Home5
+10:03:27,231 b+m service changed Home5
+10:03:32,391 b+m service changed Home5
+10:03:38,290 b+m service changed Home5
+10:04:00,788 b+m service changed Home5
+10:04:09,471 b+m service changed Home5
+10:04:12,149 b+m service changed Home5
+10:04:14,329 b+m service changed Home5
+10:06:19,681 b+m service changed Home5
+11:53:32,108 User	\

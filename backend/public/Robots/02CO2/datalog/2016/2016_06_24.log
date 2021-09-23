@@ -1,0 +1,36 @@
+Log-file from 2016-06-24
+
+Time         Event
+09:22:14,686 User          / 3 admin
+09:24:33,180 admin changed Tool1
+09:25:01,741 admin changed Tool1
+09:25:06,141 admin changed Tool1
+09:25:08,741 admin changed Tool6
+09:25:39,302 admin changed Tool8
+09:25:45,302 admin changed Tool10
+09:25:48,822 admin changed Tool12
+09:25:51,182 admin changed Tool14
+09:25:55,342 admin changed Tool97
+09:25:59,222 admin changed Tool98
+09:26:01,942 admin changed Tool98
+09:26:05,742 admin changed Tool99
+09:26:25,223 1.prg created
+09:27:47,826 admin changed Tool1
+09:33:29,390 admin changed Tool7
+11:22:51,365 User          \
+12:33:13,347 User          / 3 admin
+12:33:22,907 admin changed conveyor settings: entered or calculated new factor 39250
+12:35:13,355 mode_Auto     /
+12:35:14,195 mode_AutoExt  /
+12:35:14,775 Servopower    /
+12:35:14,875 CheckPrg      / 90202
+12:35:15,011 CheckPrg      \ 90202
+12:37:18,323 StartPrg_ext  /
+12:37:18,323 StartPrg ignored, invalid number.
+12:37:18,323 ConvReset     / conv: 0mm.
+12:37:19,070 MainPrg       / 90202
+12:38:20,632 MainPrg       \ 90202 conv: 4933mm.
+
+12:38:24,364 mode_Auto     /
+12:38:24,492 mode_T1       /
+14:14:16,351 User          \

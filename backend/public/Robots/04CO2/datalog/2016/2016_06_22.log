@@ -1,0 +1,12 @@
+Log-file from 2016-06-22
+
+Time         Event
+10:05:39,865 Reboot        \
+10:05:39,865 CheckPrg      \ 0
+10:05:39,865 Spray         / 0 admin
+10:05:42,081 mode_T1       /
+10:08:10,591 User          / 3 admin
+12:26:18,241 User          \
+13:57:01,566 User          / 3 admin
+13:57:04,766 admin changed Home28
+15:36:21,868 User          \

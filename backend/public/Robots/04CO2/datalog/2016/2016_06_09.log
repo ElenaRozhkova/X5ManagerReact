@@ -1,0 +1,21 @@
+Log-file from 2016-06-09
+
+Time      Event
+16:26:15,447 User	/	4	b+m service
+16:32:23,035 E-Stop        /
+16:32:23,035 Reboot        \
+16:32:23,035 CheckPrg      \ 0
+16:32:23,035 Spray         / 0 admin
+16:39:56,094 E-Stop        /
+16:39:56,094 Reboot        \
+16:39:56,094 CheckPrg      \ 0
+16:39:56,094 Spray         / 0 admin
+16:40:59,497 User          / 3 admin
+16:44:15,923 E-Stop        /
+16:44:15,923 Reboot        \
+16:44:15,923 CheckPrg      \ 0
+16:44:15,923 Spray         / 0 admin
+16:44:51,765 User          / 3 admin
+16:54:38,018 E-Stop        \
+16:56:16,394 mode_T1       /
+18:35:27,721 User          \

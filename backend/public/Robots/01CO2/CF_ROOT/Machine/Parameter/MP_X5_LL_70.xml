@@ -1,0 +1,1258 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='../vals.xsl'?>
+<valuesfile filename='MP_X5_LL_70.xml' changed='2016-08-04-17:23:08' asms_file='MP_asms.xml' asms_chg='2016-07-26-15:50:10'>
+  <section name='TRF Selection'>
+    <value name='MotionParameter_TRF_Mechanics_MechanicType'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='TRF Robot Dimension'>
+    <value name='MotionParameter_TRF_Mechanics_a1y'>
+      <val>204</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a1z'>
+      <val>697</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a2x'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a2z'>
+      <val>1446</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a3y'>
+      <val>1665</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a3z'>
+      <val>170</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a4'>
+      <val>100</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a4a'>
+      <val>60</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a5'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a5a'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a5y'>
+      <val>108.5</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_a6'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='TRF Axes Coupling'>
+    <value name='MotionParameter_TRF_Mechanics_AxesCoupling_Q4Q5'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_AxesCoupling_Q4Q6'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_AxesCoupling_Q5Q6'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_MechLinkQ5Q5p'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='TRF Arm diameters'>
+    <value name='MotionParameter_TRF_Mechanics_diameter_0'>
+      <val>200</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_diameter_1'>
+      <val>400</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_diameter_2'>
+      <val>170</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_diameter_3'>
+      <val>200</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_diameter_4'>
+      <val>165</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_diameter_5'>
+      <val>116</val>
+    </value>
+  </section>
+  <section name='TRF Properties'>
+    <value name='MotionParameter_TRF_Mechanics_AnglesType'>
+      <val>2048</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_AccurancyAngle'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_AccurancyPos'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_TRF_Mechanics_SmoothPath'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_TRF_Tool_AnglesType'>
+      <val>32</val>
+    </value>
+  </section>
+  <section name='TRF Axes Properties'>
+    <value name='MotionParameter_TRF_Axes_Q1_Property'>
+      <val>37</val>
+    </value>
+    <value name='MotionParameter_TRF_Axes_Q2_Property'>
+      <val>37</val>
+    </value>
+    <value name='MotionParameter_TRF_Axes_Q3_Property'>
+      <val>37</val>
+    </value>
+    <value name='MotionParameter_TRF_Axes_Q4_Property'>
+      <val>37</val>
+    </value>
+    <value name='MotionParameter_TRF_Axes_Q5_Property'>
+      <val>37</val>
+    </value>
+    <value name='MotionParameter_TRF_Axes_Q6_Property'>
+      <val>37</val>
+    </value>
+  </section>
+  <section name='AXIS 1'>
+    <value name='MotionParameter_Axes_Q1_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_LagError'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_PosSwEnd'>
+      <val>101</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_NegSwEnd'>
+      <val>-101</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_Acceleration'>
+      <val>480</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_Velocity'>
+      <val>120</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Controller_SpeedKv'>
+      <val>9</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Controller_SpeedTn'>
+      <val>0.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Encoder_CountDirection'>
+      <val>255</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Encoder_Units'>
+      <val>360000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_Encoder_Revolution'>
+      <val>171</val>
+    </value>
+    <value name='MotionParameter_Axes_Q1_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS 2'>
+    <value name='MotionParameter_Axes_Q2_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_LagError'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_PosSwEnd'>
+      <val>47</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_NegSwEnd'>
+      <val>-80</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_Acceleration'>
+      <val>480</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_Velocity'>
+      <val>120</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Controller_SpeedKv'>
+      <val>24</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Controller_SpeedTn'>
+      <val>0.2</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Encoder_CountDirection'>
+      <val>255</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Encoder_Units'>
+      <val>360000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_Encoder_Revolution'>
+      <val>248</val>
+    </value>
+    <value name='MotionParameter_Axes_Q2_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS 3'>
+    <value name='MotionParameter_Axes_Q3_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_LagError'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_PosSwEnd'>
+      <val>100</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_NegSwEnd'>
+      <val>-79</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_Acceleration'>
+      <val>480</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_Velocity'>
+      <val>120</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Controller_SpeedKv'>
+      <val>6</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Controller_SpeedTn'>
+      <val>0.2</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Encoder_Units'>
+      <val>3600000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_Encoder_Revolution'>
+      <val>2016</val>
+    </value>
+    <value name='MotionParameter_Axes_Q3_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS 4'>
+    <value name='MotionParameter_Axes_Q4_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_LagError'>
+      <val>42</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_PosSwEnd'>
+      <val>1140</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_NegSwEnd'>
+      <val>-1140</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_Acceleration'>
+      <val>2940</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_Velocity'>
+      <val>420</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Controller_SpeedKv'>
+      <val>0.5</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Controller_SpeedTn'>
+      <val>0.05</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Encoder_Units'>
+      <val>360000000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_Encoder_Revolution'>
+      <val>85167</val>
+    </value>
+    <value name='MotionParameter_Axes_Q4_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS 5'>
+    <value name='MotionParameter_Axes_Q5_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_LagError'>
+      <val>48</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_PosSwEnd'>
+      <val>1140</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_NegSwEnd'>
+      <val>-1140</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_Acceleration'>
+      <val>3360</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_Velocity'>
+      <val>480</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Controller_SpeedKv'>
+      <val>0.5</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Controller_SpeedTn'>
+      <val>0.05</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Encoder_Units'>
+      <val>360000000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_Encoder_Revolution'>
+      <val>75833</val>
+    </value>
+    <value name='MotionParameter_Axes_Q5_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS 6'>
+    <value name='MotionParameter_Axes_Q6_Simulation'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_LagError'>
+      <val>56</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_PosSwEnd'>
+      <val>740</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_NegSwEnd'>
+      <val>-740</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_JoltTime'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_Acceleration'>
+      <val>3920</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_Velocity'>
+      <val>560</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Controller_PositionKv'>
+      <val>20</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Controller_SpeedKv'>
+      <val>0.5</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Controller_SpeedTn'>
+      <val>0.05</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Encoder_Units'>
+      <val>360000000</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_Encoder_Revolution'>
+      <val>64167</val>
+    </value>
+    <value name='MotionParameter_Axes_Q6_TempModelMode'>
+      <val>2</val>
+    </value>
+  </section>
+  <section name='AXIS L1'>
+    <value name='MotionParameter_Axes_L1_Simulation'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_LagError'>
+      <val>10</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_PosSwEnd'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_NegSwEnd'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_JoltTime'>
+      <val>0.14</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_Acceleration'>
+      <val>1000</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_Velocity'>
+      <val>100</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Controller_PositionKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Controller_SpeedKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Controller_SpeedTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Encoder_Units'>
+      <val>1000000</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_Encoder_Revolution'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_Axes_L1_TempModelMode'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='AXIS L2'>
+    <value name='MotionParameter_Axes_L2_Simulation'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_LagError'>
+      <val>10</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_PosSwEnd'>
+      <val>100000</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_NegSwEnd'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_JoltTime'>
+      <val>0.14</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_Acceleration'>
+      <val>1000</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_Velocity'>
+      <val>100</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Controller_PositionKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Controller_SpeedKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Controller_SpeedTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Encoder_Units'>
+      <val>1000000</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_Encoder_Revolution'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_Axes_L2_TempModelMode'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='AXIS L3'>
+    <value name='MotionParameter_Axes_L3_Simulation'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_LagError'>
+      <val>10</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_PosSwEnd'>
+      <val>1e+06</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_NegSwEnd'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_JoltTime'>
+      <val>0.14</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_Acceleration'>
+      <val>1000</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_Velocity'>
+      <val>100</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Limits_TorqueFactor'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Controller_PositionKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Controller_PositionTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Controller_SpeedKv'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Controller_SpeedTn'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Encoder_Units'>
+      <val>1000000</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_Encoder_Revolution'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_Axes_L3_TempModelMode'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='AXIS Conveyor'>
+    <value name='MotionParameter_Axes_Conv_Encoder_CountDirection'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_Conv_Encoder_Increment_per_Meter'>
+      <val>39194</val>
+    </value>
+  </section>
+  <section name='AXIS Teach Conveyor'>
+    <value name='MotionParameter_Axes_TeachAxis_AutoReturn'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_StopAtPrgEnd'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_BreakAtPrgBreak'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_UseConvSpeedFromPrg'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_RampDuration'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_SlowSpeed'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_FastSpeed'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Axes_TeachAxis_AutomaticSpeed'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='OPTIMIZER Torque'>
+    <value name='MotionParameter_Optimizer_Torque_Q1'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_Q2'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_Q3'>
+      <val>11</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_Q4'>
+      <val>1e+30</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_Q5'>
+      <val>1e+30</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_Q6'>
+      <val>1e+30</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_L1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_L2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Torque_L3'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='OPTIMIZER Jolt Time'>
+    <value name='MotionParameter_Optimizer_JoltTime_Q1'>
+      <val>48000</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_Q2'>
+      <val>48000</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_Q3'>
+      <val>48000</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_Q4'>
+      <val>1e+06</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_Q5'>
+      <val>1e+06</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_Q6'>
+      <val>1e+06</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_L1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_L2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_JoltTime_L3'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='OPTIMIZER Base Parameter'>
+    <value name='MotionParameter_Optimizer_Base_Par_0'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_3'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_4'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_5'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_6'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_7'>
+      <val>0.256315</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_8'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_9'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_10'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_11'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_12'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_13'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_14'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_15'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_16'>
+      <val>-12.8174</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_17'>
+      <val>185.463</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_18'>
+      <val>-4.73457</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_19'>
+      <val>6.05734</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_20'>
+      <val>-13.1424</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_21'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_22'>
+      <val>28.5459</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_23'>
+      <val>373.193</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_24'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_25'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_26'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_27'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_28'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_29'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_30'>
+      <val>84.3396</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_31'>
+      <val>4.01819</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_32'>
+      <val>-0.580283</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_33'>
+      <val>19.5705</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_34'>
+      <val>10.4037</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_35'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_36'>
+      <val>132.651</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_37'>
+      <val>39.0758</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_38'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_39'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_40'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_41'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_42'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_43'>
+      <val>-0.43404</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_44'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_45'>
+      <val>-1.28394</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_46'>
+      <val>0.633138</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_47'>
+      <val>-2.02589</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_48'>
+      <val>-2.14785</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_49'>
+      <val>0.280386</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_50'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_51'>
+      <val>1.6142</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_52'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_53'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_54'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_55'>
+      <val>-5.7e-05</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_56'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_57'>
+      <val>1.43825</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_58'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_59'>
+      <val>1.79224</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_60'>
+      <val>-3.13101</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_61'>
+      <val>-1.82018</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_62'>
+      <val>-0.6707</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_63'>
+      <val>0.132158</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_64'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_65'>
+      <val>0.509461</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_66'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_67'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_68'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_69'>
+      <val>-7.5e-05</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_70'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_71'>
+      <val>0.010895</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_72'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_73'>
+      <val>-0.162039</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_74'>
+      <val>0.489025</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_75'>
+      <val>0.667594</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_76'>
+      <val>-1.0489</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_77'>
+      <val>0.224394</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_78'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_79'>
+      <val>-0.936977</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_80'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_81'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_82'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_83'>
+      <val>0.000163</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_84'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_85'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_86'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_87'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_88'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_89'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_90'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_91'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_92'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_93'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_94'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_95'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_96'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_97'>
+      <val>272.19</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_98'>
+      <val>1114.95</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_99'>
+      <val>283.594</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_100'>
+      <val>3.86942</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_101'>
+      <val>4.49663</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_102'>
+      <val>1.59553</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_103'>
+      <val>239.009</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_104'>
+      <val>624.685</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_105'>
+      <val>154.82</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_106'>
+      <val>14.2037</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_107'>
+      <val>-2.15851</val>
+    </value>
+    <value name='MotionParameter_Optimizer_Base_Par_108'>
+      <val>16.1014</val>
+    </value>
+  </section>
+  <section name='JOG LIMITS - Fast'>
+    <value name='MotionParameter_JogLimits_Fast_Q1'>
+      <val>9</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_Q2'>
+      <val>9</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_Q3'>
+      <val>9</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_Q4'>
+      <val>30</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_Q5'>
+      <val>40</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_Q6'>
+      <val>50</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_X'>
+      <val>250</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_Y'>
+      <val>250</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_Z'>
+      <val>250</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_A'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_B'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_TCP_C'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_L1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_L2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Fast_L3'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='JOG LIMITS - Middle'>
+    <value name='MotionParameter_JogLimits_Middle_Q1'>
+      <val>3</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_Q2'>
+      <val>3</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_Q3'>
+      <val>3</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_Q4'>
+      <val>9</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_Q5'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_Q6'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_X'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_Y'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_Z'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_A'>
+      <val>8</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_B'>
+      <val>8</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_TCP_C'>
+      <val>8</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_L1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_L2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Middle_L3'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='JOG LIMITS - Slow'>
+    <value name='MotionParameter_JogLimits_Slow_Q1'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_Q2'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_Q3'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_Q4'>
+      <val>3</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_Q5'>
+      <val>4</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_Q6'>
+      <val>5</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_X'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_Y'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_Z'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_A'>
+      <val>2.5</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_B'>
+      <val>2.5</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_TCP_C'>
+      <val>2.5</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_L1'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_L2'>
+      <val>0</val>
+    </value>
+    <value name='MotionParameter_JogLimits_Slow_L3'>
+      <val>0</val>
+    </value>
+  </section>
+  <section name='TORQUE LIMITS'>
+    <value name='MotionParameter_TorqueLimits_Enable_Q1'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_Q2'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_Q3'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_Q4'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_Q5'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_Q6'>
+      <val>TRUE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_L1'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_L2'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Enable_L3'>
+      <val>FALSE</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q1'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q2'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q3'>
+      <val>11</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q4'>
+      <val>1.2</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q5'>
+      <val>1.1</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_Q6'>
+      <val>1</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_L1'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_L2'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_Limit_L3'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q1'>
+      <val>T#200ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q2'>
+      <val>T#200ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q3'>
+      <val>T#200ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q4'>
+      <val>T#100ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q5'>
+      <val>T#100ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_Q6'>
+      <val>T#100ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_L1'>
+      <val>T#0ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_L2'>
+      <val>T#0ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_ToleranceTime_L3'>
+      <val>T#0ms</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q1'>
+      <val>12</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q2'>
+      <val>25</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q3'>
+      <val>11</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q4'>
+      <val>3.2</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q5'>
+      <val>3.2</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_Q6'>
+      <val>3.2</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_L1'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_L2'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NoDelayedOff_L3'>
+      <val>15</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q1'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q2'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_PositiveLimitPercent_Q3'>
+      <val>80</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q1'>
+      <val>-80</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q2'>
+      <val>-80</val>
+    </value>
+    <value name='MotionParameter_TorqueLimits_NegativeLimitPercent_Q3'>
+      <val>-80</val>
+    </value>
+  </section>
+</valuesfile>

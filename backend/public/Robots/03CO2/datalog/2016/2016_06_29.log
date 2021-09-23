@@ -1,0 +1,21 @@
+Log-file from 2016-06-29
+
+Time         Event
+07:48:36,480 E-Stop        /
+08:22:21,818 Reboot        \
+08:22:21,818 CheckPrg      \ 0
+08:22:21,818 Spray         / 0 admin
+08:22:52,032 mode_T1       /
+08:42:06,584 User          / 3 admin
+10:21:50,405 User          \
+12:37:51,300 User          / 3 admin
+12:38:33,182 admin changed on axis2 positiv software limitation: 46°
+12:38:58,263 admin changed on axis2 positiv software limitation: 47°
+14:18:27,061 User          \
+18:47:06,687 User          / 3 admin
+18:47:40,968 CheckPrg      \ 99900
+18:47:52,109 CheckPrg      \ 99900
+18:49:04,855 99900.prg imported
+18:49:06,187 99900.prg compiled
+18:49:06,239 CheckPrg      \ 99900
+20:30:41,928 User          \

@@ -1,0 +1,62 @@
+Log-file from 2016-07-18
+
+Time         Event
+10:57:20,490 20143.prg imported
+10:57:21,762 20143.prg compiled
+11:25:18,360 CheckPrg      \ 20143
+11:25:45,757 User          / 3 admin
+11:46:18,637 StopPrg       /
+11:46:34,062 CheckPrg      \ 20143
+11:46:35,882 mode_T2       /
+11:46:40,410 StartPrg      / conv: 1.10528e+06mm.
+11:46:40,502 BreakPrg      / conv: 0.01mm.
+11:47:33,344 mode_T1       /
+11:48:22,874 CheckPrg      \ 20143
+11:48:27,022 CheckPrg      \ 20143
+11:48:29,566 mode_T1       /
+11:48:29,590 CheckPrg      \ 20143
+11:48:32,114 mode_T2       /
+11:48:45,795 StartPrg      / conv: 0.03mm.
+11:48:45,867 BreakPrg      / conv: 0.01mm.
+11:49:26,128 ContinuePrg   / conv: 0.03mm.
+11:49:26,617 MainPrg       / 20143
+11:49:26,945 MainPrg       \ 20143 conv: 11.13mm.
+
+11:49:57,829 CheckPrg      \ 20143
+11:51:04,403 StartPrg      / conv: 21.47mm.
+11:51:04,475 BreakPrg      / conv: 0.01mm.
+11:51:07,415 ContinuePrg   / conv: 0.03mm.
+11:51:08,096 MainPrg       / 20143
+11:51:08,984 MainPrg       \ 20143 conv: 10mm.
+
+11:51:47,669 mode_T1       /
+11:54:18,151 mode_T2       /
+11:54:22,431 StartPrg      / conv: 0mm.
+11:54:22,507 BreakPrg      / conv: 0.01mm.
+11:54:30,784 ContinuePrg   / conv: 0.03mm.
+11:54:31,416 MainPrg       / 20143
+11:54:46,124 BreakPrg      / conv: 104.11mm.
+11:54:46,292 BreakPrg      / conv: 104.81mm.
+11:54:59,421 StopPrg       /
+11:54:59,441 MainPrg       \ 20143 conv: 104.83mm.
+
+11:55:17,445 StartPrg      / conv: 104.83mm.
+11:55:17,517 BreakPrg      / conv: 0.01mm.
+11:55:19,765 ContinuePrg   / conv: 0.03mm.
+11:55:20,402 MainPrg       / 20143
+11:56:05,027 BreakPrg      / conv: 308.59mm.
+11:56:05,879 ContinuePrg   / conv: 309.34mm.
+11:56:28,548 BreakPrg      / conv: 463.51mm.
+11:56:33,668 ContinuePrg   / conv: 464.26mm.
+11:57:39,215 MainPrg       \ 20143 conv: 2686.26mm.
+
+11:57:54,932 StartPrg      / conv: 2703.68mm.
+11:57:55,004 BreakPrg      / conv: 0.01mm.
+11:57:57,432 ContinuePrg   / conv: 0.03mm.
+11:57:57,872 MainPrg       / 20143
+11:58:36,497 MainPrg       \ 20143 conv: 2600.39mm.
+
+11:59:32,383 mode_T1       /
+11:59:35,248 User          \
+16:25:37,624 User          / 3 admin
+19:01:00,136 User          \

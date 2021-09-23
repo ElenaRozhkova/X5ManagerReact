@@ -1,0 +1,576 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='DatalogSettingsV2_asms.xml' changed='2016-07-26-15:50:20'>
+  <section name='Index of dropdownboxes (USINT)'>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_0'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_1'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_2'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_3'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_4'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_5'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_6'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos1_7'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos1[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_0'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_1'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_2'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_3'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_4'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_5'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_6'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos2_7'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos2[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_0'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_1'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_2'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_3'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_4'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_5'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_6'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexVarCombos3_7'>
+      <plc_var>DatalogPattern.Input.VISU.IndexVarCombos3[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Index of condition dropdownboxes (USINT)'>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_0'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_1'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_2'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_3'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_4'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_5'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_6'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_IndexConditionCombos_7'>
+      <plc_var>DatalogPattern.Input.VISU.IndexConditionCombos[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Control datapoints of visu elements: dropdown (UINT)'>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos1_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos1[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos2_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos2[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDatapointsCombos3_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDatapointsCombos3[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Control datapoints of visu elements: textfields (UINT)'>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields1_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields1[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields2_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields2[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields3_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields3[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_0'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_1'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_2'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_3'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_4'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_5'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_6'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_ContrDataPointsTextfields4_7'>
+      <plc_var>DatalogPattern.Input.VISU.ContrDataPointsTextfields4[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Selection between self defined and dropdown variables (BOOL)'>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_0'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[0]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_1'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[1]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_2'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[2]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_3'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[3]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_4'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[4]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_5'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[5]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_6'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[6]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar1_7'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar1[7]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_0'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[0]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_1'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[1]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_2'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[2]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_3'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[3]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_4'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[4]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_5'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[5]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_6'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[6]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar2_7'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar2[7]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_0'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[0]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_1'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[1]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_2'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[2]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_3'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[3]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_4'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[4]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_5'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[5]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_6'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[6]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_SelectVar3_7'>
+      <plc_var>DatalogPattern.Input.VISU.SelectVar3[7]</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+  <section name='Self defined variables1 (STRING[100])'>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[0]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[1]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[2]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[3]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[4]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[5]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[6]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings1[7]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings1[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Self defined variables2 (STRING[100])'>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[0]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[0]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[1]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[1]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[2]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[2]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[3]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[3]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[4]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[4]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[5]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[5]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[6]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[6]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_VarStrings2[7]'>
+      <plc_var>DatalogPattern.Input.VISU.VarStrings2[7]</plc_var>
+      <var_default>''</var_default>
+    </assign>
+  </section>
+  <section name='Trigger values (LREAL)'>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_0'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[0]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_1'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[1]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_2'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[2]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_3'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[3]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_4'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[4]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_5'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[5]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_6'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[6]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='DatalogPattern_Input_VISU_TriggerValue_7'>
+      <plc_var>DatalogPattern.Input.VISU.TriggerValue[7]</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Autolog after reboot of controller (BOOL)'>
+    <assign name='DatalogPattern_Input_VISU_AutoLog'>
+      <plc_var>DatalogPattern.Input.VISU.AutoLog</plc_var>
+      <var_default>FALSE</var_default>
+    </assign>
+  </section>
+  <section name='Samplerate log in ms (REAL)'>
+    <assign name='DatalogPattern_Input_DataLogger_LogInfo_SampleRate'>
+      <plc_var>DatalogPattern.Input.DataLogger.LogInfo.SampleRate</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

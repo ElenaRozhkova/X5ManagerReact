@@ -1,0 +1,171 @@
+Log-file from 2016-06-23
+
+Time         Event
+09:31:51,646 90201.prg rejected
+09:31:53,546 90202.prg rejected
+09:31:55,446 90204.prg rejected
+09:32:22,246 90203.prg rejected
+09:35:32,152 90201.prg imported
+09:35:33,304 90201.prg compiled
+09:35:36,352 90202.prg imported
+09:35:37,504 90202.prg compiled
+09:36:04,053 90203.prg imported
+09:36:05,185 90203.prg compiled
+09:36:06,553 90204.prg rejected
+09:41:13,766 User          / 3 admin
+09:48:51,648 90201.prg imported
+09:48:52,980 90201.prg compiled
+09:48:56,148 90202.prg imported
+09:48:57,460 90202.prg compiled
+09:49:00,648 90203.prg imported
+09:49:01,940 90203.prg compiled
+09:49:04,948 90204.prg imported
+09:49:06,060 90204.prg compiled
+09:54:07,929 90201.dat imported
+09:54:11,229 90202.dat imported
+09:54:14,529 90203.dat imported
+09:54:17,829 90204.dat imported
+09:55:07,330 90202.dat imported
+10:02:52,103 mode_T1       /
+10:02:52,103 Reboot        \
+10:02:52,103 CheckPrg      \ 0
+10:02:52,103 Spray         / 0 admin
+10:06:02,199 90201.prg imported
+10:06:03,551 90201.prg compiled
+10:06:06,699 90202.prg imported
+10:06:08,071 90202.prg compiled
+10:06:11,299 90203.prg imported
+10:06:12,631 90203.prg compiled
+10:06:15,799 90204.prg imported
+10:06:17,111 90204.prg compiled
+10:13:04,044 User          / 3 admin
+11:42:52,883 admin changed Tool98
+11:42:55,203 admin changed Tool98
+11:42:57,683 admin changed Tool98
+12:21:58,166 mode_Auto     /
+12:22:04,942 Servopower    \
+12:22:10,202 mode_T1       /
+12:22:17,951 mode_Auto     /
+12:22:20,783 Servopower    /
+12:22:26,107 CheckPrg      \ 90201
+12:22:31,259 StartPrg      / conv: 0.05mm.
+12:22:31,979 MainPrg       / 90201
+12:22:43,311 StopPrg       /
+12:22:43,331 MainPrg       \ 90201 conv: 0.05mm.
+
+12:22:46,499 mode_T1       /
+12:23:16,028 mode_Auto     /
+12:23:32,545 User          \
+12:23:41,865 User          / 3 admin
+12:23:55,146 Servopower    /
+12:24:14,742 StartPrg      / conv: 0mm.
+12:24:15,454 MainPrg       / 90201
+12:25:41,274 MainPrg       \ 90201 conv: 3001.41mm.
+
+12:25:42,830 Servopower    \
+12:25:43,578 mode_T1       /
+12:26:42,456 CheckPrg      \ 90201
+12:26:44,528 CheckPrg      \ 90201
+12:27:00,028 mode_Auto     /
+12:27:00,524 CheckPrg      \ 90201
+12:27:01,212 CheckPrg      \ 90201
+12:27:09,080 90201.prg compiled
+12:27:09,160 CheckPrg      \ 90201
+12:27:10,445 CheckPrg      \ 90201
+12:27:12,797 StartPrg      / conv: 3035.5mm.
+12:27:13,421 MainPrg       / 90201
+12:27:54,854 MainPrg       \ 90201 conv: 2802.08mm.
+
+12:27:58,282 Servopower    \
+12:28:47,852 CheckPrg      \ 90202
+12:28:49,564 Servopower    /
+12:28:51,776 StartPrg      / conv: 2871.09mm.
+12:28:52,432 MainPrg       / 90202
+12:29:22,721 BreakPrg      / conv: 2042.76mm.
+12:29:43,421 ContinuePrg   / conv: 2111.77mm.
+12:30:24,858 MainPrg       \ 90202 conv: 4874.49mm.
+
+12:30:26,934 Servopower    \
+12:31:29,820 CheckPrg      \ 90203
+12:31:31,368 Servopower    /
+12:31:32,428 StartPrg      / conv: 4943.51mm.
+12:31:33,129 MainPrg       / 90203
+12:32:51,215 MainPrg       \ 90203 conv: 5311.82mm.
+
+12:32:53,291 Servopower    \
+12:35:24,172 CheckPrg      \ 90203
+12:35:27,096 Servopower    /
+12:36:21,600 CheckPrg      \ 90203
+12:36:24,436 CheckPrg      \ 90203
+12:36:26,208 StartPrg      / conv: 5380.84mm.
+12:36:26,913 MainPrg       / 90203
+12:37:21,590 MainPrg       \ 90203 conv: 3712.82mm.
+
+12:37:48,951 CheckPrg      \ 90203
+12:37:52,999 CheckPrg      \ 90203
+12:37:54,315 StartPrg      / conv: 3781.84mm.
+12:37:55,003 MainPrg       / 90203
+12:39:13,517 MainPrg       \ 90203 conv: 5315.1mm.
+
+12:39:33,805 CheckPrg      \ 90204
+12:39:40,457 StartPrg      / conv: 5384.12mm.
+12:39:41,081 MainPrg       / 90204
+12:40:45,315 MainPrg       \ 90204 conv: 4360.08mm.
+
+12:40:47,391 Servopower    \
+12:40:56,840 mode_T1       /
+12:40:59,052 mode_Auto     /
+12:40:59,212 mode_AutoExt  /
+12:41:00,640 mode_Auto     /
+12:41:04,760 Servopower    /
+12:41:06,224 Servopower    \
+12:41:17,104 mode_T1       /
+12:41:19,940 mode_T1       /
+12:41:20,096 mode_Auto     /
+12:41:20,520 Servopower    /
+12:41:23,281 Servopower    \
+12:41:35,161 Servopower    /
+12:41:43,945 Servopower    \
+12:42:08,802 Servopower    /
+12:42:14,874 StartPrg      / conv: 0mm.
+12:42:25,266 Servopower    \
+12:42:41,083 mode_T1       /
+12:42:44,211 mode_Auto     /
+12:42:44,399 mode_Auto     /
+14:11:10,737 mode_T1       /
+14:11:21,582 admin changed Base offset: dz -24.5
+14:41:02,656 admin changed Tool97
+14:41:10,616 admin changed Tool97
+14:41:16,456 admin changed Tool97
+14:41:19,856 admin changed Tool97
+16:21:00,550 mode_T1       /
+16:21:00,550 Reboot        \
+16:21:00,550 CheckPrg      \ 0
+16:21:00,550 Spray         / 0 admin
+16:24:29,837 User          / 3 admin
+16:24:33,877 90201.prg compiled
+16:24:34,917 90202.prg compiled
+16:24:36,037 90203.prg compiled
+16:24:37,077 90204.prg compiled
+16:24:38,117 99899.prg compiled
+16:24:39,157 99900.prg compiled
+16:24:40,197 99909.prg compiled
+16:24:41,237 99910.prg compiled
+16:24:42,317 99911.prg compiled
+16:24:43,317 99912.prg compiled
+16:24:44,357 99914.prg compiled
+16:24:45,397 99915.prg compiled
+16:24:46,438 99916.prg compiled
+16:24:47,478 99919.prg compiled
+16:24:48,478 99920.prg compiled
+16:24:49,478 99923.prg compiled
+16:24:50,518 99924.prg compiled
+16:24:51,518 99930.prg compiled
+16:24:52,558 99931.prg compiled
+16:24:53,598 99932.prg compiled
+16:24:54,638 99933.prg compiled
+16:24:55,678 99934.prg compiled
+16:24:56,718 99980.prg compiled
+16:24:57,798 99990.prg compiled
+16:24:58,878 99991.prg compiled
+19:17:31,239 User          \

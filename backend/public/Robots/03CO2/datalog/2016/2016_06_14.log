@@ -1,0 +1,11 @@
+Log-file from 2016-06-14
+
+Time         Event
+16:56:17,733 User          / 3 admin
+16:57:13,495 User          / 4 b+m service
+16:57:39,896 User          \
+17:36:08,283 User          / 3 admin
+18:31:26,281 mode_T1       /
+18:31:26,281 Reboot        \
+18:31:26,281 CheckPrg      \ 0
+18:31:26,281 Spray         / 0 admin

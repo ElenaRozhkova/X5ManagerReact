@@ -1,0 +1,20 @@
+NameSet1		= set 1
+NameSet2		= set 2
+NameSet3		= set 3
+NameSet4		= set 4
+NameSet5		= set 5
+NameSet6		= set 6
+;-------------------------------------------------------- 
+Code   	= 0 
+Info   	=
+Modify 	= 2012-11-08
+byUser 	=
+Reason 	=
+LastRun	= 2012-11-08 
+Caption	=	Speed		Flow	Pattern	Atom.	Rotat.	Hi-Vot
+Set1	=	900		350	4	4.5	0	0
+Set2	=	900		450	4	4.5	0	0
+Set3	=	1100		500	4	4.5	0	0
+Set4	=	1100		400	4	4.5	0	0
+Set5	=	900		400	4.5	5	0	0
+Set6	=	900		450	4	4.5	0	0

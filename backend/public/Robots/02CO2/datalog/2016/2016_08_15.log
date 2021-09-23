@@ -1,0 +1,7 @@
+Log-file from 2016-08-15
+
+Time         Event
+13:57:31,898 Reboot        \
+13:57:31,898 CheckPrg      \ 0
+13:57:31,898 Spray         / 0 admin
+13:57:36,410 mode_T1       /

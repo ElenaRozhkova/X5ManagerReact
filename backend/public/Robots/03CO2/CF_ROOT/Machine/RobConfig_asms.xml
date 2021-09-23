@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/xsl' href='asms.xsl'?>
+<assignmentsfile filename='RobConfig_asms.xml' changed='2016-07-26-15:53:28'>
+  <section name='Program Configuration'>
+    <assign name='RobConfiguration_Program_AutoTranslate'>
+      <plc_var>RobConfiguration.Program.AutoTranslate</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Playback Configuration'>
+    <assign name='RobConfiguration_Playback_LocalStart'>
+      <plc_var>RobConfiguration.Playback.LocalStart</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Playback_BreakAtDoorOpen'>
+      <plc_var>RobConfiguration.Playback.BreakAtDoorOpen</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Playback_BreakAtGunOff'>
+      <plc_var>RobConfiguration.Playback.BreakAtGunOff</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Playback_LoadColorBeforeMovement'>
+      <plc_var>RobConfiguration.Playback.LoadColorBeforeMovement</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Conveyor Configuration'>
+    <assign name='RobConfiguration_Conveyor_LocalReset'>
+      <plc_var>RobConfiguration.Conveyor.LocalReset</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Conveyor_GapStart'>
+      <plc_var>RobConfiguration.Conveyor.GapStart</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Conveyor_GapSet'>
+      <plc_var>RobConfiguration.Conveyor.GapSet</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Conveyor_EnShiftStart'>
+      <plc_var>RobConfiguration.Conveyor.EnShiftStart</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Conveyor_ShiftStartOffset'>
+      <plc_var>RobConfiguration.Conveyor.ShiftStartOffset</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Purge Unit Configuration'>
+    <assign name='RobConfiguration_PurgeUnit_Type'>
+      <plc_var>RobConfiguration.PurgeUnit.Type</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Simulation-Conveyor Configuration'>
+    <assign name='RobConfiguration_SimConveyor_StopAtPrgBreak'>
+      <plc_var>RobConfiguration.SimConveyor.StopAtPrgBreak</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_SimConveyor_UseConvSpeedFromPrg'>
+      <plc_var>RobConfiguration.SimConveyor.UseConvSpeedFromPrg</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='MP50-Keys Configuration'>
+    <assign name='RobConfiguration_MP50_Keys_Level4SprayPassword'>
+      <plc_var>RobConfiguration.MP50_Keys.Level4SprayPassword</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Additional fan control'>
+    <assign name='RobConfiguration_AdditionalFan_OnAtTemperature'>
+      <plc_var>RobConfiguration.AdditionalFan.OnAtTemperature</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_AdditionalFan_OffAtTemperature'>
+      <plc_var>RobConfiguration.AdditionalFan.OffAtTemperature</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Import configuration'>
+    <assign name='RobConfiguration_Import_AutoImport'>
+      <plc_var>RobConfiguration.Import.AutoImport</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Import_ImportAutoTranslate'>
+      <plc_var>RobConfiguration.Import.ImportAutoTranslate</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_Import_ImportSync'>
+      <plc_var>RobConfiguration.Import.ImportSync</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Sync options'>
+    <assign name='RobConfiguration_Sync_PauseBetweenFiles'>
+      <plc_var>RobConfiguration.Sync.PauseBetweenFiles</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='Robot Type'>
+    <assign name='RobConfiguration_Robot_Type'>
+      <plc_var>RobConfiguration.Robot.Type</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+  <section name='EnergySavingMode timer'>
+    <assign name='RobConfiguration_EnergySavingMode_Automatic'>
+      <plc_var>RobConfiguration.EnergySavingMode.Automatic</plc_var>
+      <var_default>0</var_default>
+    </assign>
+    <assign name='RobConfiguration_EnergySavingMode_Test'>
+      <plc_var>RobConfiguration.EnergySavingMode.Test</plc_var>
+      <var_default>0</var_default>
+    </assign>
+  </section>
+</assignmentsfile>

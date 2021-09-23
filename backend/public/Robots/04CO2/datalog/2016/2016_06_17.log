@@ -1,0 +1,11 @@
+Log-file from 2016-06-17
+
+Time         Event
+08:31:37,723 User          / 3 admin
+08:32:51,566 99901.prg created
+08:33:05,367 99901.prg deleted
+08:33:14,407 User          \
+09:20:31,828 E-Stop        /
+09:20:34,596 Buffer module depleted
+10:03:28,770 mode_T1       /
+10:03:39,239 E-Stop        \

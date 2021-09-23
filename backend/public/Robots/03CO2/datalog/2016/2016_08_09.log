@@ -1,0 +1,12 @@
+Log-file from 2016-08-09
+
+Time         Event
+09:28:24,412 Buffer module depleted
+09:42:11,987 Reboot        \
+09:42:11,987 CheckPrg      \ 0
+09:42:11,987 Spray         / 0 admin
+09:42:16,620 mode_T1       /
+11:43:12,802 E-Stop        /
+11:46:58,875 E-Stop        \
+16:10:02,269 E-Stop        /
+17:58:16,051 E-Stop        \

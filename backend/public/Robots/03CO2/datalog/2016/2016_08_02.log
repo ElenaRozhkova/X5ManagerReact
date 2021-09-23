@@ -1,0 +1,17 @@
+Log-file from 2016-08-02
+
+Time         Event
+17:20:08,468 mode_Auto     /
+17:20:15,936 User          / 3 admin
+17:20:19,376 CheckPrg      \ 99995
+17:20:22,264 StartPrg      / conv: 8371.66mm.
+17:20:23,040 MainPrg       / 99995
+17:21:50,375 MainPrg       \ 99995 conv: 8371.66mm.
+
+17:21:54,459 StartPrg      / conv: 8371.66mm.
+17:21:55,027 MainPrg       / 99995
+17:23:00,818 MainPrg       \ 99995 conv: 8371.66mm.
+
+17:23:03,974 Servopower    \
+17:23:04,586 mode_T1       /
+19:00:11,790 User          \

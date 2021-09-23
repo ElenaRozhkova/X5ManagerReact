@@ -1,0 +1,32 @@
+Log-file from 2016-08-09
+
+Time         Event
+09:33:47,579 E-Stop        /
+09:37:15,207 E-StopP       /
+09:41:43,649 E-StopP       \
+09:41:53,693 E-Stop        \
+09:42:43,399 User          / 3 admin
+11:21:48,657 User          \
+11:42:43,651 mode_T1       /
+11:42:43,799 mode_Auto     /
+11:42:44,131 mode_AutoExt  /
+11:42:44,439 mode_Auto     /
+11:42:44,503 mode_T1       /
+11:42:44,811 mode_T1       /
+11:42:55,239 mode_T1       /
+11:43:02,712 User          / 3 admin
+11:43:11,872 E-StopP       /
+11:43:11,892 E-Stop        /
+11:46:48,064 E-StopP       \
+11:48:42,810 mode_T1       /
+11:48:42,810 Reboot        \
+11:48:42,810 CheckPrg      \ 0
+11:48:42,810 Spray         / 0 admin
+11:49:17,136 mode_T1       /
+11:49:18,916 mode_Auto     /
+11:49:19,984 mode_AutoExt  /
+11:49:20,680 mode_Auto     /
+11:49:20,940 mode_T1       /
+11:49:26,464 mode_T1       /
+16:10:02,388 E-Stop        /
+17:58:16,187 E-Stop        \

@@ -1,0 +1,48 @@
+Log-file from 2016-08-16
+
+Time         Event
+10:24:07,254 20050.prg rejected
+10:27:38,457 User          / 3 admin
+10:31:26,984 CheckPrg      \ -50010
+10:32:26,519 CheckPrg      \ 99980
+10:33:10,801 CheckPrg      \ 99980
+10:34:01,039 StopPrg       /
+10:34:03,803 mode_T1       /
+10:35:32,287 CheckPrg      \ 99980
+10:36:30,962 CheckPrg      \ -50010
+10:37:08,164 StopPrg       /
+10:37:10,816 mode_T2       /
+10:38:08,411 CheckPrg      \ -50010
+10:39:16,702 CheckPrg      \ 50010
+10:39:17,366 CheckPrg      \ 50010
+10:39:56,584 CheckPrg      \ 50010
+10:40:35,866 CheckPrg      \ 50010
+10:41:42,937 CheckPrg      \ -40000
+10:41:58,982 CheckPrg      \ -40000
+10:42:42,148 CheckPrg      \ 50010
+10:46:32,871 CheckPrg      \ -40000
+10:47:14,853 CheckPrg      \ 0
+10:47:16,025 mode_T2       /
+10:47:55,415 CheckPrg      \ 40000
+10:48:20,256 CheckPrg      \ 40000
+10:48:23,893 CheckPrg      \ 40000
+10:53:59,380 CheckPrg      \ 50010
+10:54:01,228 mode_T2       /
+10:54:47,938 CheckPrg      \ 50010
+10:55:19,067 StartPrg      / conv: 763mm.
+10:55:19,144 BreakPrg      / conv: 763.01mm.
+10:55:22,504 ContinuePrg   / conv: 763.03mm.
+10:55:23,132 MainPrg       / 50010
+10:55:24,684 BreakPrg      / conv: 777.21mm.
+10:55:29,204 ContinuePrg   / conv: 777.96mm.
+10:56:46,672 MainPrg       \ 50010 conv: 3407.22mm.
+
+10:57:02,544 StartPrg      / conv: 3424.65mm.
+10:57:02,620 BreakPrg      / conv: 763.01mm.
+10:57:04,069 ContinuePrg   / conv: 763.03mm.
+10:57:04,549 MainPrg       / 50010
+10:57:43,802 MainPrg       \ 50010 conv: 3409.31mm.
+
+11:03:24,802 mode_T1       /
+11:03:56,739 CheckPrg      \ -50010
+12:57:27,593 User          \

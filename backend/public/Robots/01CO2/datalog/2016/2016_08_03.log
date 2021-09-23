@@ -1,0 +1,102 @@
+Log-file from 2016-08-03
+
+Time         Event
+09:01:15,022 101.prg rejected
+09:01:42,023 101.cs imported
+09:03:57,829 101.prg imported
+09:03:59,162 101.prg compiled
+09:04:17,402 User          / 3 admin
+09:04:25,543 mode_Auto     /
+09:04:25,763 mode_Auto     /
+09:04:26,655 mode_T1       /
+09:04:29,467 mode_T2       /
+09:04:34,507 CheckPrg      \ -101
+09:04:44,312 StartPrg ignored, invalid number.
+09:04:51,312 StartPrg ignored, invalid number.
+09:04:53,516 StartPrg ignored, invalid number.
+09:04:56,992 CheckPrg      \ 101
+09:04:57,368 StartPrg      / conv: 5534mm.
+09:04:57,444 BreakPrg      / conv: 983.01mm.
+09:04:58,572 ContinuePrg   / conv: 983.03mm.
+09:04:59,080 MainPrg       / 101
+09:04:59,140 LdCs          \ 101
+09:05:00,093 BreakPrg      / conv: 1017.68mm.
+09:05:08,633 ContinuePrg   / conv: 1034.97mm.
+09:05:09,593 BreakPrg      / conv: 1050.39mm.
+09:05:09,717 BreakPrg      / conv: 1054.23mm.
+09:05:13,297 StopPrg       /
+09:05:13,321 MainPrg       \ 101 conv: 1066.46mm.
+
+09:05:23,610 StartPrg      / conv: 1066.46mm.
+09:05:23,686 BreakPrg      / conv: 983.01mm.
+09:05:45,363 StopPrg       /
+09:05:45,431 mode_T1       /
+09:05:53,015 mode_Auto     /
+09:05:53,519 mode_T1       /
+09:05:56,291 mode_T2       /
+09:06:00,471 StartPrg      / conv: 0mm.
+09:06:00,543 BreakPrg      / conv: 0.01mm.
+09:06:00,543 StopPrg       /
+09:06:05,776 StartPrg      / conv: 0.05mm.
+09:06:05,848 BreakPrg      / conv: 0.01mm.
+09:06:06,816 ContinuePrg   / conv: 0.03mm.
+09:06:07,232 MainPrg       / 101
+09:06:07,296 LdCs          \ 101
+09:06:18,316 BreakPrg      / conv: 375.66mm.
+09:06:21,497 ContinuePrg   / conv: 393.09mm.
+09:07:08,559 BreakPrg      / conv: 3540.11mm.
+09:07:16,259 ContinuePrg   / conv: 3609.13mm.
+09:07:33,820 BreakPrg      / conv: 4191.81mm.
+09:07:34,276 BreakPrg      / conv: 4203.93mm.
+09:07:35,104 StopPrg       /
+09:07:35,128 MainPrg       \ 101 conv: 4209.1mm.
+
+09:07:52,713 CheckPrg      \ 101
+09:07:54,857 StartPrg      / conv: 4209.1mm.
+09:07:54,933 BreakPrg      / conv: 0.01mm.
+09:07:57,001 ContinuePrg   / conv: 0.03mm.
+09:07:57,697 MainPrg       / 101
+09:07:57,757 LdCs          \ 101
+09:08:00,781 BreakPrg      / conv: 25.11mm.
+09:08:03,901 ContinuePrg   / conv: 25.84mm.
+09:08:04,701 BreakPrg      / conv: 36.61mm.
+09:08:05,541 ContinuePrg   / conv: 47.7mm.
+09:08:09,702 BreakPrg      / conv: 172.55mm.
+09:08:13,342 ContinuePrg   / conv: 189.84mm.
+09:09:14,293 MainPrg       \ 101 conv: 4285.87mm.
+
+09:09:29,073 CheckPrg      \ 101
+09:09:34,750 StartPrg      / conv: 4354.89mm.
+09:09:34,826 BreakPrg      / conv: 0.01mm.
+09:09:35,726 ContinuePrg   / conv: 0.03mm.
+09:09:36,118 MainPrg       / 101
+09:09:36,178 LdCs          \ 101
+09:10:25,728 MainPrg       \ 101 conv: 3350.42mm.
+
+09:10:32,209 mode_T1       /
+09:10:32,601 mode_Auto     /
+09:17:51,454 mode_T1       /
+09:17:53,078 mode_T2       /
+09:17:55,602 mode_T1       /
+09:17:55,762 mode_T1       /
+10:13:00,689 42040.prg imported
+10:13:01,841 42040.prg compiled
+10:56:56,809 User          \
+11:05:48,057 CheckPrg      \ 42040
+11:05:54,285 mode_T2       /
+11:06:01,089 User          / 3 admin
+11:06:19,878 StartPrg      / conv: 1118mm.
+11:06:19,954 BreakPrg      / conv: 1118.01mm.
+11:06:24,058 ContinuePrg   / conv: 1118.04mm.
+11:06:24,475 MainPrg       / 42040
+11:07:31,450 MainPrg       \ 42040 conv: 3403.17mm.
+
+11:08:01,771 CheckPrg      \ 42040
+11:08:04,967 StartPrg      / conv: 3420.59mm.
+11:08:05,039 BreakPrg      / conv: 1118.01mm.
+11:08:13,844 ContinuePrg   / conv: 1118.04mm.
+11:08:14,236 MainPrg       / 42040
+11:08:47,653 MainPrg       \ 42040 conv: 3359.23mm.
+
+11:09:01,910 mode_T1       /
+12:47:48,215 User          \

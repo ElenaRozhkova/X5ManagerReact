@@ -1,0 +1,209 @@
+Log-file from 2016-07-26
+
+Time         Event
+10:36:30,819 User          / 3 admin
+10:36:52,020 90101.prg copied to code 101.prg
+10:36:53,340 101.prg compiled
+10:43:45,807 CheckPrg      \ 101
+10:43:46,459 CheckPrg      \ 101
+10:43:48,235 mode_T2       /
+10:44:01,992 mode_T1       /
+10:44:07,540 mode_T2       /
+10:44:10,576 StartPrg      / conv: 0mm.
+10:44:10,648 BreakPrg      / conv: 0.01mm.
+10:44:14,268 ContinuePrg   / conv: 0.03mm.
+10:44:14,736 MainPrg       / 101
+10:44:15,849 BreakPrg      / conv: 36.59mm.
+10:44:21,249 BreakPrg      / conv: 53.88mm.
+10:44:21,993 ContinuePrg   / conv: 53.88mm.
+10:44:28,189 BreakPrg      / conv: 408.53mm.
+10:44:28,269 BreakPrg      / conv: 413.91mm.
+10:44:29,245 StopPrg       /
+10:44:29,269 MainPrg       \ 101 conv: 462.77mm.
+
+10:45:02,619 CheckPrg      \ 101
+10:45:04,783 CheckPrg      \ 101
+10:45:10,811 StartPrg      / conv: 477.55mm.
+10:45:10,883 BreakPrg      / conv: 0.01mm.
+10:45:11,591 ContinuePrg   / conv: 0.03mm.
+10:45:12,011 MainPrg       / 101
+10:45:23,576 BreakPrg      / conv: 749.92mm.
+10:45:23,632 BreakPrg      / conv: 753.72mm.
+10:45:24,488 StopPrg       /
+10:45:24,512 MainPrg       \ 101 conv: 799.24mm.
+
+10:46:11,006 CheckPrg      \ 101
+10:46:11,922 CheckPrg      \ 101
+10:46:31,555 StartPrg      / conv: 818.94mm.
+10:46:31,631 BreakPrg      / conv: 0.01mm.
+10:46:32,655 ContinuePrg   / conv: 0.03mm.
+10:46:33,143 MainPrg       / 101
+10:46:45,156 BreakPrg      / conv: 409.83mm.
+10:46:47,316 ContinuePrg   / conv: 427.26mm.
+10:46:55,216 BreakPrg      / conv: 679.75mm.
+10:46:58,396 ContinuePrg   / conv: 697.03mm.
+10:47:00,217 BreakPrg      / conv: 753mm.
+10:47:02,357 BreakPrg      / conv: 809.71mm.
+10:47:02,697 ContinuePrg   / conv: 809.71mm.
+10:47:47,543 MainPrg       \ 101 conv: 3805.31mm.
+
+10:48:03,351 CheckPrg      \ 101
+10:48:04,892 CheckPrg      \ 101
+10:48:06,920 mode_T1       /
+10:48:07,092 mode_Auto     /
+10:48:08,120 mode_AutoExt  /
+10:48:08,188 Servopower    \
+10:52:55,938 Servopower    /
+10:52:56,054 CheckPrg      / 99900
+10:52:56,106 CheckPrg      \ 99900
+10:53:07,154 CheckPrg      / 101
+10:53:07,270 CheckPrg      \ 101
+10:53:23,555 CheckPrg      / 99900
+10:53:23,603 CheckPrg      \ 99900
+10:53:24,355 CheckPrg      / 99900
+10:53:24,403 CheckPrg      \ 99900
+10:53:31,703 CheckPrg      / 101
+10:53:31,823 CheckPrg      \ 101
+10:54:14,405 StartPrg_ext  /
+10:54:14,405 StartPrg ignored, invalid number.
+10:54:14,405 ConvReset     / conv: 1.1109e+06mm.
+10:54:14,989 MainPrg       / 101
+10:55:07,812 mode_Auto     /
+10:55:08,052 mode_T1       /
+10:55:08,052 MainPrg       \ 101 conv: 3279.02mm.
+
+10:55:08,056 StopPrg       /
+10:56:39,644 mode_Auto     /
+10:56:39,808 mode_AutoExt  /
+10:56:39,904 CheckPrg      / 101
+10:56:40,024 CheckPrg      \ 101
+10:56:40,108 mode_Auto     /
+10:56:40,216 mode_T1       /
+10:58:23,013 mode_T1       /
+10:58:23,329 mode_Auto     /
+10:58:23,653 mode_AutoExt  /
+10:58:24,101 mode_Auto     /
+10:58:24,201 mode_T1       /
+11:01:01,320 mode_T1       /
+11:01:01,320 Reboot        \
+11:01:01,320 CheckPrg      \ 0
+11:01:01,320 Spray         / 0 admin
+11:01:40,642 User          / 3 admin
+11:08:44,574 mode_Auto     /
+11:08:45,010 mode_AutoExt  /
+11:09:00,163 mode_Auto     /
+11:09:00,363 mode_T1       /
+11:09:05,031 mode_Auto     /
+11:09:05,427 mode_AutoExt  /
+11:09:28,321 mode_Auto     /
+11:09:28,441 mode_T1       /
+11:09:28,717 mode_T1       /
+11:09:29,201 mode_Auto     /
+11:09:29,393 mode_AutoExt  /
+11:10:35,484 mode_Auto     /
+11:10:35,580 mode_T1       /
+11:10:35,788 mode_T1       /
+11:10:37,192 mode_T1       /
+11:10:37,428 mode_Auto     /
+11:10:37,684 mode_AutoExt  /
+11:12:31,545 mode_T1       /
+11:12:31,545 Reboot        \
+11:12:31,545 CheckPrg      \ 0
+11:12:31,545 Spray         / 0 admin
+11:13:23,516 mode_Auto     /
+11:13:23,620 mode_AutoExt  /
+11:13:24,060 Servopower    /
+11:17:46,880 Servopower    \
+11:17:49,496 Servopower    /
+11:18:34,834 Servopower    \
+11:18:41,891 Servopower    /
+11:18:42,787 Servopower    \
+11:18:44,555 Servopower    /
+11:18:51,579 Servopower    \
+11:18:52,651 Servopower    /
+11:19:56,094 mode_Auto     /
+11:19:56,238 mode_T1       /
+11:19:58,394 mode_T1       /
+11:19:58,818 mode_Auto     /
+11:19:59,298 mode_AutoExt  /
+11:20:33,032 Servopower    \
+11:20:34,552 Servopower    /
+11:21:47,736 mode_Auto     /
+11:21:47,856 mode_T1       /
+12:10:16,905 mode_Auto     /
+12:14:40,983 Reboot        \
+12:14:40,983 CheckPrg      \ 0
+12:14:40,983 Spray         / 0 admin
+12:14:45,703 mode_T1       /
+12:15:53,971 mode_Auto     /
+12:15:54,563 mode_AutoExt  /
+12:15:54,995 Servopower    /
+12:16:16,336 mode_Auto     /
+12:16:16,388 mode_T1       /
+12:42:33,853 User          / 4 b+m service
+14:00:34,361 mode_Auto     /
+14:00:34,677 mode_AutoExt  /
+14:00:45,813 Servopower    /
+14:00:45,933 CheckPrg      / 99900
+14:00:45,981 CheckPrg      \ 99900
+14:01:17,631 CheckPrg      / 102
+14:01:17,683 CheckPrg      \ -102
+14:01:45,732 CheckPrg      / 101
+14:01:45,844 CheckPrg      \ 101
+14:02:45,663 mode_Auto     /
+14:02:45,787 mode_T1       /
+14:17:40,564 mode_Auto     /
+14:17:41,352 mode_AutoExt  /
+14:17:41,448 CheckPrg      / 101
+14:17:41,496 CheckPrg      \ 101
+14:18:24,398 AckError_ext  /
+
+14:19:03,796 StartPrg_ext  /
+14:19:03,796 StartPrg ignored, invalid number.
+14:19:03,796 ConvReset     / conv: 0mm.
+14:19:04,548 MainPrg       / 101
+14:19:56,507 mode_Auto     /
+14:19:56,875 mode_T1       /
+14:19:56,875 MainPrg       \ 101 conv: 2828.44mm.
+
+14:19:56,879 StopPrg       /
+14:20:09,035 b+m service changed conveyor settings: entered or calculated new factor 39194
+14:26:01,893 mode_Auto     /
+14:26:02,537 mode_AutoExt  /
+14:26:02,661 CheckPrg      / 101
+14:26:02,713 CheckPrg      \ 101
+14:26:08,666 AckError_ext  /
+
+14:26:48,563 AckError_ext  /
+
+14:27:00,264 StartPrg_ext  /
+14:27:00,264 StartPrg ignored, invalid number.
+14:27:00,264 ConvReset     / conv: 0mm.
+14:27:00,856 MainPrg       / 101
+14:27:55,615 mode_Auto     /
+14:27:55,751 mode_T1       /
+14:27:55,751 MainPrg       \ 101 conv: 2820.51mm.
+
+14:27:55,755 StopPrg       /
+15:17:13,395 mode_Auto     /
+15:17:14,291 mode_T1       /
+15:21:13,005 StopPrg       /
+15:29:56,134 99919.prg imported
+15:29:57,526 99919.prg compiled
+15:34:52,854 E-Stop        /
+15:35:20,936 E-Stop        \
+15:35:54,273 mode_T1       /
+15:37:37,902 StopPrg       /
+15:39:58,037 b+m service changed on axis1 negativ software limitation: -101°
+15:40:00,277 b+m service changed on axis1 positiv software limitation: 101°
+15:44:37,109 E-Stop        /
+15:46:12,737 E-Stop        \
+15:48:57,261 mode_Auto     /
+15:50:16,866 mode_T1       /
+15:50:16,866 Reboot        \
+15:50:16,866 CheckPrg      \ 0
+15:50:16,866 Spray         / 0 admin
+15:58:32,410 User          / 3 admin
+16:48:31,951 E-Stop        /
+16:50:59,294 E-Stop        \
+18:08:02,495 User          \

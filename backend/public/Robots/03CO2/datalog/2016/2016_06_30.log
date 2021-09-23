@@ -1,0 +1,57 @@
+Log-file from 2016-06-30
+
+Time         Event
+15:27:38,567 20130.prg imported
+15:27:39,759 20130.prg compiled
+15:37:55,547 User          / 3 admin
+15:38:12,563 CheckPrg      \ 20130
+15:38:13,179 CheckPrg      \ 20130
+15:38:31,020 mode_T2       /
+15:38:40,256 StartPrg      / conv: 0mm.
+15:38:40,276 BreakPrg      / conv: 0mm.
+15:38:42,577 ContinuePrg   / conv: 0mm.
+15:38:43,217 MainPrg       / 20130
+15:38:44,657 BreakPrg      / conv: 0mm.
+15:38:48,297 ContinuePrg   / conv: 0mm.
+15:39:04,378 MainPrg       \ 20130 conv: 0mm.
+
+15:39:25,346 mode_T1       /
+15:39:45,547 StopPrg       /
+15:39:48,831 mode_T2       /
+15:39:57,819 StartPrg      / conv: 0mm.
+15:39:57,912 BreakPrg      / conv: 0.01mm.
+15:40:09,072 StartPrg      / conv: 0.03mm.
+15:40:09,144 BreakPrg      / conv: 0.01mm.
+15:40:11,060 ContinuePrg   / conv: 0.03mm.
+15:40:11,508 MainPrg       / 20130
+15:40:11,836 StopPrg       /
+15:40:11,836 MainPrg       \ 20130 conv: 10.06mm.
+
+15:40:30,805 mode_T1       /
+15:40:34,225 StopPrg       /
+15:41:30,139 mode_T2       /
+15:41:38,876 StartPrg      / conv: 20.61mm.
+15:41:38,948 BreakPrg      / conv: 0.01mm.
+15:41:40,404 ContinuePrg   / conv: 0.03mm.
+15:41:41,032 MainPrg       / 20130
+15:41:43,924 BreakPrg      / conv: 23.36mm.
+15:41:47,344 ContinuePrg   / conv: 24.09mm.
+15:43:18,773 MainPrg       \ 20130 conv: 3131.68mm.
+
+15:43:23,858 StartPrg      / conv: 3149.11mm.
+15:43:23,930 BreakPrg      / conv: 0.01mm.
+15:43:25,610 ContinuePrg   / conv: 0.03mm.
+15:43:25,998 MainPrg       / 20130
+15:44:11,976 MainPrg       \ 20130 conv: 3099.5mm.
+
+15:44:20,024 mode_T1       /
+15:44:59,757 mode_T2       /
+15:45:08,602 StartPrg      / conv: 3168.52mm.
+15:45:08,678 BreakPrg      / conv: 0.01mm.
+15:45:11,674 ContinuePrg   / conv: 0.03mm.
+15:45:12,162 MainPrg       / 20130
+15:46:12,980 MainPrg       \ 20130 conv: 3102.92mm.
+
+15:46:19,065 mode_T1       /
+16:53:03,181 admin changed Base offset: dz -19
+18:33:13,798 User          \

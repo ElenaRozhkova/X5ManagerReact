@@ -1,0 +1,316 @@
+Log-file from 2016-07-12
+
+Time         Event
+08:51:17,571 E-Stop        /
+12:28:12,468 90101.prg imported
+12:28:13,900 90101.prg compiled
+12:28:17,068 90102.prg imported
+12:28:18,420 90102.prg compiled
+12:28:21,568 90103.prg imported
+12:28:22,860 90103.prg compiled
+12:28:26,069 90104.prg imported
+12:28:27,341 90104.prg compiled
+13:48:47,572 E-Stop        \
+13:49:54,803 mode_Auto     /
+13:49:59,375 mode_T1       /
+13:49:59,507 mode_T1       /
+13:50:01,596 mode_T2       /
+13:50:05,936 User          / 3 admin
+13:50:11,148 CheckPrg      \ 99980
+13:50:23,349 mode_T1       /
+13:50:51,458 admin changed Base offset: dz -6.5
+14:28:05,441 mode_Auto     /
+14:28:06,005 mode_AutoExt  /
+14:28:06,077 Servopower    \
+14:28:08,389 mode_Auto     /
+14:28:08,589 mode_T1       /
+14:28:25,194 mode_Auto     /
+14:28:26,250 mode_AutoExt  /
+14:28:26,318 Servopower    \
+14:28:29,770 mode_Auto     /
+14:28:31,286 Servopower    /
+14:28:40,287 mode_AutoExt  /
+14:28:40,379 CheckPrg      / 99900
+14:28:40,499 CheckPrg      \ 99900
+14:29:27,529 AckError_ext  /
+
+14:29:47,182 AckError_ext  /
+
+14:29:48,830 AckError_ext  /
+
+14:30:21,032 AckError_ext  /
+
+14:30:25,380 AckError_ext  /
+
+14:30:27,532 AckError_ext  /
+
+14:31:07,482 AckError_ext  /
+
+14:54:55,517 mode_Auto     /
+14:54:55,629 mode_T1       /
+14:55:15,910 mode_AutoExt  /
+14:55:16,002 CheckPrg      / 99900
+14:55:16,054 CheckPrg      \ 99900
+14:55:16,642 mode_T1       /
+15:01:00,759 E-Stop        /
+15:02:48,513 E-Stop        /
+15:02:48,513 Reboot        \
+15:02:48,513 CheckPrg      \ 0
+15:02:48,513 Spray         / 0 admin
+15:02:53,181 mode_T1       /
+15:03:27,891 E-Stop        \
+15:05:31,641 mode_Auto     /
+15:05:33,469 mode_AutoExt  /
+15:06:01,714 mode_T1       /
+15:06:02,255 mode_Auto     /
+15:06:03,071 mode_AutoExt  /
+15:08:05,924 AckError_ext  /
+
+15:08:14,471 CheckPrg      / 99900
+15:08:14,520 CheckPrg      \ 99900
+15:08:19,543 CheckPrg      / 90102
+15:08:19,667 CheckPrg      \ 90102
+15:08:25,395 AckError_ext  /
+
+15:09:00,845 StartPrg_ext  /
+15:09:00,845 StartPrg ignored, invalid number.
+15:09:00,845 ConvReset     / conv: 0mm.
+15:09:01,417 MainPrg       / 90102
+15:10:12,052 MainPrg       \ 90102 conv: 4569.2mm.
+
+15:10:13,600 mode_Auto     /
+15:10:13,852 mode_T1       /
+15:16:31,977 mode_AutoExt  /
+15:16:32,073 CheckPrg      / 90102
+15:16:32,121 CheckPrg      \ 90102
+15:16:37,573 AckError_ext  /
+
+15:17:01,574 StartPrg_ext  /
+15:17:01,574 StartPrg ignored, invalid number.
+15:17:01,574 ConvReset     / conv: 0mm.
+15:17:02,206 MainPrg       / 90102
+15:18:12,726 MainPrg       \ 90102 conv: 4554.57mm.
+
+15:18:24,886 mode_Auto     /
+15:18:25,014 mode_T1       /
+15:18:37,363 User          / 3 admin
+15:18:43,083 admin changed conveyor settings: entered or calculated new factor 39147
+15:20:59,246 mode_AutoExt  /
+15:20:59,378 CheckPrg      / 90102
+15:20:59,430 CheckPrg      \ 90102
+15:21:03,830 AckError_ext  /
+
+15:21:21,979 StartPrg_ext  /
+15:21:21,979 StartPrg ignored, invalid number.
+15:21:21,979 ConvReset     / conv: 0mm.
+15:21:22,611 MainPrg       / 90102
+15:21:54,488 mode_T1       /
+15:21:54,488 MainPrg       \ 90102 conv: 781.17mm.
+
+15:21:54,492 StopPrg       /
+15:22:45,071 mode_Auto     /
+15:22:45,171 mode_AutoExt  /
+15:22:45,283 CheckPrg      / 90102
+15:22:45,331 CheckPrg      \ 90102
+15:22:50,283 AckError_ext  /
+
+15:23:16,732 StartPrg_ext  /
+15:23:16,732 StartPrg ignored, invalid number.
+15:23:16,732 ConvReset     / conv: 3mm.
+15:23:17,320 MainPrg       / 90102
+15:24:27,711 MainPrg       \ 90102 conv: 4563.28mm.
+
+15:24:40,895 mode_T1       /
+15:28:01,049 mode_Auto     /
+15:28:01,193 mode_AutoExt  /
+15:28:01,301 CheckPrg      / 90102
+15:28:01,353 CheckPrg      \ 90102
+15:28:06,553 AckError_ext  /
+
+15:28:28,750 StartPrg_ext  /
+15:28:28,750 StartPrg ignored, invalid number.
+15:28:28,750 ConvReset     / conv: 0mm.
+15:28:29,390 MainPrg       / 90102
+15:29:39,694 MainPrg       \ 90102 conv: 4600.27mm.
+
+15:30:05,707 mode_T1       /
+15:30:05,835 mode_T1       /
+15:30:47,625 mode_AutoExt  /
+15:30:47,757 CheckPrg      / 90102
+15:30:47,805 CheckPrg      \ 90102
+15:30:52,205 AckError_ext  /
+
+15:31:17,106 StartPrg_ext  /
+15:31:17,106 StartPrg ignored, invalid number.
+15:31:17,106 ConvReset     / conv: 0mm.
+15:31:17,695 MainPrg       / 90102
+15:32:28,078 MainPrg       \ 90102 conv: 4686.62mm.
+
+15:33:37,689 mode_Auto     /
+15:33:37,765 mode_T1       /
+15:34:58,207 admin changed Base offset: dy 1
+15:35:03,239 mode_AutoExt  /
+15:35:03,671 Servopower    /
+15:35:03,771 CheckPrg      / 90102
+15:35:03,823 CheckPrg      \ 90102
+15:35:08,624 AckError_ext  /
+
+15:35:29,973 StartPrg_ext  /
+15:35:29,973 StartPrg ignored, invalid number.
+15:35:29,973 ConvReset     / conv: 0mm.
+15:35:30,577 MainPrg       / 90102
+15:36:41,008 MainPrg       \ 90102 conv: 4555.26mm.
+
+15:36:56,597 mode_Auto     /
+15:36:56,865 mode_T1       /
+15:38:55,619 admin changed conveyor settings: entered or calculated new factor 40234
+15:39:40,981 admin changed conveyor settings: entered or calculated new factor 39250
+15:39:46,821 admin changed conveyor settings: entered or calculated new factor 39234
+15:39:58,862 admin changed conveyor settings: entered or calculated new factor 39231
+15:40:08,398 mode_Auto     /
+15:40:08,558 mode_AutoExt  /
+15:40:08,682 CheckPrg      / 90102
+15:40:08,730 CheckPrg      \ 90102
+15:40:31,831 StartPrg_ext  /
+15:40:31,831 StartPrg ignored, invalid number.
+15:40:31,831 ConvReset     / conv: 0mm.
+15:40:32,387 MainPrg       / 90102
+15:41:43,023 MainPrg       \ 90102 conv: 4553.25mm.
+
+15:41:45,631 mode_Auto     /
+15:41:45,879 mode_T1       /
+15:41:55,707 admin changed conveyor settings: entered or calculated new factor 39102
+15:42:19,860 mode_Auto     /
+15:42:20,185 mode_AutoExt  /
+15:42:20,285 CheckPrg      / 90102
+15:42:20,337 CheckPrg      \ 90102
+15:42:28,837 AckError_ext  /
+
+15:42:43,786 StartPrg_ext  /
+15:42:43,786 StartPrg ignored, invalid number.
+15:42:43,786 ConvReset     / conv: 0mm.
+15:42:44,398 MainPrg       / 90102
+15:43:54,685 MainPrg       \ 90102 conv: 4577.75mm.
+
+15:43:56,557 mode_Auto     /
+15:43:56,689 mode_T1       /
+15:44:23,354 admin changed conveyor settings: entered or calculated new factor 39128
+15:45:41,350 mode_Auto     /
+15:45:41,454 mode_AutoExt  /
+15:45:41,590 CheckPrg      / 90102
+15:45:41,642 CheckPrg      \ 90102
+15:45:52,802 AckError_ext  /
+
+15:46:10,051 StartPrg_ext  /
+15:46:10,051 StartPrg ignored, invalid number.
+15:46:10,051 ConvReset     / conv: 0mm.
+15:46:10,659 MainPrg       / 90102
+15:47:20,990 MainPrg       \ 90102 conv: 4565.91mm.
+
+15:47:58,484 mode_Auto     /
+15:47:58,536 mode_T1       /
+15:48:16,525 admin changed conveyor settings: entered or calculated new factor 39137
+15:49:00,007 admin changed Base offset: dy 2
+15:50:22,451 mode_Auto     /
+15:50:22,711 mode_AutoExt  /
+15:50:22,807 CheckPrg      / 90102
+15:50:22,859 CheckPrg      \ 90102
+15:50:30,507 AckError_ext  /
+
+15:50:36,396 mode_T1       /
+15:50:46,132 mode_AutoExt  /
+15:50:46,260 CheckPrg      / 90102
+15:50:46,308 CheckPrg      \ 90102
+15:50:53,108 AckError_ext  /
+
+15:50:59,961 StartPrg_ext  /
+15:50:59,961 StartPrg ignored, invalid number.
+15:50:59,961 ConvReset     / conv: 0mm.
+15:51:00,681 MainPrg       / 90102
+15:52:10,908 MainPrg       \ 90102 conv: 4588.09mm.
+
+15:52:14,408 mode_Auto     /
+15:52:14,572 mode_T1       /
+15:52:42,458 admin changed conveyor settings: entered or calculated new factor 39171
+15:53:34,640 mode_Auto     /
+15:53:34,864 mode_AutoExt  /
+15:53:34,964 CheckPrg      / 90102
+15:53:35,016 CheckPrg      \ 90102
+15:53:38,516 AckError_ext  /
+
+15:53:47,513 StartPrg_ext  /
+15:53:47,513 StartPrg ignored, invalid number.
+15:53:47,513 ConvReset     / conv: 0mm.
+15:53:48,081 MainPrg       / 90102
+15:54:58,516 MainPrg       \ 90102 conv: 4597.95mm.
+
+15:54:59,420 mode_Auto     /
+15:54:59,584 mode_T1       /
+15:54:59,748 mode_T1       /
+15:55:45,546 admin changed conveyor settings: entered or calculated new factor 39154
+15:56:45,349 mode_Auto     /
+15:56:45,625 mode_AutoExt  /
+15:56:45,721 CheckPrg      / 90102
+15:56:45,769 CheckPrg      \ 90102
+15:56:49,315 AckError_ext  /
+
+15:56:54,628 StartPrg_ext  /
+15:56:54,628 StartPrg ignored, invalid number.
+15:56:54,628 ConvReset     / conv: 0mm.
+15:56:55,256 MainPrg       / 90102
+15:58:05,683 MainPrg       \ 90102 conv: 4558.14mm.
+
+15:58:06,435 mode_Auto     /
+15:58:06,651 mode_T1       /
+15:58:48,277 mode_Auto     /
+15:58:48,653 mode_AutoExt  /
+15:58:48,781 CheckPrg      / 90102
+15:58:48,833 CheckPrg      \ 90102
+15:58:52,181 AckError_ext  /
+
+15:58:59,834 CheckPrg      / 90101
+15:58:59,950 CheckPrg      \ 90101
+15:59:12,030 StartPrg_ext  /
+15:59:12,030 StartPrg ignored, invalid number.
+15:59:12,030 ConvReset     / conv: 0mm.
+15:59:12,662 MainPrg       / 90101
+16:00:14,889 MainPrg       \ 90101 conv: 4165.08mm.
+
+16:00:15,457 mode_T1       /
+16:00:59,484 mode_Auto     /
+16:00:59,728 mode_AutoExt  /
+16:00:59,836 CheckPrg      / 90101
+16:00:59,884 CheckPrg      \ 90101
+16:01:06,984 CheckPrg      / 90103
+16:01:07,104 CheckPrg      \ 90103
+16:01:15,336 AckError_ext  /
+
+16:01:24,085 StartPrg_ext  /
+16:01:24,085 StartPrg ignored, invalid number.
+16:01:24,085 ConvReset     / conv: 0mm.
+16:01:24,837 MainPrg       / 90103
+16:02:27,416 MainPrg       \ 90103 conv: 4135.6mm.
+
+16:02:28,620 mode_Auto     /
+16:02:28,888 mode_T1       /
+16:03:10,154 mode_Auto     /
+16:03:10,470 mode_AutoExt  /
+16:03:10,590 CheckPrg      / 90103
+16:03:10,638 CheckPrg      \ 90103
+16:03:14,490 AckError_ext  /
+
+16:03:21,990 CheckPrg      / 90104
+16:03:22,106 CheckPrg      \ 90104
+16:03:32,339 StartPrg_ext  /
+16:03:32,339 StartPrg ignored, invalid number.
+16:03:32,339 ConvReset     / conv: 0mm.
+16:03:32,975 MainPrg       / 90104
+16:04:36,622 MainPrg       \ 90104 conv: 4062.58mm.
+
+16:04:37,078 mode_Auto     /
+16:04:37,226 mode_T1       /
+16:27:37,193 E-Stop        /
+16:28:36,124 E-Stop        \
+16:44:23,202 E-Stop        /
+17:17:55,552 E-Stop        \
+19:14:10,463 User          \
